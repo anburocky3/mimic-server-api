@@ -233,7 +233,7 @@ function findNestedResources(example) {
 }
 
 // Main execution
-const dbPath = path.join(__dirname, "..", "src", "data", "db.json");
+const dbPath = path.join(__dirname, "..", "data", "db.json");
 const outputPath = path.join(__dirname, "..", "postman_collection.json");
 
 try {

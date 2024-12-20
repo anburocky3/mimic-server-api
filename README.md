@@ -45,7 +45,7 @@ The following endpoints are available:
 
 ## Deployment
 
-The API is deployed at: [https://your-deployment-url.com](https://your-deployment-url.com)
+The API is deployed at: [https://mimic-server-api.vercel.app/](https://mimic-server-api.vercel.app/)
 
 ## Contributing
 

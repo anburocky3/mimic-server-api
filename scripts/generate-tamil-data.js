@@ -32,8 +32,9 @@ const tamilNames = {
     "Ganesh",
     "Hari",
     "Inba",
-    "Jegan",
+    "Jenika",
     "Kannan",
+    "Sowmiya",
   ],
   lastNames: [
     "Murugan",
@@ -71,6 +72,7 @@ const tamilCities = [
   "Thanjavur",
   "Vellore",
   "Erode",
+  "Neyveli",
 ];
 
 // Tech-related project names
@@ -227,7 +229,7 @@ function generateDatabase() {
 
 // Generate and save the database
 const db = generateDatabase();
-const outputPath = path.join(__dirname, "..", "src", "data", "db.json");
+const outputPath = path.join(__dirname, "..", "data", "db.json");
 
 fs.writeFileSync(outputPath, JSON.stringify(db, null, 2));
 console.log(

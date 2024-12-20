@@ -1,6 +1,6 @@
 {
   "info": {
-    "name": "Mimic Server API",
+    "name": "JSON Server API",
     "description": "This is a simple API server that mimics the behavior of a real API server. It is useful for testing and development purposes.",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
@@ -104,7 +104,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Rajesh Kumar\",\n  \"email\": \"rajesh@example.com\",\n  \"username\": \"rajeshk\"\n}",
+              "raw": "{\n  \"name\": \"Muthu Arumugam\",\n  \"email\": \"muthu1@techmail.com\",\n  \"username\": \"muthu1\"\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -141,7 +141,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Rajesh Kumar\",\n  \"email\": \"rajesh@example.com\",\n  \"username\": \"rajeshk\"\n}",
+              "raw": "{\n  \"name\": \"Muthu Arumugam\",\n  \"email\": \"muthu1@techmail.com\",\n  \"username\": \"muthu1\"\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -279,7 +279,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 1,\n  \"title\": \"My Experience at Diwali Festival\",\n  \"body\": \"Yesterday's Diwali celebration was amazing with family and friends. The lights and sweets made it special!\",\n  \"comments\": [\n    {\n      \"id\": 1,\n      \"postId\": 1,\n      \"userId\": 2,\n      \"text\": \"The decorations looked beautiful! Happy Diwali!\"\n    },\n    {\n      \"id\": 2,\n      \"postId\": 1,\n      \"userId\": 1,\n      \"text\": \"Thank you, Priya! Hope you had a great celebration too!\"\n    }\n  ]\n}",
+              "raw": "{\n  \"userId\": 8,\n  \"title\": \"Education Technology\",\n  \"body\": \"Exploring the impact of Education Technology in Thanjavur...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 29,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -316,7 +316,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 1,\n  \"title\": \"My Experience at Diwali Festival\",\n  \"body\": \"Yesterday's Diwali celebration was amazing with family and friends. The lights and sweets made it special!\",\n  \"comments\": [\n    {\n      \"id\": 1,\n      \"postId\": 1,\n      \"userId\": 2,\n      \"text\": \"The decorations looked beautiful! Happy Diwali!\"\n    },\n    {\n      \"id\": 2,\n      \"postId\": 1,\n      \"userId\": 1,\n      \"text\": \"Thank you, Priya! Hope you had a great celebration too!\"\n    }\n  ]\n}",
+              "raw": "{\n  \"userId\": 8,\n  \"title\": \"Education Technology\",\n  \"body\": \"Exploring the impact of Education Technology in Thanjavur...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 29,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -471,7 +471,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Prepare presentation for Tech Summit Mumbai\",\n  \"completed\": false\n}",
+              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Design rural healthcare platform\",\n  \"completed\": true\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -508,7 +508,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Prepare presentation for Tech Summit Mumbai\",\n  \"completed\": false\n}",
+              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Design rural healthcare platform\",\n  \"completed\": true\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -646,7 +646,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"E-commerce Platform for Handicrafts\",\n  \"userId\": 1,\n  \"description\": \"Building an online platform for Indian artisans\",\n  \"tasks\": [\n    {\n      \"id\": 1,\n      \"projectId\": 1,\n      \"task\": \"Design the marketplace UI\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 2,\n      \"projectId\": 1,\n      \"task\": \"Implement payment gateway\",\n      \"status\": \"Not Started\"\n    }\n  ]\n}",
+              "raw": "{\n  \"name\": \"Salem Blockchain Initiative\",\n  \"userId\": 19,\n  \"description\": \"Implementing Blockchain solutions for Salem region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 13,\n      \"projectId\": 1,\n      \"task\": \"Phase 4 Implementation\",\n      \"status\": \"In Progress\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -683,7 +683,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"E-commerce Platform for Handicrafts\",\n  \"userId\": 1,\n  \"description\": \"Building an online platform for Indian artisans\",\n  \"tasks\": [\n    {\n      \"id\": 1,\n      \"projectId\": 1,\n      \"task\": \"Design the marketplace UI\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 2,\n      \"projectId\": 1,\n      \"task\": \"Implement payment gateway\",\n      \"status\": \"Not Started\"\n    }\n  ]\n}",
+              "raw": "{\n  \"name\": \"Salem Blockchain Initiative\",\n  \"userId\": 19,\n  \"description\": \"Implementing Blockchain solutions for Salem region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 13,\n      \"projectId\": 1,\n      \"task\": \"Phase 4 Implementation\",\n      \"status\": \"In Progress\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
