@@ -1,5 +1,19 @@
+require("dotenv").config();
+
 const fs = require("fs");
 const path = require("path");
+const https = require("https");
+
+const POSTMAN_API_KEY = process.env.POSTMAN_API_KEY;
+const POSTMAN_WORKSPACE_ID = process.env.POSTMAN_WORKSPACE_ID;
+
+const dbPath = path.join(__dirname, "..", "db.json");
+const outputPath = path.join(
+  __dirname,
+  "..",
+  "public",
+  "postman_collection.json"
+);
 
 function generatePostmanCollection(dbPath) {
   // Read the db.json file
@@ -8,7 +22,7 @@ function generatePostmanCollection(dbPath) {
   // Base collection structure
   const collection = {
     info: {
-      name: "JSON Server API",
+      name: "Mimic Server API",
       description:
         "This is a simple API server that mimics the behavior of a real API server. It is useful for testing and development purposes.",
       schema:
@@ -18,7 +32,7 @@ function generatePostmanCollection(dbPath) {
     variable: [
       {
         key: "baseUrl",
-        value: "http://localhost:3000",
+        value: "https://mimic-server-api.vercel.app",
         type: "string",
       },
     ],
@@ -232,14 +246,62 @@ function findNestedResources(example) {
     .map(([key]) => key);
 }
 
-// Main execution
-const dbPath = path.join(__dirname, "..", "data", "db.json");
-const outputPath = path.join(__dirname, "..", "postman_collection.json");
+async function publishToPostman(collectionData) {
+  if (!POSTMAN_API_KEY || !POSTMAN_WORKSPACE_ID) {
+    console.warn(
+      "⚠️ Skipping Postman publish: POSTMAN_API_KEY or POSTMAN_WORKSPACE_ID not set"
+    );
+    return;
+  }
 
-try {
-  const collection = generatePostmanCollection(dbPath);
-  fs.writeFileSync(outputPath, JSON.stringify(collection, null, 2));
-  console.log(`✅ Postman collection generated successfully at ${outputPath}`);
-} catch (error) {
-  console.error("❌ Error generating Postman collection:", error);
+  const options = {
+    hostname: "api.getpostman.com",
+    path: "/collections",
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "X-API-Key": POSTMAN_API_KEY,
+    },
+  };
+
+  return new Promise((resolve, reject) => {
+    const req = https.request(options, (res) => {
+      let data = "";
+      res.on("data", (chunk) => (data += chunk));
+      res.on("end", () => {
+        if (res.statusCode === 200) {
+          resolve(JSON.parse(data));
+        } else {
+          reject(new Error(`Failed to publish: ${res.statusCode} ${data}`));
+        }
+      });
+    });
+
+    req.on("error", reject);
+    req.write(JSON.stringify({ collection: collectionData }));
+    req.end();
+  });
 }
+
+async function main() {
+  try {
+    const collection = generatePostmanCollection(dbPath);
+
+    // Write to file
+    fs.writeFileSync(outputPath, JSON.stringify(collection, null, 2));
+    console.log(
+      `✅ Postman collection generated successfully at ${outputPath}`
+    );
+
+    // Publish to Postman
+    const result = await publishToPostman(collection);
+    console.log(
+      `✅ Collection published to Postman: https://www.postman.com/workspace/${POSTMAN_WORKSPACE_ID}/${result.collection.uid}`
+    );
+  } catch (error) {
+    console.error("❌ Error:", error);
+    process.exit(1);
+  }
+}
+
+main();
