@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mimic API Server</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+
+  <body class="bg-gradient-to-br from-indigo-50 to-purple-50">
+    <header class="bg-gradient-to-r from-purple-600 to-indigo-600 shadow-lg">
+      <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <div class="flex justify-between items-center">
+          <strong class="text-2xl text-white font-bold"
+            >Mimic API Server</strong
+          >
+          <div class="space-x-4">
+            <a
+              href="/postman_collection.json"
+              class="inline-flex items-center px-4 py-2 bg-white text-purple-600 rounded-lg hover:bg-purple-100 transition-colors duration-200"
+            >
+              <svg class="w-5 h-5 mr-2" viewBox="0 0 24 24" fill="currentColor">
+                <path
+                  d="M13.527 2.086c-5.621-.422-10.664 3.502-11.086 9.123-.422 5.621 3.502 10.664 9.123 11.086 5.621.422 10.664-3.502 11.086-9.123.422-5.621-3.502-10.664-9.123-11.086zm3.577 12.708c-.156.21-.37.367-.613.456l-2.813 1.016c-.192.071-.398.086-.6.044-.201-.042-.387-.146-.533-.3l-3.857-4.073c-.147-.155-.24-.352-.267-.563-.026-.211.017-.425.124-.607.106-.182.272-.324.471-.405.2-.081.419-.093.625-.033l2.813 1.016c.195.07.406.069.6-.003.194-.072.357-.21.465-.395l2.062-3.496c.11-.187.291-.322.5-.372.209-.05.429-.026.62.068.19.094.337.261.404.463.067.202.057.42-.027.614l-2.059 3.492c-.106.18-.157.387-.146.595.01.208.082.409.204.573l3.063 4.082c.135.18.21.396.216.62.006.224-.057.444-.182.632z"
+                />
+              </svg>
+              Postman Collection
+            </a>
+            <a
+              href="https://github.com/anburocky3/mimic-server-api"
+              target="_blank"
+              class="inline-flex items-center px-4 py-2 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600 transition-colors duration-200"
+            >
+              <svg class="w-5 h-5 mr-2" viewBox="0 0 24 24" fill="currentColor">
+                <path
+                  d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"
+                />
+              </svg>
+              GitHub
+            </a>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div class="bg-white shadow-xl rounded-lg p-8 border border-purple-100">
+        <h2 class="text-xl font-bold text-purple-800 mb-6">
+          Available Resources
+        </h2>
+        <div id="resources"></div>
+      </div>
+    </main>
+
+    <footer class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+      <div class="text-center text-gray-600">
+        <p>© 2025 Mimic API Server. All rights reserved.</p>
+        <p class="text-sm mt-2">
+          Made with ❤️ by
+          <a
+            href="https://github.com/anburocky3"
+            class="text-purple-600 hover:text-purple-800"
+            >Anbuselvan Annamalai</a
+          >
+        </p>
+      </div>
+    </footer>
+
+    <script>
+      async function fetchAndDisplayResources() {
+        try {
+          const response = await fetch("db");
+          const data = await response.json();
+          const resourcesContainer = document.getElementById("resources");
+
+          if (Object.keys(data).length === 0) {
+            resourcesContainer.innerHTML =
+              '<p class="text-gray-500 italic">No resources found in JSON file</p>';
+            return;
+          }
+
+          const resourcesList = Object.entries(data)
+            .map(([name, value]) => {
+              const itemCount = Array.isArray(value)
+                ? `<span class="text-purple-500 text-sm font-medium"> - ${
+                    value.length
+                  } ${value.length > 1 ? "items" : "item"}</span>`
+                : "";
+
+              return `
+              <div class="py-3 border-b border-purple-100 last:border-0">
+                <a href="/${name}" 
+                   class="text-indigo-600 hover:text-indigo-800 hover:underline font-medium">/${name}</a>
+                ${itemCount}
+              </div>
+            `;
+            })
+            .join("");
+
+          resourcesContainer.innerHTML = resourcesList;
+        } catch (error) {
+          console.error("Error fetching resources:", error);
+          document.getElementById("resources").innerHTML =
+            '<div class="p-4 bg-red-50 text-red-600 rounded-lg">Error loading resources</div>';
+        }
+      }
+
+      // Load resources when page loads
+      fetchAndDisplayResources();
+    </script>
+  </body>
+</html>

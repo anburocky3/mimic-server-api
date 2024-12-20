@@ -1,0 +1,30 @@
+{
+  "name": "mimic",
+  "version": "1.0.0",
+  "description": "Simple fake app to use it in your apps for learning purposes.",
+  "main": "src/server.ts",
+  "scripts": {
+    "start": "ts-node src/server.ts",
+    "generate-docs": "node scripts/generate-postman-collection.js",
+    "generate-data": "node scripts/generate-tamil-data.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fake-api",
+    "mock",
+    "api",
+    "fake",
+    "data",
+    "api",
+    "data"
+  ],
+  "author": "Anbuselvan Annamalai",
+  "license": "MIT",
+  "dependencies": {
+    "@types/json-server": "^0.14.7",
+    "json-server": "^0.17.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2"
+  }
+}
