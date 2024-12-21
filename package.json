@@ -5,9 +5,9 @@
   "main": "api/server.ts",
   "scripts": {
     "start": "ts-node api/server.ts",
-    "generate-docs": "ts-node scripts/generate-postman-collection.ts",
     "generate-data": "ts-node scripts/generate-tamil-data.ts",
-    "check": "ts-node scripts/sample.ts",
+    "generate-docs": "ts-node scripts/generate-postman-collection.ts",
+    "generate": "ts-node scripts/generate-tamil-data.ts && ts-node scripts/generate-postman-collection.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

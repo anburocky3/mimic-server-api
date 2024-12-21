@@ -1,6 +1,8 @@
-# Mimic API Server
+# Mimic API Server 🧑‍💻
 
 A lightweight mock API server that serves JSON data for development and testing purposes.
+
+#### ⭐ Live Preview: [https://mimic-server-api.vercel.app](https://mimic-server-api.vercel.app/) 🪴
 
 ## Features
 
@@ -26,7 +28,9 @@ npm start
 ### Generate Data
 
 ```bash
-npm run generate-data # To generate data
+npm run generate # To generate data & docs together.
+# or generate individually
+npm run generate-data # To generate data: db.json
 npm run generate-docs # To generate docs: Postman collections
 ```
 
