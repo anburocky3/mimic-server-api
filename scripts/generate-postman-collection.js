@@ -1,8 +1,14 @@
-require("dotenv").config();
+import dotenv from "dotenv";
+import fs from "fs";
+import path from "path";
+import https from "https";
+import { fileURLToPath } from "url";
 
-const fs = require("fs");
-const path = require("path");
-const https = require("https");
+dotenv.config();
+
+// ES6 equivalent of __dirname
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const POSTMAN_API_KEY = process.env.POSTMAN_API_KEY;
 const POSTMAN_WORKSPACE_ID = process.env.POSTMAN_WORKSPACE_ID;
@@ -15,8 +21,8 @@ const outputPath = path.join(
   "postman_collection.json"
 );
 
-function generatePostmanCollection(dbPath) {
-  // Read the db.json file
+// Convert regular functions to arrow functions
+const generatePostmanCollection = (dbPath) => {
   const dbContent = JSON.parse(fs.readFileSync(dbPath, "utf8"));
 
   // Base collection structure
@@ -187,13 +193,12 @@ function generatePostmanCollection(dbPath) {
   });
 
   return collection;
-}
+};
 
-function capitalizeFirstLetter(string) {
-  return string.charAt(0).toUpperCase() + string.slice(1);
-}
+const capitalizeFirstLetter = (string) =>
+  string.charAt(0).toUpperCase() + string.slice(1);
 
-function generateQueryParams(resourceExample) {
+const generateQueryParams = (resourceExample) => {
   const params = [
     {
       key: "_page",
@@ -228,25 +233,23 @@ function generateQueryParams(resourceExample) {
   });
 
   return params;
-}
+};
 
-function generateSampleBody(example) {
+const generateSampleBody = (example) => {
   if (!example) return {};
-
   const sampleBody = { ...example };
   delete sampleBody.id;
   return sampleBody;
-}
+};
 
-function findNestedResources(example) {
+const findNestedResources = (example) => {
   if (!example) return [];
-
   return Object.entries(example)
     .filter(([_, value]) => Array.isArray(value))
     .map(([key]) => key);
-}
+};
 
-async function publishToPostman(collectionData) {
+const publishToPostman = async (collectionData) => {
   if (!POSTMAN_API_KEY || !POSTMAN_WORKSPACE_ID) {
     console.warn(
       "⚠️ Skipping Postman publish: POSTMAN_API_KEY or POSTMAN_WORKSPACE_ID not set"
@@ -281,9 +284,9 @@ async function publishToPostman(collectionData) {
     req.write(JSON.stringify({ collection: collectionData }));
     req.end();
   });
-}
+};
 
-async function main() {
+const main = async () => {
   try {
     const collection = generatePostmanCollection(dbPath);
 
@@ -302,6 +305,6 @@ async function main() {
     console.error("❌ Error:", error);
     process.exit(1);
   }
-}
+};
 
 main();

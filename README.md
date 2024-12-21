@@ -23,6 +23,13 @@ npm install
 npm start
 ```
 
+### Generate Data
+
+```bash
+npm run generate-data # To generate data
+npm run generate-docs # To generate docs: Postman collections
+```
+
 The server will start at `http://localhost:3000`
 
 ## API Documentation
@@ -57,4 +64,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Anbuselvan Annamalai
+[Anbuselvan Annamalai](https://facebook.com/anburocky3)
+
+## Contributors
+
+1. [Yogeshwaran C](https://github.com/yogesh7401)
