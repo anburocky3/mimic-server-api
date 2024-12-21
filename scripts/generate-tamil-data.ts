@@ -1,5 +1,5 @@
-import fs from "fs";
-import path from "path";
+const fs = require("fs");
+const path = require("path");
 
 // Tamil Nadu names data
 const tamilNames = {
@@ -90,7 +90,7 @@ const projectTypes = [
 ];
 
 // Convert functions to arrow functions and use const
-const generateRandomUser = (id) => {
+const generateRandomUser = (id: number) => {
   const firstName =
     tamilNames.firstNames[
       Math.floor(Math.random() * tamilNames.firstNames.length)
@@ -108,7 +108,7 @@ const generateRandomUser = (id) => {
   };
 };
 
-const generateRandomPost = (id, userIds) => {
+const generateRandomPost = (id: number, userIds: number[]) => {
   const userId = userIds[Math.floor(Math.random() * userIds.length)];
   const topics = [
     "Tech Innovation in Tamil Nadu",
@@ -133,7 +133,7 @@ const generateRandomPost = (id, userIds) => {
   };
 };
 
-const generateComments = (postId, userIds) => {
+const generateComments = (postId: number, userIds: number[]) => {
   const numComments = Math.floor(Math.random() * 3) + 1;
   return Array.from({ length: numComments }, (_, i) => ({
     id: postId * 10 + i,
@@ -143,7 +143,7 @@ const generateComments = (postId, userIds) => {
   }));
 };
 
-const generateTodo = (id, userId) => {
+const generateTodo = (id: number, userId: number) => {
   const tasks = [
     "Review Tamil NLP model",
     "Update Chennai traffic monitoring system",
@@ -161,7 +161,7 @@ const generateTodo = (id, userId) => {
   };
 };
 
-const generateProject = (id, userId) => {
+const generateProject = (id: number, userId: number) => {
   const projectType =
     projectTypes[Math.floor(Math.random() * projectTypes.length)];
   const city = tamilCities[Math.floor(Math.random() * tamilCities.length)];
@@ -175,7 +175,7 @@ const generateProject = (id, userId) => {
   };
 };
 
-const generateProjectTasks = (projectId) => {
+const generateProjectTasks = (projectId: number) => {
   const statuses = ["Not Started", "In Progress", "Completed"];
   return Array.from({ length: Math.floor(Math.random() * 3) + 2 }, (_, i) => ({
     id: projectId * 10 + i,
@@ -211,9 +211,7 @@ const generateDatabase = () => {
 
 // Generate and save the database
 const db = generateDatabase();
-const currentDir = new URL(".", import.meta.url).pathname;
-const normalizedDir = currentDir.replace(/^\/([A-Z]:)/, "$1"); // Remove leading slash from Windows paths
-const outputPath = path.join(path.dirname(normalizedDir), "db.json");
+const outputPath = path.join(__dirname, "..", "db.json");
 
 // Create directory if it doesn't exist
 const outputDir = path.dirname(outputPath);

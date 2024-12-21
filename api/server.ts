@@ -1,4 +1,4 @@
-import jsonServer from "json-server";
+const jsonServer = require("json-server");
 import fs from "fs";
 import path from "path";
 

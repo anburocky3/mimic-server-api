@@ -1,14 +1,9 @@
-import dotenv from "dotenv";
-import fs from "fs";
-import path from "path";
-import https from "https";
-import { fileURLToPath } from "url";
+const dotenv = require("dotenv");
+const fs = require("fs");
+const path = require("path");
+const https = require("https");
 
 dotenv.config();
-
-// ES6 equivalent of __dirname
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 const POSTMAN_API_KEY = process.env.POSTMAN_API_KEY;
 const POSTMAN_WORKSPACE_ID = process.env.POSTMAN_WORKSPACE_ID;
@@ -21,12 +16,78 @@ const outputPath = path.join(
   "postman_collection.json"
 );
 
-// Convert regular functions to arrow functions
-const generatePostmanCollection = (dbPath) => {
-  const dbContent = JSON.parse(fs.readFileSync(dbPath, "utf8"));
+// Updated type definitions
+type PostmanRequest = {
+  name: string;
+  request: {
+    method: string;
+    url: {
+      raw: string;
+      host: string[];
+      path: string[];
+      query?: Array<{
+        key: string;
+        value: string;
+        description: string;
+        disabled: boolean;
+      }>;
+      variable?: Array<{
+        key: string;
+        value: string;
+      }>;
+    };
+    header?: Array<{
+      key: string;
+      value: string;
+    }>;
+    body?: {
+      mode: string;
+      raw: string;
+      options: {
+        raw: {
+          language: string;
+        };
+      };
+    };
+  };
+};
+
+type ResourceItem = {
+  name: string;
+  item: PostmanRequest[];
+};
+
+// Add near the top with other types
+type DbContent = {
+  [key: string]: any[];
+};
+
+type PostmanCollection = {
+  info: {
+    name: string;
+    description: string;
+    schema: string;
+  };
+  item: ResourceItem[];
+  variable: Array<{
+    key: string;
+    value: string;
+    type: string;
+  }>;
+};
+
+type PostmanApiResponse = {
+  collection: {
+    uid: string;
+  };
+};
+
+// Updated function signatures
+const generatePostmanCollection = (dbPath: string): PostmanCollection => {
+  const dbContent = JSON.parse(fs.readFileSync(dbPath, "utf8")) as DbContent;
 
   // Base collection structure
-  const collection = {
+  const collection: PostmanCollection = {
     info: {
       name: "Mimic Server API",
       description:
@@ -46,7 +107,7 @@ const generatePostmanCollection = (dbPath) => {
 
   // Generate endpoints for each resource
   Object.entries(dbContent).forEach(([resourceName, resourceData]) => {
-    const resourceItem = {
+    const resourceItem: ResourceItem = {
       name: capitalizeFirstLetter(resourceName),
       item: [],
     };
@@ -195,10 +256,10 @@ const generatePostmanCollection = (dbPath) => {
   return collection;
 };
 
-const capitalizeFirstLetter = (string) =>
+const capitalizeFirstLetter = (string: string): string =>
   string.charAt(0).toUpperCase() + string.slice(1);
 
-const generateQueryParams = (resourceExample) => {
+const generateQueryParams = (resourceExample: Record<string, any>) => {
   const params = [
     {
       key: "_page",
@@ -235,26 +296,28 @@ const generateQueryParams = (resourceExample) => {
   return params;
 };
 
-const generateSampleBody = (example) => {
+const generateSampleBody = (example: Record<string, any>) => {
   if (!example) return {};
   const sampleBody = { ...example };
   delete sampleBody.id;
   return sampleBody;
 };
 
-const findNestedResources = (example) => {
+const findNestedResources = (example: Record<string, any>): string[] => {
   if (!example) return [];
   return Object.entries(example)
     .filter(([_, value]) => Array.isArray(value))
     .map(([key]) => key);
 };
 
-const publishToPostman = async (collectionData) => {
+const publishToPostman = async (
+  collectionData: PostmanCollection
+): Promise<PostmanApiResponse | undefined> => {
   if (!POSTMAN_API_KEY || !POSTMAN_WORKSPACE_ID) {
     console.warn(
       "⚠️ Skipping Postman publish: POSTMAN_API_KEY or POSTMAN_WORKSPACE_ID not set"
     );
-    return;
+    return undefined;
   }
 
   const options = {
@@ -289,18 +352,17 @@ const publishToPostman = async (collectionData) => {
 const main = async () => {
   try {
     const collection = generatePostmanCollection(dbPath);
-
-    // Write to file
     fs.writeFileSync(outputPath, JSON.stringify(collection, null, 2));
     console.log(
       `✅ Postman collection generated successfully at ${outputPath}`
     );
 
-    // Publish to Postman
     const result = await publishToPostman(collection);
-    console.log(
-      `✅ Collection published to Postman: https://www.postman.com/workspace/${POSTMAN_WORKSPACE_ID}/${result.collection.uid}`
-    );
+    if (result) {
+      console.log(
+        `✅ Collection published to Postman: https://www.postman.com/workspace/${POSTMAN_WORKSPACE_ID}/${result.collection.uid}`
+      );
+    }
   } catch (error) {
     console.error("❌ Error:", error);
     process.exit(1);
