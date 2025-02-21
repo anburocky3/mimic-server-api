@@ -4,6 +4,7 @@
   "description": "Simple fake app to use it in your apps for learning purposes.",
   "main": "api/server.ts",
   "scripts": {
+    "dev": "nodemon --watch 'public/index.html' --ext 'html,ts,json' api/server.ts",
     "start": "ts-node api/server.ts",
     "generate-data": "ts-node scripts/generate-tamil-data.ts",
     "generate-docs": "ts-node scripts/generate-postman-collection.ts",
