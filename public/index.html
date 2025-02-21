@@ -362,7 +362,7 @@
             </p>
           </div>
           <a
-            href="https://documenter.getpostman.com/view/15044301/2sAYJ9BysF"
+            href="https://bit.ly/mimic-api-docs"
             class="mt-4 md:mt-0 px-6 py-3 bg-white text-purple-600 rounded-lg hover:bg-purple-50 transition-colors duration-200 font-medium"
           >
             View Documentation
@@ -395,6 +395,36 @@
         </p>
       </div>
     </footer>
+
+    <script>
+      const webLink = atob("aHR0cDovL3d3dy5mcmVldmlzaXRvcmNvdW50ZXJzLmNvbQ==");
+      document.addEventListener("DOMContentLoaded", function () {
+        const freeCountersLink = document.querySelector(
+          "a[href='" + webLink + "']"
+        );
+
+        if (freeCountersLink) {
+          freeCountersLink.style.display = "none"; // Hide the link
+        }
+
+        const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+            mutation.addedNodes.forEach((node) => {
+              // Check if the added node is an element and has the desired ID
+              if (
+                node.nodeType === Node.ELEMENT_NODE &&
+                node.id === "error_24e2c042371840a1b072204260d0fcf4f32b2ee8"
+              ) {
+                node.style.display = "none"; // Hide the error element if found
+              }
+            });
+          });
+        });
+
+        // Start observing the document body for child additions
+        observer.observe(document.body, { childList: true, subtree: true });
+      });
+    </script>
 
     <script>
       // Update the endpoint count in stats

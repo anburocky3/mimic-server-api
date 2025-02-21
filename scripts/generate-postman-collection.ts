@@ -7,6 +7,7 @@ dotenv.config();
 
 const POSTMAN_API_KEY = process.env.POSTMAN_API_KEY;
 const POSTMAN_WORKSPACE_ID = process.env.POSTMAN_WORKSPACE_ID;
+const POSTMAN_COLLECTION_UID = process.env.POSTMAN_COLLECTION_UID;
 
 const dbPath = path.join(__dirname, "..", "db.json");
 const outputPath = path.join(
@@ -67,6 +68,8 @@ type PostmanCollection = {
     name: string;
     description: string;
     schema: string;
+    uid: string;
+    version: string;
   };
   item: ResourceItem[];
   variable: Array<{
@@ -94,6 +97,8 @@ const generatePostmanCollection = (dbPath: string): PostmanCollection => {
         "This is a simple API server that mimics the behavior of a real API server. It is useful for testing and development purposes.",
       schema:
         "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+      uid: POSTMAN_COLLECTION_UID,
+      version: "1.0.0",
     },
     item: [],
     variable: [
@@ -320,10 +325,45 @@ const publishToPostman = async (
     return undefined;
   }
 
+  const collectionUid = collectionData.info.uid;
+
+  // check if collectionUid is valid by making a GET request to the collection
+  const checkIfCollectionExist = fetch(
+    `https://api.getpostman.com/collections/${collectionUid}`,
+    {
+      headers: {
+        "X-API-Key": POSTMAN_API_KEY,
+      },
+    }
+  )
+    .then((res) => res.json())
+    .then((data) => {
+      // check if it has error
+      if (
+        data.error &&
+        data.error.message ===
+          "We could not find the collection you are looking for"
+      ) {
+        return { method: "POST", path: "/collections" };
+      }
+
+      return { method: "PUT", path: `/collections/${collectionUid}` };
+    });
+
+  // console.log(checkIfCollectionExist);
+
+  const method = (await checkIfCollectionExist).method;
+  const path = (await checkIfCollectionExist).path;
+
+  // Increment version before publishing
+  const versionParts = collectionData.info.version.split(".");
+  versionParts[2] = (parseInt(versionParts[2]) + 1).toString(); // Increment patch version
+  collectionData.info.version = versionParts.join("."); // Update version in collection
+
   const options = {
     hostname: "api.getpostman.com",
-    path: "/collections",
-    method: "POST",
+    path: path,
+    method: method,
     headers: {
       "Content-Type": "application/json",
       "X-API-Key": POSTMAN_API_KEY,

@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const quotes = require("../data/quotes.json");
 
 // Tamil Nadu names data
 const tamilNames = {
@@ -209,7 +210,13 @@ const generateDatabase = () => {
     generateProject(i + 1, userIds[Math.floor(Math.random() * userIds.length)])
   );
 
-  return { users, posts, todos, projects };
+  return {
+    users,
+    posts,
+    todos,
+    projects,
+    quotes,
+  };
 };
 
 // Generate and save the database
