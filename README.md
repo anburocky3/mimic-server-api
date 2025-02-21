@@ -22,7 +22,8 @@ npm install
 ### Running the Server
 
 ```bash
-npm start
+npm run dev # dev
+npm start # production
 ```
 
 ### Generate Data

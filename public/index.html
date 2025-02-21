@@ -62,6 +62,14 @@
 
     <!-- Your existing Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/styles/night-owl.min.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/highlight.min.js"></script>
+    <script>
+      hljs.highlightAll();
+    </script>
   </head>
 
   <body class="bg-gradient-to-br from-indigo-50 to-purple-50">
@@ -109,7 +117,10 @@
         </h1>
         <p class="text-xl text-gray-600 max-w-2xl mx-auto">
           Fast, reliable, and ready-to-use mock API endpoints for your
-          development needs
+          development needs.
+          <!-- <span class="text-green-600 font-semibold text-sm">
+            No API Key needed</span
+          > -->
         </p>
       </div>
 
@@ -231,11 +242,18 @@
           <p class="text-gray-600 mt-1">Get started with a simple API call</p>
         </div>
         <div class="p-6 bg-gray-50">
-          <div class="bg-gray-900 rounded-lg p-4 text-white">
+          <div class="bg-gray-900 rounded-lg p-4 text-white relative">
             <div class="flex items-center justify-between mb-2">
-              <span class="text-gray-400 text-sm">Example Request</span>
+              <span class="text-gray-400 text-sm"
+                >Example Request -
+                <span
+                  class="px-2 py-0.5 text-white rounded bg-blue-500 font-medium"
+                  >GET</span
+                >
+                /users</span
+              >
               <button
-                class="text-gray-400 hover:text-white"
+                class="text-gray-400 hover:text-white absolute right-5"
                 onclick="copyCode()"
               >
                 <svg
@@ -252,12 +270,62 @@
                   />
                 </svg>
               </button>
+              <button
+                onclick="runScript()"
+                class="absolute right-5 bottom-5 px-4 py-1 bg-green-500 hover:bg-green-600 rounded-xl font-semibold transition duration-300 uppercase"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  class="w-6 mr-1 inline-flex"
+                >
+                  <g fill="none">
+                    <path
+                      d="m12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035q-.016-.005-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427q-.004-.016-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093q.019.005.029-.008l.004-.014l-.034-.614q-.005-.018-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014l-.034.614q.001.018.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"
+                    />
+                    <path
+                      fill="currentColor"
+                      d="m21.433 4.861l-6 15.5a1 1 0 0 1-1.624.362l-3.382-3.235l-2.074 2.073a.5.5 0 0 1-.853-.354v-4.519L2.309 9.723a1 1 0 0 1 .442-1.691l17.5-4.5a1 1 0 0 1 1.181 1.329ZM19 6.001L8.032 13.152l1.735 1.66L19 6Z"
+                    />
+                  </g>
+                </svg>
+                Try It
+              </button>
             </div>
             <pre
               class="text-sm"
             ><code>fetch('https://mimic-server-api.vercel.app/users')
   .then(response => response.json())
   .then(data => console.log(data));</code></pre>
+          </div>
+          <!-- Api response showcase -->
+          <div
+            class="max-h-[500px] overflow-y-auto border bg-[#111827] p-3 mt-4 rounded-lg text-white hidden"
+            id="output-container"
+          >
+            <pre id="output" class="">
+                <code class="language-javascript">[]</code>
+            </pre>
+            <script>
+              function runScript() {
+                fetch("https://mimic-server-api.vercel.app/users")
+                  .then((response) => response.json())
+                  .then((json) => {
+                    const outputContainer =
+                      document.querySelector("#output-container");
+                    outputContainer.classList.remove("hidden");
+
+                    const outputElement = document.getElementById("output");
+                    outputElement.innerHTML = `<code class="language-javascript">// GET - https://mimic-server-api.vercel.app/users 
+${JSON.stringify(json, null, 4)}</code>`;
+                    hljs.highlightElement(outputElement.querySelector("code"));
+                  })
+                  .catch((error) => {
+                    document.getElementById("output").textContent =
+                      "Error: " + error;
+                  });
+              }
+            </script>
           </div>
         </div>
       </div>
