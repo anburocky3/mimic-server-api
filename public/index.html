@@ -259,6 +259,41 @@
   .then(response => response.json())
   .then(data => console.log(data));</code></pre>
           </div>
+          <button
+            onclick="runScript()"
+            class="mt-3 inline-flex text-lg font-semibold items-center py-2 px-12 bg-red-500 hover:bg-red-600 focus:ring-2 focus:ring-red-500 focus:ring-offset-2 text-white rounded-md transition duration-300"
+          >
+            Try It
+          </button>
+          <!-- Api response showcase -->
+          <div
+            class="max-h-[500px] overflow-y-auto border bg-[#111827] p-3 mt-4 rounded-lg text-white"
+          >
+            <div id="remove">[ ]</div>
+            <pre id="output"></pre>
+            <script>
+              function runScript() {
+                fetch("https://mimic-server-api.vercel.app/users")
+                  .then((response) => response.json())
+                  .then((json) => {
+                    const outputElement = document.getElementById("output");
+                    const removeElement = document.getElementById("remove");
+
+                    if (json && Array.isArray(json) && json.length > 0) {
+                      outputElement.textContent = JSON.stringify(json, null, 4);
+                      removeElement.style.display = "none";  
+                    } else {
+                      outputElement.textContent = "[]";
+                      removeElement.style.display = "block";  
+                    }
+                  })
+                  .catch((error) => {
+                    document.getElementById("output").textContent =
+                      "Error: " + error;
+                  });
+              }
+            </script>
+          </div>
         </div>
       </div>
 
