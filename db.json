@@ -56034,5 +56034,2507 @@
     "time": "21:56:34",
     "__v": 0
   }
+],
+"top_rated_movies" : [
+  {
+    "Title": "1. The Shawshank Redemption",
+    "Year": 1994,
+    "EpisodeCount": "2h 22m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "9.3|(3M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "2. The Godfather",
+    "Year": 1972,
+    "EpisodeCount": "2h 55m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "9.2|(2.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg"
+  },
+  {
+    "Title": "3. The Dark Knight",
+    "Year": 2008,
+    "EpisodeCount": "2h 32m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "9.0|(3M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "4. The Godfather Part II",
+    "Year": 1974,
+    "EpisodeCount": "3h 22m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "9.0|(1.4M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "5. 12 Angry Men",
+    "Year": 1957,
+    "EpisodeCount": "1h 36m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "9.0|(912K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg"
+  },
+  {
+    "Title": "6. The Lord of the Rings: The Return of the King",
+    "Year": 2003,
+    "EpisodeCount": "3h 21m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "9.0|(2.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "7. Schindler's List",
+    "Year": 1993,
+    "EpisodeCount": "3h 15m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "9.0|(1.5M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "8. Pulp Fiction",
+    "Year": 1994,
+    "EpisodeCount": "2h 34m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.9|(2.3M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "9. The Lord of the Rings: The Fellowship of the Ring",
+    "Year": 2001,
+    "EpisodeCount": "2h 58m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.9|(2.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "10. The Good, the Bad and the Ugly",
+    "Year": 1966,
+    "EpisodeCount": "2h 58m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.8|(844K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "11. Forrest Gump",
+    "Year": 1994,
+    "EpisodeCount": "2h 22m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.8|(2.4M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg"
+  },
+  {
+    "Title": "12. The Lord of the Rings: The Two Towers",
+    "Year": 2002,
+    "EpisodeCount": "2h 59m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.8|(1.9M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg"
+  },
+  {
+    "Title": "13. Fight Club",
+    "Year": 1999,
+    "EpisodeCount": "2h 19m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.8|(2.4M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "14. Inception",
+    "Year": 2010,
+    "EpisodeCount": "2h 28m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.8|(2.7M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "15. Star Wars: Episode V - The Empire Strikes Back",
+    "Year": 1980,
+    "EpisodeCount": "2h 4m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.7|(1.4M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg"
+  },
+  {
+    "Title": "16. The Matrix",
+    "Year": 1999,
+    "EpisodeCount": "2h 16m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.7|(2.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "17. Goodfellas",
+    "Year": 1990,
+    "EpisodeCount": "2h 25m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.7|(1.3M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "18. One Flew Over the Cuckoo's Nest",
+    "Year": 1975,
+    "EpisodeCount": "2h 13m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.7|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "19. Interstellar",
+    "Year": 2014,
+    "EpisodeCount": "2h 49m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.7|(2.3M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "20. Se7en",
+    "Year": 1995,
+    "EpisodeCount": "2h 7m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.6|(1.9M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,207_.jpg"
+  },
+  {
+    "Title": "21. It's a Wonderful Life",
+    "Year": 1946,
+    "EpisodeCount": "2h 10m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.6|(523K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "22. Seven Samurai",
+    "Year": 1954,
+    "EpisodeCount": "3h 27m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.6|(381K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg"
+  },
+  {
+    "Title": "23. The Silence of the Lambs",
+    "Year": 1991,
+    "EpisodeCount": "1h 58m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.6|(1.6M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "24. Saving Private Ryan",
+    "Year": 1998,
+    "EpisodeCount": "2h 49m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.6|(1.6M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "25. City of God",
+    "Year": 2002,
+    "EpisodeCount": "2h 10m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.6|(830K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYjY4NGI5OTUtY2ZlZS00Zjk4LTk5N2MtN2JmYWVjNGNmMGRlXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "26. The Green Mile",
+    "Year": 1999,
+    "EpisodeCount": "3h 9m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.6|(1.5M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "27. Life Is Beautiful",
+    "Year": 1997,
+    "EpisodeCount": "1h 56m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.6|(770K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "28. Terminator 2: Judgment Day",
+    "Year": 1991,
+    "EpisodeCount": "2h 17m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.6|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "29. Star Wars: Episode IV - A New Hope",
+    "Year": 1977,
+    "EpisodeCount": "2h 1m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.6|(1.5M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "30. Back to the Future",
+    "Year": 1985,
+    "EpisodeCount": "1h 56m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.5|(1.4M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg"
+  },
+  {
+    "Title": "31. Spirited Away",
+    "Year": 2001,
+    "EpisodeCount": "2h 4m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.6|(896K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "32. The Pianist",
+    "Year": 2002,
+    "EpisodeCount": "2h 30m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(956K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg"
+  },
+  {
+    "Title": "33. Gladiator",
+    "Year": 2000,
+    "EpisodeCount": "2h 35m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(1.7M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "34. Parasite",
+    "Year": 2019,
+    "EpisodeCount": "2h 12m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "35. Psycho",
+    "Year": 1960,
+    "EpisodeCount": "1h 49m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(746K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "36. The Lion King",
+    "Year": 1994,
+    "EpisodeCount": "1h 28m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.5|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "37. Grave of the Fireflies",
+    "Year": 1988,
+    "EpisodeCount": "1h 28m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.5|(340K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "38. The Departed",
+    "Year": 2006,
+    "EpisodeCount": "2h 31m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(1.5M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "39. Whiplash",
+    "Year": 2014,
+    "EpisodeCount": "1h 46m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "40. Harakiri",
+    "Year": 1962,
+    "EpisodeCount": "2h 13m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.6|(78K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZThiZjU5ZDQtZDI4Mi00ZGYyLTkzOTktYmIzZTFlZTkxYzg5XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg"
+  },
+  {
+    "Title": "41. American History X",
+    "Year": 1998,
+    "EpisodeCount": "1h 59m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "42. The Prestige",
+    "Year": 2006,
+    "EpisodeCount": "2h 10m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.5|(1.5M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "43. Léon: The Professional",
+    "Year": 1994,
+    "EpisodeCount": "1h 50m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(1.3M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "44. Spider-Man: Across the Spider-Verse",
+    "Year": 2023,
+    "EpisodeCount": "2h 20m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.5|(438K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "45. Casablanca",
+    "Year": 1942,
+    "EpisodeCount": "1h 42m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.5|(626K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "46. The Usual Suspects",
+    "Year": 1995,
+    "EpisodeCount": "1h 46m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "47. The Intouchables",
+    "Year": 2011,
+    "EpisodeCount": "1h 52m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(967K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "48. Cinema Paradiso",
+    "Year": 1988,
+    "EpisodeCount": "2h 54m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.5|(298K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTljNzc4YWEtYTZlMS00ODMyLWIwMTAtNWQxY2VkMDEwYTk5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "49. Modern Times",
+    "Year": 1936,
+    "EpisodeCount": "1h 27m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.5|(270K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BODVkZGFhNGQtYjdiYi00Njc4LWFmYTItNTlmNzJjMTg1ZDc5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "50. Alien",
+    "Year": 1979,
+    "EpisodeCount": "1h 57m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "51. Rear Window",
+    "Year": 1954,
+    "EpisodeCount": "1h 52m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.5|(541K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BODZhOWI1ODgtMzdiOS00YjNkLTgwOGUtYmIyZDg5ZmQwMzQ1XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "52. Once Upon a Time in the West",
+    "Year": 1968,
+    "EpisodeCount": "2h 46m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.5|(364K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "53. Django Unchained",
+    "Year": 2012,
+    "EpisodeCount": "2h 45m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.5|(1.8M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "54. City Lights",
+    "Year": 1931,
+    "EpisodeCount": "1h 27m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.5|(205K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "55. Dune: Part Two",
+    "Year": 2024,
+    "EpisodeCount": "2h 46m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.5|(600K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "56. Apocalypse Now",
+    "Year": 1979,
+    "EpisodeCount": "2h 27m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.4|(735K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDhiMTljYjYtODc1Yy00MmEwLTg2OTYtYmE1YTRmNDE4MmEwXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg"
+  },
+  {
+    "Title": "57. Memento",
+    "Year": 2000,
+    "EpisodeCount": "1h 53m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.4|(1.4M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYmQ3MjliNjAtNWFiZS00YWI1LTlmZTktMzBiNDE1NjRhZjU0XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "58. WALL·E",
+    "Year": 2008,
+    "EpisodeCount": "1h 38m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.4|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "59. Raiders of the Lost Ark",
+    "Year": 1981,
+    "EpisodeCount": "1h 55m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.4|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "60. The Lives of Others",
+    "Year": 2006,
+    "EpisodeCount": "2h 17m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.4|(424K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYjM1N2Q0YWEtN2E5MC00NDM3LTk2NTEtMTc1NTk5OTA5ZGIzXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "61. Avengers: Infinity War",
+    "Year": 2018,
+    "EpisodeCount": "2h 29m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.4|(1.3M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "62. Sunset Boulevard",
+    "Year": 1950,
+    "EpisodeCount": "1h 50m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.4|(247K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "63. Spider-Man: Into the Spider-Verse",
+    "Year": 2018,
+    "EpisodeCount": "1h 57m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.4|(718K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "64. Paths of Glory",
+    "Year": 1957,
+    "EpisodeCount": "1h 28m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.4|(224K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "65. Witness for the Prosecution",
+    "Year": 1957,
+    "EpisodeCount": "1h 56m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.4|(148K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNjRhNTQzMzQtMWViMi00ODQ1LTg0MTEtYWE4ZWZlYjM4YjJhXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "66. The Shining",
+    "Year": 1980,
+    "EpisodeCount": "2h 26m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.4|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "67. The Great Dictator",
+    "Year": 1940,
+    "EpisodeCount": "2h 5m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.4|(247K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "68. 12th Fail",
+    "Year": 2023,
+    "EpisodeCount": "2h 27m",
+    "Ceritficate": "",
+    "Rating": "",
+    "RatingVotes": "8.8|(143K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_QL75_UY207_CR9,0,140,207_.jpg"
+  },
+  {
+    "Title": "69. Aliens",
+    "Year": 1986,
+    "EpisodeCount": "2h 17m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.4|(802K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "70. Inglourious Basterds",
+    "Year": 2009,
+    "EpisodeCount": "2h 33m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.4|(1.7M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "71. The Dark Knight Rises",
+    "Year": 2012,
+    "EpisodeCount": "2h 44m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.4|(1.9M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "72. Coco",
+    "Year": 2017,
+    "EpisodeCount": "1h 45m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.4|(638K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg"
+  },
+  {
+    "Title": "73. Amadeus",
+    "Year": 1984,
+    "EpisodeCount": "2h 40m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.4|(444K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg"
+  },
+  {
+    "Title": "74. Toy Story",
+    "Year": 1995,
+    "EpisodeCount": "1h 21m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.3|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "75. Avengers: Endgame",
+    "Year": 2019,
+    "EpisodeCount": "3h 1m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.4|(1.3M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "76. Oldboy",
+    "Year": 2003,
+    "EpisodeCount": "2h",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(670K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "77. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "Year": 1964,
+    "EpisodeCount": "1h 35m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.3|(534K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg"
+  },
+  {
+    "Title": "78. Good Will Hunting",
+    "Year": 1997,
+    "EpisodeCount": "2h 6m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "79. American Beauty",
+    "Year": 1999,
+    "EpisodeCount": "2h 2m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "80. Das Boot",
+    "Year": 1981,
+    "EpisodeCount": "2h 29m",
+    "Ceritficate": "",
+    "Rating": "",
+    "RatingVotes": "8.4|(277K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNGU0MWZlMTUtM2Y3Ny00NGNmLWE5NmEtN2YxOWQzMGM3ZWYzXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "81. Braveheart",
+    "Year": 1995,
+    "EpisodeCount": "2h 58m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "82. Princess Mononoke",
+    "Year": 1997,
+    "EpisodeCount": "2h 13m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.3|(454K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNjAzODViNGEtMjBkYi00N2U5LWJjNjAtY2U0MGJhZTEwOTU0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "83. Your Name.",
+    "Year": 2016,
+    "EpisodeCount": "1h 46m",
+    "Ceritficate": "",
+    "Rating": "",
+    "RatingVotes": "8.4|(348K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "84. High and Low",
+    "Year": 1963,
+    "EpisodeCount": "2h 23m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.4|(58K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "85. 3 Idiots",
+    "Year": 2009,
+    "EpisodeCount": "2h 50m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.4|(453K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg"
+  },
+  {
+    "Title": "86. Joker",
+    "Year": 2019,
+    "EpisodeCount": "2h 2m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(1.6M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "87. Once Upon a Time in America",
+    "Year": 1984,
+    "EpisodeCount": "3h 49m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(391K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "88. Capernaum",
+    "Year": 2018,
+    "EpisodeCount": "2h 6m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.4|(114K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYzEyMzQ1OTktZTljZi00OWQzLWE2ZmUtZjQyNzBjYjE1NTc0XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "89. Singin' in the Rain",
+    "Year": 1952,
+    "EpisodeCount": "1h 43m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.3|(270K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMGQzZDFjZWUtZDU4ZS00ZjM3LTgyYmItYjA3YmIwYzRkZWY3XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "90. Come and See",
+    "Year": 1985,
+    "EpisodeCount": "2h 22m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.3|(109K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNDlkZmVkZDAtZGFmMS00OWIzLWJkY2YtNWE5NjNhNjhiZGE3XkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg"
+  },
+  {
+    "Title": "91. Requiem for a Dream",
+    "Year": 2000,
+    "EpisodeCount": "1h 42m",
+    "Ceritficate": "NC-17",
+    "Rating": "",
+    "RatingVotes": "8.3|(930K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BN2ZlMjIzZjctYzA2My00ZWYyLWI4ZjctMGI2NWYyNzFiZjAwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "92. Toy Story 3",
+    "Year": 2010,
+    "EpisodeCount": "1h 43m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.3|(923K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_QL75_UY207_CR3,0,140,207_.jpg"
+  },
+  {
+    "Title": "93. Star Wars: Episode VI - Return of the Jedi",
+    "Year": 1983,
+    "EpisodeCount": "2h 11m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.3|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg"
+  },
+  {
+    "Title": "94. The Hunt",
+    "Year": 2012,
+    "EpisodeCount": "1h 55m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(383K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_QL75_UY207_CR3,0,140,207_.jpg"
+  },
+  {
+    "Title": "95. Eternal Sunshine of the Spotless Mind",
+    "Year": 2004,
+    "EpisodeCount": "1h 48m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "96. Ikiru",
+    "Year": 1952,
+    "EpisodeCount": "2h 23m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.3|(95K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZTk4OGEwNDQtOGI2MC00MTU2LTk0YTEtNmU5NTIxMWNkNDhlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "97. 2001: A Space Odyssey",
+    "Year": 1968,
+    "EpisodeCount": "2h 29m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.3|(746K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "98. Reservoir Dogs",
+    "Year": 1992,
+    "EpisodeCount": "1h 39m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "99. The Apartment",
+    "Year": 1960,
+    "EpisodeCount": "2h 5m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.3|(207K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNDdhMzVhOWQtNDU2Mi00ZmZmLWJiZDMtY2QxMjhjY2Y1ZTI5XkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg"
+  },
+  {
+    "Title": "100. Lawrence of Arabia",
+    "Year": 1962,
+    "EpisodeCount": "3h 47m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.3|(326K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg"
+  },
+  {
+    "Title": "101. Incendies",
+    "Year": 2010,
+    "EpisodeCount": "2h 11m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(222K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "102. Scarface",
+    "Year": 1983,
+    "EpisodeCount": "2h 50m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(953K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "103. Double Indemnity",
+    "Year": 1944,
+    "EpisodeCount": "1h 47m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.3|(173K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BM2YwNjZlZDktNTlmNS00ODQwLWJmNmUtYmE1NTBhYjc1YTY5XkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "104. North by Northwest",
+    "Year": 1959,
+    "EpisodeCount": "2h 16m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.3|(358K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "105. Heat",
+    "Year": 1995,
+    "EpisodeCount": "2h 50m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(747K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg"
+  },
+  {
+    "Title": "106. Citizen Kane",
+    "Year": 1941,
+    "EpisodeCount": "1h 59m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.3|(478K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "107. M",
+    "Year": 1931,
+    "EpisodeCount": "1h 39m",
+    "Ceritficate": "Passed",
+    "Rating": "",
+    "RatingVotes": "8.3|(175K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "108. Up",
+    "Year": 2009,
+    "EpisodeCount": "1h 36m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.3|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "109. Full Metal Jacket",
+    "Year": 1987,
+    "EpisodeCount": "1h 56m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(815K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYWUzNzZkNzUtNDdiYy00Nzk5LTgxMmItNTk0MjRjNjdjNDA0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "110. Vertigo",
+    "Year": 1958,
+    "EpisodeCount": "2h 8m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.3|(441K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNzEyZTUxMWItMGVhYy00Y2NlLTljYTMtYzBmMzI1YmUyMDBkXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg"
+  },
+  {
+    "Title": "111. Amélie",
+    "Year": 2001,
+    "EpisodeCount": "2h 2m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(813K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "112. A Clockwork Orange",
+    "Year": 1971,
+    "EpisodeCount": "2h 16m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(905K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "113. Oppenheimer",
+    "Year": 2023,
+    "EpisodeCount": "3h",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.3|(856K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "114. To Kill a Mockingbird",
+    "Year": 1962,
+    "EpisodeCount": "2h 9m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.3|(341K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "115. A Separation",
+    "Year": 2011,
+    "EpisodeCount": "2h 3m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.3|(267K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "116. Die Hard",
+    "Year": 1988,
+    "EpisodeCount": "2h 12m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(983K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "117. The Sting",
+    "Year": 1973,
+    "EpisodeCount": "2h 9m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.3|(288K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZGI4OTk4MDMtYmQ1Ni00YTUzLTkyYTktZGUwMjMyN2M4NjQ5XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "118. Like Stars on Earth",
+    "Year": 2007,
+    "EpisodeCount": "2h 42m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.3|(215K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZTI0ZGRiMDEtNGNjMS00MGU4LWI3OTktNzcxMDZmZTk3MTljXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg"
+  },
+  {
+    "Title": "119. Indiana Jones and the Last Crusade",
+    "Year": 1989,
+    "EpisodeCount": "2h 7m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.2|(833K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "120. Metropolis",
+    "Year": 1927,
+    "EpisodeCount": "2h 33m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.3|(193K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "121. Snatch",
+    "Year": 2000,
+    "EpisodeCount": "1h 42m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(938K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYzk5NjJkMTQtN2IyNC00YWM5LTlhZmMtNGI3MWNhMTU1YTc4XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "122. 1917",
+    "Year": 2019,
+    "EpisodeCount": "1h 59m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(717K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg"
+  },
+  {
+    "Title": "123. I'm Still Here",
+    "Year": 2024,
+    "EpisodeCount": "2h 17m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.8|(76K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BM2FjMjBiZjgtZDkyYy00YTRlLTk5N2QtODE2ZWIyYWE0Yzg0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "124. L.A. Confidential",
+    "Year": 1997,
+    "EpisodeCount": "2h 18m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(637K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "125. Bicycle Thieves",
+    "Year": 1948,
+    "EpisodeCount": "1h 29m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.3|(183K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_QL75_UY207_CR2,0,140,207_.jpg"
+  },
+  {
+    "Title": "126. Downfall",
+    "Year": 2004,
+    "EpisodeCount": "2h 36m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(385K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "127. Dangal",
+    "Year": 2016,
+    "EpisodeCount": "2h 41m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.3|(222K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_QL75_UY207_CR4,0,140,207_.jpg"
+  },
+  {
+    "Title": "128. Taxi Driver",
+    "Year": 1976,
+    "EpisodeCount": "1h 54m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(967K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "129. Hamilton",
+    "Year": 2020,
+    "EpisodeCount": "2h 40m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.3|(125K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYzBhOWY4ZTktMjE2NS00ZGIyLWJkOGMtNDQyN2JjZWFiODdiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "130. The Wolf of Wall Street",
+    "Year": 2013,
+    "EpisodeCount": "3h",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(1.7M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "131. Batman Begins",
+    "Year": 2005,
+    "EpisodeCount": "2h 20m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.2|(1.6M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BODIyMDdhNTgtNDlmOC00MjUxLWE2NDItODA5MTdkNzY3ZTdhXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "132. Green Book",
+    "Year": 2018,
+    "EpisodeCount": "2h 10m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.2|(623K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "133. For a Few Dollars More",
+    "Year": 1965,
+    "EpisodeCount": "2h 12m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(285K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "134. Some Like It Hot",
+    "Year": 1959,
+    "EpisodeCount": "2h 1m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.2|(292K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg"
+  },
+  {
+    "Title": "135. The Truman Show",
+    "Year": 1998,
+    "EpisodeCount": "1h 43m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.2|(1.3M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "136. Judgment at Nuremberg",
+    "Year": 1961,
+    "EpisodeCount": "2h 59m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.3|(90K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "137. The Kid",
+    "Year": 1921,
+    "EpisodeCount": "1h 8m",
+    "Ceritficate": "Passed",
+    "Rating": "",
+    "RatingVotes": "8.2|(140K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNjkxMzY1NTQtN2YwOS00NmIwLTlkNTMtMjNkMzk1ZTk3ZDU2XkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "138. The Father",
+    "Year": 2020,
+    "EpisodeCount": "1h 37m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.2|(209K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "139. Shutter Island",
+    "Year": 2010,
+    "EpisodeCount": "2h 18m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(1.5M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "140. All About Eve",
+    "Year": 1950,
+    "EpisodeCount": "2h 18m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.2|(143K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTM4ZjUzOGUtYzdlZi00ZmM5LTk5NTEtMjQxNDVmOTc5NWNlXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "141. There Will Be Blood",
+    "Year": 2007,
+    "EpisodeCount": "2h 38m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(664K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "142. Jurassic Park",
+    "Year": 1993,
+    "EpisodeCount": "2h 7m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.2|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "143. Casino",
+    "Year": 1995,
+    "EpisodeCount": "2h 58m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(586K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "144. The Sixth Sense",
+    "Year": 1999,
+    "EpisodeCount": "1h 47m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.2|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "145. Ran",
+    "Year": 1985,
+    "EpisodeCount": "2h 40m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(142K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDk2NDY5YjktMjEyMC00OTJhLTkzM2EtY2Q4Y2RjYzc2Yjk4XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "146. Top Gun: Maverick",
+    "Year": 2022,
+    "EpisodeCount": "2h 10m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.2|(759K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "147. No Country for Old Men",
+    "Year": 2007,
+    "EpisodeCount": "2h 2m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "148. The Thing",
+    "Year": 1982,
+    "EpisodeCount": "1h 49m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(492K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "149. Pan's Labyrinth",
+    "Year": 2006,
+    "EpisodeCount": "1h 58m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(720K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTc1NTAxMWItMWFlNy00MmU2LTkwMTMtNzMwOTg5OTQ5YTFiXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "150. Unforgiven",
+    "Year": 1992,
+    "EpisodeCount": "2h 10m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(449K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNmZmMzM3YWMtZjg5Yi00M2MxLTg3ZGItNGU4YjQxNDAxM2Q4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "151. A Beautiful Mind",
+    "Year": 2001,
+    "EpisodeCount": "2h 15m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.2|(1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNzljZTk5ZDgtZTQ1Zi00NTM4LThlOGUtZDk2MGM4NDQ4NWQyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "152. Kill Bill: Vol. 1",
+    "Year": 2003,
+    "EpisodeCount": "1h 51m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZmMyYzJlZmYtY2I3NC00NjAyLTkyZWItZjdjZDI1YTYyYTEwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "153. The Treasure of the Sierra Madre",
+    "Year": 1948,
+    "EpisodeCount": "2h 6m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.2|(136K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOWM1YjFmODEtMWNhMC00YmI1LWI0Y2EtYzg0YTBhZWI4ODE3XkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "154. Yojimbo",
+    "Year": 1961,
+    "EpisodeCount": "1h 50m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.2|(136K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "155. Prisoners",
+    "Year": 2013,
+    "EpisodeCount": "2h 33m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(858K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "156. Finding Nemo",
+    "Year": 2003,
+    "EpisodeCount": "1h 40m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.2|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "157. The Great Escape",
+    "Year": 1963,
+    "EpisodeCount": "2h 52m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.2|(266K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDRhNmJjMzEtMWU5MC00YmEyLTg3ZmYtNzYxZTI1ZGU4ZjI1XkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,207_.jpg"
+  },
+  {
+    "Title": "158. Monty Python and the Holy Grail",
+    "Year": 1975,
+    "EpisodeCount": "1h 31m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.2|(584K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYWY4YmUzZmUtMzQ0ZS00N2Y2LWJlODQtN2IwMDc1MWQwMmU3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "159. Howl's Moving Castle",
+    "Year": 2004,
+    "EpisodeCount": "1h 59m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.2|(476K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "160. The Elephant Man",
+    "Year": 1980,
+    "EpisodeCount": "2h 4m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.2|(270K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMGE3MDZhNmMtMmUxZS00MDJmLTgxYmQtOGU4ODU0Y2JmNDI1XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "161. Dial M for Murder",
+    "Year": 1954,
+    "EpisodeCount": "1h 45m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.2|(196K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZmYzNDgzYjgtNmU3Ny00YzUxLWE3OWUtMjIxZmNkYTVhNDZmXkEyXkFqcGc@._V1_QL75_UY207_CR7,0,140,207_.jpg"
+  },
+  {
+    "Title": "162. Gone with the Wind",
+    "Year": 1939,
+    "EpisodeCount": "3h 58m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.2|(344K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYmYxZTE3YzMtYmE2Yy00NmFlLTkzYTAtYTAzN2IzNDFkN2E0XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "163. Rashomon",
+    "Year": 1950,
+    "EpisodeCount": "1h 28m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.2|(188K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDlkYjViMDAtYjkxNy00ZDk1LWE5MmUtNDc4NDU3ZWJmOTYzXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "164. The Wild Robot",
+    "Year": 2024,
+    "EpisodeCount": "1h 42m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.2|(139K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg"
+  },
+  {
+    "Title": "165. Chinatown",
+    "Year": 1974,
+    "EpisodeCount": "2h 10m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(362K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "166. Klaus",
+    "Year": 2019,
+    "EpisodeCount": "1h 36m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.2|(211K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "167. The Secret in Their Eyes",
+    "Year": 2009,
+    "EpisodeCount": "2h 9m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.2|(230K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "168. Lock, Stock and Two Smoking Barrels",
+    "Year": 1998,
+    "EpisodeCount": "1h 47m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(631K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMmY1M2M5ZmMtYzllZC00YzAxLTk4MjktZDJkNjA1MTUwMGQ4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "169. V for Vendetta",
+    "Year": 2005,
+    "EpisodeCount": "2h 12m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "170. Inside Out",
+    "Year": 2015,
+    "EpisodeCount": "1h 35m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.1|(856K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "171. Three Billboards Outside Ebbing, Missouri",
+    "Year": 2017,
+    "EpisodeCount": "1h 55m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(576K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "172. Trainspotting",
+    "Year": 1996,
+    "EpisodeCount": "1h 33m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(745K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYmVkNGJkMzQtYWQwOS00OTZmLThjODQtZjNjNzllYzRiNTE0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "173. The Bridge on the River Kwai",
+    "Year": 1957,
+    "EpisodeCount": "2h 41m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.1|(240K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg"
+  },
+  {
+    "Title": "174. Raging Bull",
+    "Year": 1980,
+    "EpisodeCount": "2h 9m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(392K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjlkYmYyZWQtNTZkOS00ZjA0LWEwNWUtNzE2ZGNiYjg0MjA2XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "175. Catch Me If You Can",
+    "Year": 2002,
+    "EpisodeCount": "2h 21m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.1|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "176. Fargo",
+    "Year": 1996,
+    "EpisodeCount": "1h 38m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(749K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "177. Warrior",
+    "Year": 2011,
+    "EpisodeCount": "2h 20m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.1|(511K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_QL75_UX140_CR0,4,140,207_.jpg"
+  },
+  {
+    "Title": "178. Harry Potter and the Deathly Hallows: Part 2",
+    "Year": 2011,
+    "EpisodeCount": "2h 10m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.1|(987K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "179. Gran Torino",
+    "Year": 2008,
+    "EpisodeCount": "1h 56m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(834K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "180. Million Dollar Baby",
+    "Year": 2004,
+    "EpisodeCount": "2h 12m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.1|(741K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "181. Spider-Man: No Way Home",
+    "Year": 2021,
+    "EpisodeCount": "2h 28m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.2|(935K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "182. My Neighbor Totoro",
+    "Year": 1988,
+    "EpisodeCount": "1h 26m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.1|(401K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "183. Mad Max: Fury Road",
+    "Year": 2015,
+    "EpisodeCount": "2h",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(1.2M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "184. Ben-Hur",
+    "Year": 1959,
+    "EpisodeCount": "3h 32m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.1|(261K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "185. Children of Heaven",
+    "Year": 1997,
+    "EpisodeCount": "1h 29m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.2|(85K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZWZlMjNhNzgtZGRhOS00Y2U5LThjOTctODNjZTI0ZTBiYzBhXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg"
+  },
+  {
+    "Title": "186. Barry Lyndon",
+    "Year": 1975,
+    "EpisodeCount": "3h 5m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.1|(191K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNmM2MGQ5Y2UtYzA3ZC00ZDJlLTkwNDYtMjBmZGExZDJiN2RlXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "187. 12 Years a Slave",
+    "Year": 2013,
+    "EpisodeCount": "2h 14m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(759K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "188. Before Sunrise",
+    "Year": 1995,
+    "EpisodeCount": "1h 41m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(355K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDZhZmI1ZTUtYWI3NC00NTMwLTk3NWMtNDc0OGNjM2I0ZjlmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "189. Blade Runner",
+    "Year": 1982,
+    "EpisodeCount": "1h 57m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(848K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "190. The Grand Budapest Hotel",
+    "Year": 2014,
+    "EpisodeCount": "1h 39m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(918K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "191. Dead Poets Society",
+    "Year": 1989,
+    "EpisodeCount": "2h 8m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.1|(582K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "192. Hacksaw Ridge",
+    "Year": 2016,
+    "EpisodeCount": "2h 19m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(628K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_QL75_UX140_CR0,4,140,207_.jpg"
+  },
+  {
+    "Title": "193. Gone Girl",
+    "Year": 2014,
+    "EpisodeCount": "2h 29m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(1.1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "194. Memories of Murder",
+    "Year": 2003,
+    "EpisodeCount": "2h 12m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.1|(235K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "195. In the Name of the Father",
+    "Year": 1993,
+    "EpisodeCount": "2h 13m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(194K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMGZiZDVjNzYtZWM4ZC00MzVkLThhNDEtMDJlOTBhYzVjMmNhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "196. Monsters, Inc.",
+    "Year": 2001,
+    "EpisodeCount": "1h 32m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.1|(1M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "197. Ratatouille",
+    "Year": 2007,
+    "EpisodeCount": "1h 51m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.1|(872K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "198. The Gold Rush",
+    "Year": 1925,
+    "EpisodeCount": "1h 35m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.1|(123K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNGU1NjYzYTAtZmY0YS00NWIzLTkzNzUtYzc2ZTIyOTIxZjVhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "199. Wild Tales",
+    "Year": 2014,
+    "EpisodeCount": "2h 2m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(226K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNzAzMjA1ODAxOV5BMl5BanBnXkFtZTgwODg4NTQzNDE@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "200. How to Train Your Dragon",
+    "Year": 2010,
+    "EpisodeCount": "1h 38m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.1|(833K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "201. Sherlock Jr.",
+    "Year": 1924,
+    "EpisodeCount": "45m",
+    "Ceritficate": "Passed",
+    "Rating": "",
+    "RatingVotes": "8.2|(61K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg"
+  },
+  {
+    "Title": "202. Jaws",
+    "Year": 1975,
+    "EpisodeCount": "2h 4m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.1|(687K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg"
+  },
+  {
+    "Title": "203. The Deer Hunter",
+    "Year": 1978,
+    "EpisodeCount": "3h 3m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(373K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZGI4YmVhMzMtMWExMS00MGZiLTg2MmItM2I2MWZjODAyM2U5XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "204. Mary and Max",
+    "Year": 2009,
+    "EpisodeCount": "1h 32m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.1|(194K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNzY2Mjc4NjMtNGY4Mi00NzM5LTk3ZTQtN2VkNzVkMzRmM2Y2XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg"
+  },
+  {
+    "Title": "205. The General",
+    "Year": 1926,
+    "EpisodeCount": "1h 18m",
+    "Ceritficate": "Passed",
+    "Rating": "",
+    "RatingVotes": "8.1|(102K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "206. Ford v Ferrari",
+    "Year": 2019,
+    "EpisodeCount": "2h 32m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.1|(513K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTBjNTEyNjYtYjdkNi00YzE5LTljYzUtZjVlYmYwZmJmZWYxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "207. The Wages of Fear",
+    "Year": 1953,
+    "EpisodeCount": "2h 36m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.1|(69K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDdhOGMwODQtZGM2MS00NGQxLWEyZDMtOTkzMjFjYjI3ZmM2XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "208. On the Waterfront",
+    "Year": 1954,
+    "EpisodeCount": "1h 48m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.1|(171K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDJlYTM1ZGYtZTM4YS00MzFhLThiZjktYzQ0ZjAzMGYwZTU3XkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "209. Mr. Smith Goes to Washington",
+    "Year": 1939,
+    "EpisodeCount": "2h 9m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.1|(125K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg"
+  },
+  {
+    "Title": "210. Wild Strawberries",
+    "Year": 1957,
+    "EpisodeCount": "1h 32m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.1|(119K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZWQ5MDllM2EtZWRmNS00MmZiLWI4ZWQtMjRiY2Q5MTAxODY4XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "211. Maharaja",
+    "Year": 2024,
+    "EpisodeCount": "2h 21m",
+    "Ceritficate": "",
+    "Rating": "",
+    "RatingVotes": "8.4|(64K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg"
+  },
+  {
+    "Title": "212. Logan",
+    "Year": 2017,
+    "EpisodeCount": "2h 17m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(880K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "213. The Third Man",
+    "Year": 1949,
+    "EpisodeCount": "1h 44m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.1|(188K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNTAwZjAwZDUtNDc1Yi00OGY3LTgzMjktYjIyMjQzOWE3MmVhXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg"
+  },
+  {
+    "Title": "214. Rocky",
+    "Year": 1976,
+    "EpisodeCount": "2h",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.1|(653K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "215. Tokyo Story",
+    "Year": 1953,
+    "EpisodeCount": "2h 17m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.1|(73K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BODdkNzcxZjItMDU2Yy00Y2JlLWFkYTQtNzIwM2Q4MWU5MTU2XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg"
+  },
+  {
+    "Title": "216. The Big Lebowski",
+    "Year": 1998,
+    "EpisodeCount": "1h 57m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(884K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BY2E3OWQ5OWYtYTRkMC00NjVjLWIzZDQtNmRmM2ZiYTIyYmYxXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "217. Spotlight",
+    "Year": 2015,
+    "EpisodeCount": "2h 9m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(515K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "218. The Seventh Seal",
+    "Year": 1957,
+    "EpisodeCount": "1h 36m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.1|(206K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg"
+  },
+  {
+    "Title": "219. The Terminator",
+    "Year": 1984,
+    "EpisodeCount": "1h 47m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(956K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "220. Room",
+    "Year": 2015,
+    "EpisodeCount": "1h 58m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(464K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "221. Pirates of the Caribbean: The Curse of the Black Pearl",
+    "Year": 2003,
+    "EpisodeCount": "2h 23m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.1|(1.3M)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "222. Hotel Rwanda",
+    "Year": 2004,
+    "EpisodeCount": "2h 1m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.1|(382K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BY2FmMWRmZmQtN2IzMS00OGVmLWFmNjktMTM0YWQzODcwYTEwXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "223. Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
+    "Year": 2021,
+    "EpisodeCount": "1h 27m",
+    "Ceritficate": "",
+    "Rating": "",
+    "RatingVotes": "8.6|(30K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZjQzYWUzMWYtMWNmMi00ZDYxLTgzYmItN2NjYTY2YWEyMzNlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "224. Jai Bhim",
+    "Year": 2021,
+    "EpisodeCount": "2h 44m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.7|(224K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg"
+  },
+  {
+    "Title": "225. La haine",
+    "Year": 1995,
+    "EpisodeCount": "1h 38m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.1|(208K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "226. Platoon",
+    "Year": 1986,
+    "EpisodeCount": "2h",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(452K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,207_.jpg"
+  },
+  {
+    "Title": "227. Before Sunset",
+    "Year": 2004,
+    "EpisodeCount": "1h 20m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(299K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "228. The Best Years of Our Lives",
+    "Year": 1946,
+    "EpisodeCount": "2h 50m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.1|(73K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNTgxMzUyODQtMDJmZC00ZGMyLWI3MzAtZTYwYjBjZjFmMzIxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "229. The Passion of Joan of Arc",
+    "Year": 1928,
+    "EpisodeCount": "1h 54m",
+    "Ceritficate": "Passed",
+    "Rating": "",
+    "RatingVotes": "8.1|(64K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYWMwMzEyYWQtYTlmNi00MTg0LTliYjUtZTFhMTMxOGEyNjNlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "230. The Exorcist",
+    "Year": 1973,
+    "EpisodeCount": "2h 2m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(473K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "231. The Wizard of Oz",
+    "Year": 1939,
+    "EpisodeCount": "1h 42m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.1|(447K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "232. The Incredibles",
+    "Year": 2004,
+    "EpisodeCount": "1h 55m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.0|(845K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "233. Rush",
+    "Year": 2013,
+    "EpisodeCount": "2h 3m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(530K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "234. The Sound of Music",
+    "Year": 1965,
+    "EpisodeCount": "2h 52m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.1|(273K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYWJhYmU4MjQtZDJhYi00ZGVjLTlkNTEtNzkzNGVjOWQ3MjcwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "235. Hachi: A Dog's Tale",
+    "Year": 2009,
+    "EpisodeCount": "1h 33m",
+    "Ceritficate": "G",
+    "Rating": "",
+    "RatingVotes": "8.1|(324K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNTU5NjYyYTgtZGQ3My00MzRhLThjNGYtZmVjN2JjYjhkMjhhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "236. Stand by Me",
+    "Year": 1986,
+    "EpisodeCount": "1h 29m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(459K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNGJkNTUwM2MtZWE2MS00YjNkLWE3MjktNWQwZDQxMDIyZWVmXkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,207_.jpg"
+  },
+  {
+    "Title": "237. Network",
+    "Year": 1976,
+    "EpisodeCount": "2h 1m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(177K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "238. My Father and My Son",
+    "Year": 2005,
+    "EpisodeCount": "1h 52m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.2|(96K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDE3MTBkNmQtNGFjMC00YTcwLWExY2ItN2MyMGZkNWJlMmFmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "239. The Handmaiden",
+    "Year": 2016,
+    "EpisodeCount": "2h 25m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.1|(185K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg"
+  },
+  {
+    "Title": "240. The Iron Giant",
+    "Year": 1999,
+    "EpisodeCount": "1h 26m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.1|(241K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "241. To Be or Not to Be",
+    "Year": 1942,
+    "EpisodeCount": "1h 39m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.1|(46K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTA5OTRkZGUtNDhhOS00OThmLTgwZWYtZGZkM2M4YjZhNzc5XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "242. The Battle of Algiers",
+    "Year": 1966,
+    "EpisodeCount": "2h 1m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.1|(70K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg"
+  },
+  {
+    "Title": "243. Into the Wild",
+    "Year": 2007,
+    "EpisodeCount": "2h 28m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.1|(675K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BNTgwZTJhNWMtNzVjMy00YzQzLWI4MTAtYmJhOGQ5ZmQ3MDM0XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "244. The Grapes of Wrath",
+    "Year": 1940,
+    "EpisodeCount": "2h 9m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.1|(103K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BZDgzZjk3OGYtNWI2Ny00MDg3LTgwYWEtNjI1ODAxNjA3ZmFlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "245. Groundhog Day",
+    "Year": 1993,
+    "EpisodeCount": "1h 41m",
+    "Ceritficate": "PG",
+    "Rating": "",
+    "RatingVotes": "8.0|(710K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOWE3MjQ3ZDAtNDQ2MC00YjBjLTk0ZWYtNjQ0YzQ4YWE3YTEyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "246. The Help",
+    "Year": 2011,
+    "EpisodeCount": "2h 26m",
+    "Ceritficate": "PG-13",
+    "Rating": "",
+    "RatingVotes": "8.1|(508K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "247. A Silent Voice: The Movie",
+    "Year": 2016,
+    "EpisodeCount": "2h 10m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.1|(116K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg"
+  },
+  {
+    "Title": "248. Amores Perros",
+    "Year": 2000,
+    "EpisodeCount": "2h 34m",
+    "Ceritficate": "R",
+    "Rating": "",
+    "RatingVotes": "8.0|(259K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BMmUzNDI1MDYtNmIxNC00NjczLTk0ZDEtYWFkZDcxMWVhYTEwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg"
+  },
+  {
+    "Title": "249. Rebecca",
+    "Year": 1940,
+    "EpisodeCount": "2h 10m",
+    "Ceritficate": "Approved",
+    "Rating": "",
+    "RatingVotes": "8.1|(152K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYTI0MjUyODAtZTBkNC00MmIwLWFlNmYtMWE3ZmJlOWJjM2QyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg"
+  },
+  {
+    "Title": "250. A Man Escaped",
+    "Year": 1956,
+    "EpisodeCount": "1h 41m",
+    "Ceritficate": "Not Rated",
+    "Rating": "",
+    "RatingVotes": "8.2|(28K)",
+    "TitleType": "",
+    "IMG": "https://m.media-amazon.com/images/M/MV5BYjBkODI2NzItODMzMC00Yjc2LWI2NDItZTA5YTE0MTE5NDc2XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg"
+  }
 ]
 }
