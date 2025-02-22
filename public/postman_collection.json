@@ -106,7 +106,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Ganesh Selvi\",\n  \"email\": \"ganesh1@techmail.com\",\n  \"username\": \"ganesh1\"\n}",
+              "raw": "{\n  \"name\": \"Raja Vivek\",\n  \"email\": \"raja1@techmail.com\",\n  \"username\": \"raja1\"\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -143,7 +143,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Ganesh Selvi\",\n  \"email\": \"ganesh1@techmail.com\",\n  \"username\": \"ganesh1\"\n}",
+              "raw": "{\n  \"name\": \"Raja Vivek\",\n  \"email\": \"raja1@techmail.com\",\n  \"username\": \"raja1\"\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -177,19 +177,19 @@
       ]
     },
     {
-      "name": "Posts",
+      "name": "Movies",
       "item": [
         {
-          "name": "Get All Posts",
+          "name": "Get All Movies",
           "request": {
             "method": "GET",
             "url": {
-              "raw": "{{baseUrl}}/posts",
+              "raw": "{{baseUrl}}/movies",
               "host": [
                 "{{baseUrl}}"
               ],
               "path": [
-                "posts"
+                "movies"
               ],
               "query": [
                 {
@@ -211,9 +211,57 @@
                   "disabled": true
                 },
                 {
-                  "key": "userId",
+                  "key": "adult",
                   "value": "",
-                  "description": "Filter by userId",
+                  "description": "Filter by adult",
+                  "disabled": true
+                },
+                {
+                  "key": "backdrop_path",
+                  "value": "",
+                  "description": "Filter by backdrop_path",
+                  "disabled": true
+                },
+                {
+                  "key": "genre_ids",
+                  "value": "",
+                  "description": "Filter by genre_ids",
+                  "disabled": true
+                },
+                {
+                  "key": "original_language",
+                  "value": "",
+                  "description": "Filter by original_language",
+                  "disabled": true
+                },
+                {
+                  "key": "original_title",
+                  "value": "",
+                  "description": "Filter by original_title",
+                  "disabled": true
+                },
+                {
+                  "key": "overview",
+                  "value": "",
+                  "description": "Filter by overview",
+                  "disabled": true
+                },
+                {
+                  "key": "popularity",
+                  "value": "",
+                  "description": "Filter by popularity",
+                  "disabled": true
+                },
+                {
+                  "key": "poster_path",
+                  "value": "",
+                  "description": "Filter by poster_path",
+                  "disabled": true
+                },
+                {
+                  "key": "release_date",
+                  "value": "",
+                  "description": "Filter by release_date",
                   "disabled": true
                 },
                 {
@@ -223,15 +271,21 @@
                   "disabled": true
                 },
                 {
-                  "key": "body",
+                  "key": "video",
                   "value": "",
-                  "description": "Filter by body",
+                  "description": "Filter by video",
                   "disabled": true
                 },
                 {
-                  "key": "comments",
+                  "key": "vote_average",
                   "value": "",
-                  "description": "Filter by comments",
+                  "description": "Filter by vote_average",
+                  "disabled": true
+                },
+                {
+                  "key": "vote_count",
+                  "value": "",
+                  "description": "Filter by vote_count",
                   "disabled": true
                 }
               ]
@@ -239,16 +293,16 @@
           }
         },
         {
-          "name": "Get Single Posts",
+          "name": "Get Single Movies",
           "request": {
             "method": "GET",
             "url": {
-              "raw": "{{baseUrl}}/posts/:id",
+              "raw": "{{baseUrl}}/movies/:id",
               "host": [
                 "{{baseUrl}}"
               ],
               "path": [
-                "posts",
+                "movies",
                 ":id"
               ],
               "variable": [
@@ -261,16 +315,16 @@
           }
         },
         {
-          "name": "Create Posts",
+          "name": "Create Movies",
           "request": {
             "method": "POST",
             "url": {
-              "raw": "{{baseUrl}}/posts",
+              "raw": "{{baseUrl}}/movies",
               "host": [
                 "{{baseUrl}}"
               ],
               "path": [
-                "posts"
+                "movies"
               ]
             },
             "header": [
@@ -281,7 +335,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 2,\n  \"title\": \"Sustainable Tech Solutions\",\n  \"body\": \"Exploring the impact of Sustainable Tech Solutions in Vellore...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 44,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 11,\n      \"postId\": 1,\n      \"userId\": 19,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 12,\n      \"postId\": 1,\n      \"userId\": 38,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
+              "raw": "{\n  \"adult\": false,\n  \"backdrop_path\": \"https://image.tmdb.org/t/p/original/8fghELwSznM4QaTIbNeNAOOO1Aj.jpg\",\n  \"genre_ids\": [\n    28,\n    80,\n    53\n  ],\n  \"original_language\": \"ta\",\n  \"original_title\": \"The Briefcase\",\n  \"overview\": \"\",\n  \"popularity\": 0.863,\n  \"poster_path\": \"https://image.tmdb.org/t/p/original/CvmSdBfR7W27nowTRiadzr7P8F.jpg\",\n  \"release_date\": \"2025-01-24\",\n  \"title\": \"The Briefcase\",\n  \"video\": false,\n  \"vote_average\": 10,\n  \"vote_count\": 1\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -291,16 +345,16 @@
           }
         },
         {
-          "name": "Update Posts",
+          "name": "Update Movies",
           "request": {
             "method": "PUT",
             "url": {
-              "raw": "{{baseUrl}}/posts/:id",
+              "raw": "{{baseUrl}}/movies/:id",
               "host": [
                 "{{baseUrl}}"
               ],
               "path": [
-                "posts",
+                "movies",
                 ":id"
               ],
               "variable": [
@@ -318,7 +372,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 2,\n  \"title\": \"Sustainable Tech Solutions\",\n  \"body\": \"Exploring the impact of Sustainable Tech Solutions in Vellore...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 44,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 11,\n      \"postId\": 1,\n      \"userId\": 19,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 12,\n      \"postId\": 1,\n      \"userId\": 38,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
+              "raw": "{\n  \"adult\": false,\n  \"backdrop_path\": \"https://image.tmdb.org/t/p/original/8fghELwSznM4QaTIbNeNAOOO1Aj.jpg\",\n  \"genre_ids\": [\n    28,\n    80,\n    53\n  ],\n  \"original_language\": \"ta\",\n  \"original_title\": \"The Briefcase\",\n  \"overview\": \"\",\n  \"popularity\": 0.863,\n  \"poster_path\": \"https://image.tmdb.org/t/p/original/CvmSdBfR7W27nowTRiadzr7P8F.jpg\",\n  \"release_date\": \"2025-01-24\",\n  \"title\": \"The Briefcase\",\n  \"video\": false,\n  \"vote_average\": 10,\n  \"vote_count\": 1\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -328,16 +382,16 @@
           }
         },
         {
-          "name": "Delete Posts",
+          "name": "Delete Movies",
           "request": {
             "method": "DELETE",
             "url": {
-              "raw": "{{baseUrl}}/posts/:id",
+              "raw": "{{baseUrl}}/movies/:id",
               "host": [
                 "{{baseUrl}}"
               ],
               "path": [
-                "posts",
+                "movies",
                 ":id"
               ],
               "variable": [
@@ -350,385 +404,18 @@
           }
         },
         {
-          "name": "Get Posts Comments",
+          "name": "Get Movies Genre_ids",
           "request": {
             "method": "GET",
             "url": {
-              "raw": "{{baseUrl}}/posts/:id/comments",
+              "raw": "{{baseUrl}}/movies/:id/genre_ids",
               "host": [
                 "{{baseUrl}}"
               ],
               "path": [
-                "posts",
+                "movies",
                 ":id",
-                "comments"
-              ],
-              "variable": [
-                {
-                  "key": "id",
-                  "value": "1"
-                }
-              ]
-            }
-          }
-        }
-      ]
-    },
-    {
-      "name": "Todos",
-      "item": [
-        {
-          "name": "Get All Todos",
-          "request": {
-            "method": "GET",
-            "url": {
-              "raw": "{{baseUrl}}/todos",
-              "host": [
-                "{{baseUrl}}"
-              ],
-              "path": [
-                "todos"
-              ],
-              "query": [
-                {
-                  "key": "_page",
-                  "value": "1",
-                  "description": "Page number",
-                  "disabled": true
-                },
-                {
-                  "key": "_limit",
-                  "value": "10",
-                  "description": "Items per page",
-                  "disabled": true
-                },
-                {
-                  "key": "q",
-                  "value": "",
-                  "description": "Search term",
-                  "disabled": true
-                },
-                {
-                  "key": "userId",
-                  "value": "",
-                  "description": "Filter by userId",
-                  "disabled": true
-                },
-                {
-                  "key": "task",
-                  "value": "",
-                  "description": "Filter by task",
-                  "disabled": true
-                },
-                {
-                  "key": "completed",
-                  "value": "",
-                  "description": "Filter by completed",
-                  "disabled": true
-                }
-              ]
-            }
-          }
-        },
-        {
-          "name": "Get Single Todos",
-          "request": {
-            "method": "GET",
-            "url": {
-              "raw": "{{baseUrl}}/todos/:id",
-              "host": [
-                "{{baseUrl}}"
-              ],
-              "path": [
-                "todos",
-                ":id"
-              ],
-              "variable": [
-                {
-                  "key": "id",
-                  "value": "1"
-                }
-              ]
-            }
-          }
-        },
-        {
-          "name": "Create Todos",
-          "request": {
-            "method": "POST",
-            "url": {
-              "raw": "{{baseUrl}}/todos",
-              "host": [
-                "{{baseUrl}}"
-              ],
-              "path": [
-                "todos"
-              ]
-            },
-            "header": [
-              {
-                "key": "Content-Type",
-                "value": "application/json"
-              }
-            ],
-            "body": {
-              "mode": "raw",
-              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Update Chennai traffic monitoring system\",\n  \"completed\": false\n}",
-              "options": {
-                "raw": {
-                  "language": "json"
-                }
-              }
-            }
-          }
-        },
-        {
-          "name": "Update Todos",
-          "request": {
-            "method": "PUT",
-            "url": {
-              "raw": "{{baseUrl}}/todos/:id",
-              "host": [
-                "{{baseUrl}}"
-              ],
-              "path": [
-                "todos",
-                ":id"
-              ],
-              "variable": [
-                {
-                  "key": "id",
-                  "value": "1"
-                }
-              ]
-            },
-            "header": [
-              {
-                "key": "Content-Type",
-                "value": "application/json"
-              }
-            ],
-            "body": {
-              "mode": "raw",
-              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Update Chennai traffic monitoring system\",\n  \"completed\": false\n}",
-              "options": {
-                "raw": {
-                  "language": "json"
-                }
-              }
-            }
-          }
-        },
-        {
-          "name": "Delete Todos",
-          "request": {
-            "method": "DELETE",
-            "url": {
-              "raw": "{{baseUrl}}/todos/:id",
-              "host": [
-                "{{baseUrl}}"
-              ],
-              "path": [
-                "todos",
-                ":id"
-              ],
-              "variable": [
-                {
-                  "key": "id",
-                  "value": "1"
-                }
-              ]
-            }
-          }
-        }
-      ]
-    },
-    {
-      "name": "Projects",
-      "item": [
-        {
-          "name": "Get All Projects",
-          "request": {
-            "method": "GET",
-            "url": {
-              "raw": "{{baseUrl}}/projects",
-              "host": [
-                "{{baseUrl}}"
-              ],
-              "path": [
-                "projects"
-              ],
-              "query": [
-                {
-                  "key": "_page",
-                  "value": "1",
-                  "description": "Page number",
-                  "disabled": true
-                },
-                {
-                  "key": "_limit",
-                  "value": "10",
-                  "description": "Items per page",
-                  "disabled": true
-                },
-                {
-                  "key": "q",
-                  "value": "",
-                  "description": "Search term",
-                  "disabled": true
-                },
-                {
-                  "key": "name",
-                  "value": "",
-                  "description": "Filter by name",
-                  "disabled": true
-                },
-                {
-                  "key": "userId",
-                  "value": "",
-                  "description": "Filter by userId",
-                  "disabled": true
-                },
-                {
-                  "key": "description",
-                  "value": "",
-                  "description": "Filter by description",
-                  "disabled": true
-                },
-                {
-                  "key": "tasks",
-                  "value": "",
-                  "description": "Filter by tasks",
-                  "disabled": true
-                }
-              ]
-            }
-          }
-        },
-        {
-          "name": "Get Single Projects",
-          "request": {
-            "method": "GET",
-            "url": {
-              "raw": "{{baseUrl}}/projects/:id",
-              "host": [
-                "{{baseUrl}}"
-              ],
-              "path": [
-                "projects",
-                ":id"
-              ],
-              "variable": [
-                {
-                  "key": "id",
-                  "value": "1"
-                }
-              ]
-            }
-          }
-        },
-        {
-          "name": "Create Projects",
-          "request": {
-            "method": "POST",
-            "url": {
-              "raw": "{{baseUrl}}/projects",
-              "host": [
-                "{{baseUrl}}"
-              ],
-              "path": [
-                "projects"
-              ]
-            },
-            "header": [
-              {
-                "key": "Content-Type",
-                "value": "application/json"
-              }
-            ],
-            "body": {
-              "mode": "raw",
-              "raw": "{\n  \"name\": \"Salem Web Development Initiative\",\n  \"userId\": 4,\n  \"description\": \"Implementing Web Development solutions for Salem region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Completed\"\n    }\n  ]\n}",
-              "options": {
-                "raw": {
-                  "language": "json"
-                }
-              }
-            }
-          }
-        },
-        {
-          "name": "Update Projects",
-          "request": {
-            "method": "PUT",
-            "url": {
-              "raw": "{{baseUrl}}/projects/:id",
-              "host": [
-                "{{baseUrl}}"
-              ],
-              "path": [
-                "projects",
-                ":id"
-              ],
-              "variable": [
-                {
-                  "key": "id",
-                  "value": "1"
-                }
-              ]
-            },
-            "header": [
-              {
-                "key": "Content-Type",
-                "value": "application/json"
-              }
-            ],
-            "body": {
-              "mode": "raw",
-              "raw": "{\n  \"name\": \"Salem Web Development Initiative\",\n  \"userId\": 4,\n  \"description\": \"Implementing Web Development solutions for Salem region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Completed\"\n    }\n  ]\n}",
-              "options": {
-                "raw": {
-                  "language": "json"
-                }
-              }
-            }
-          }
-        },
-        {
-          "name": "Delete Projects",
-          "request": {
-            "method": "DELETE",
-            "url": {
-              "raw": "{{baseUrl}}/projects/:id",
-              "host": [
-                "{{baseUrl}}"
-              ],
-              "path": [
-                "projects",
-                ":id"
-              ],
-              "variable": [
-                {
-                  "key": "id",
-                  "value": "1"
-                }
-              ]
-            }
-          }
-        },
-        {
-          "name": "Get Projects Tasks",
-          "request": {
-            "method": "GET",
-            "url": {
-              "raw": "{{baseUrl}}/projects/:id/tasks",
-              "host": [
-                "{{baseUrl}}"
-              ],
-              "path": [
-                "projects",
-                ":id",
-                "tasks"
+                "genre_ids"
               ],
               "variable": [
                 {
@@ -892,6 +579,571 @@
               "path": [
                 "quotes",
                 ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Posts",
+      "item": [
+        {
+          "name": "Get All Posts",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/posts",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "posts"
+              ],
+              "query": [
+                {
+                  "key": "_page",
+                  "value": "1",
+                  "description": "Page number",
+                  "disabled": true
+                },
+                {
+                  "key": "_limit",
+                  "value": "10",
+                  "description": "Items per page",
+                  "disabled": true
+                },
+                {
+                  "key": "q",
+                  "value": "",
+                  "description": "Search term",
+                  "disabled": true
+                },
+                {
+                  "key": "userId",
+                  "value": "",
+                  "description": "Filter by userId",
+                  "disabled": true
+                },
+                {
+                  "key": "title",
+                  "value": "",
+                  "description": "Filter by title",
+                  "disabled": true
+                },
+                {
+                  "key": "body",
+                  "value": "",
+                  "description": "Filter by body",
+                  "disabled": true
+                },
+                {
+                  "key": "comments",
+                  "value": "",
+                  "description": "Filter by comments",
+                  "disabled": true
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Get Single Posts",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/posts/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "posts",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Create Posts",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{baseUrl}}/posts",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "posts"
+              ]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"userId\": 28,\n  \"title\": \"Tech Innovation in Tamil Nadu\",\n  \"body\": \"Exploring the impact of Tech Innovation in Tamil Nadu in Neyveli...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 5,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Update Posts",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/posts/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "posts",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"userId\": 28,\n  \"title\": \"Tech Innovation in Tamil Nadu\",\n  \"body\": \"Exploring the impact of Tech Innovation in Tamil Nadu in Neyveli...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 5,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Posts",
+          "request": {
+            "method": "DELETE",
+            "url": {
+              "raw": "{{baseUrl}}/posts/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "posts",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Get Posts Comments",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/posts/:id/comments",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "posts",
+                ":id",
+                "comments"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todos",
+      "item": [
+        {
+          "name": "Get All Todos",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/todos",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "todos"
+              ],
+              "query": [
+                {
+                  "key": "_page",
+                  "value": "1",
+                  "description": "Page number",
+                  "disabled": true
+                },
+                {
+                  "key": "_limit",
+                  "value": "10",
+                  "description": "Items per page",
+                  "disabled": true
+                },
+                {
+                  "key": "q",
+                  "value": "",
+                  "description": "Search term",
+                  "disabled": true
+                },
+                {
+                  "key": "userId",
+                  "value": "",
+                  "description": "Filter by userId",
+                  "disabled": true
+                },
+                {
+                  "key": "task",
+                  "value": "",
+                  "description": "Filter by task",
+                  "disabled": true
+                },
+                {
+                  "key": "completed",
+                  "value": "",
+                  "description": "Filter by completed",
+                  "disabled": true
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Get Single Todos",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/todos/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "todos",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Create Todos",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{baseUrl}}/todos",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "todos"
+              ]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Review Tamil NLP model\",\n  \"completed\": false\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Update Todos",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/todos/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "todos",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Review Tamil NLP model\",\n  \"completed\": false\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Todos",
+          "request": {
+            "method": "DELETE",
+            "url": {
+              "raw": "{{baseUrl}}/todos/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "todos",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "item": [
+        {
+          "name": "Get All Projects",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/projects",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "projects"
+              ],
+              "query": [
+                {
+                  "key": "_page",
+                  "value": "1",
+                  "description": "Page number",
+                  "disabled": true
+                },
+                {
+                  "key": "_limit",
+                  "value": "10",
+                  "description": "Items per page",
+                  "disabled": true
+                },
+                {
+                  "key": "q",
+                  "value": "",
+                  "description": "Search term",
+                  "disabled": true
+                },
+                {
+                  "key": "name",
+                  "value": "",
+                  "description": "Filter by name",
+                  "disabled": true
+                },
+                {
+                  "key": "userId",
+                  "value": "",
+                  "description": "Filter by userId",
+                  "disabled": true
+                },
+                {
+                  "key": "description",
+                  "value": "",
+                  "description": "Filter by description",
+                  "disabled": true
+                },
+                {
+                  "key": "tasks",
+                  "value": "",
+                  "description": "Filter by tasks",
+                  "disabled": true
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Get Single Projects",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/projects/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "projects",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Create Projects",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{baseUrl}}/projects",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "projects"
+              ]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Tirunelveli IoT Initiative\",\n  \"userId\": 42,\n  \"description\": \"Implementing IoT solutions for Tirunelveli region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 13,\n      \"projectId\": 1,\n      \"task\": \"Phase 4 Implementation\",\n      \"status\": \"In Progress\"\n    }\n  ]\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Update Projects",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/projects/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "projects",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Tirunelveli IoT Initiative\",\n  \"userId\": 42,\n  \"description\": \"Implementing IoT solutions for Tirunelveli region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 13,\n      \"projectId\": 1,\n      \"task\": \"Phase 4 Implementation\",\n      \"status\": \"In Progress\"\n    }\n  ]\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Projects",
+          "request": {
+            "method": "DELETE",
+            "url": {
+              "raw": "{{baseUrl}}/projects/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "projects",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Get Projects Tasks",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/projects/:id/tasks",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "projects",
+                ":id",
+                "tasks"
               ],
               "variable": [
                 {
