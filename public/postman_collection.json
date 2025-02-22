@@ -106,7 +106,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Raja Vivek\",\n  \"email\": \"raja1@techmail.com\",\n  \"username\": \"raja1\"\n}",
+              "raw": "{\n  \"name\": \"Anbu Raj\",\n  \"email\": \"anbu1@techmail.com\",\n  \"username\": \"anbu1\"\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -143,7 +143,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Raja Vivek\",\n  \"email\": \"raja1@techmail.com\",\n  \"username\": \"raja1\"\n}",
+              "raw": "{\n  \"name\": \"Anbu Raj\",\n  \"email\": \"anbu1@techmail.com\",\n  \"username\": \"anbu1\"\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -696,7 +696,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 28,\n  \"title\": \"Tech Innovation in Tamil Nadu\",\n  \"body\": \"Exploring the impact of Tech Innovation in Tamil Nadu in Neyveli...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 5,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
+              "raw": "{\n  \"userId\": 39,\n  \"title\": \"Rural Tech Development\",\n  \"body\": \"Exploring the impact of Rural Tech Development in Erode...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 6,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -733,7 +733,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 28,\n  \"title\": \"Tech Innovation in Tamil Nadu\",\n  \"body\": \"Exploring the impact of Tech Innovation in Tamil Nadu in Neyveli...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 5,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
+              "raw": "{\n  \"userId\": 39,\n  \"title\": \"Rural Tech Development\",\n  \"body\": \"Exploring the impact of Rural Tech Development in Erode...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 6,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -888,7 +888,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Review Tamil NLP model\",\n  \"completed\": false\n}",
+              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Design rural healthcare platform\",\n  \"completed\": true\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -925,7 +925,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Review Tamil NLP model\",\n  \"completed\": false\n}",
+              "raw": "{\n  \"userId\": 1,\n  \"task\": \"Design rural healthcare platform\",\n  \"completed\": true\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -1063,7 +1063,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Tirunelveli IoT Initiative\",\n  \"userId\": 42,\n  \"description\": \"Implementing IoT solutions for Tirunelveli region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 13,\n      \"projectId\": 1,\n      \"task\": \"Phase 4 Implementation\",\n      \"status\": \"In Progress\"\n    }\n  ]\n}",
+              "raw": "{\n  \"name\": \"Tirunelveli Digital Marketing Initiative\",\n  \"userId\": 50,\n  \"description\": \"Implementing Digital Marketing solutions for Tirunelveli region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"In Progress\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -1100,7 +1100,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Tirunelveli IoT Initiative\",\n  \"userId\": 42,\n  \"description\": \"Implementing IoT solutions for Tirunelveli region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 13,\n      \"projectId\": 1,\n      \"task\": \"Phase 4 Implementation\",\n      \"status\": \"In Progress\"\n    }\n  ]\n}",
+              "raw": "{\n  \"name\": \"Tirunelveli Digital Marketing Initiative\",\n  \"userId\": 50,\n  \"description\": \"Implementing Digital Marketing solutions for Tirunelveli region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"In Progress\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"In Progress\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -1372,6 +1372,193 @@
                 "bills",
                 ":id",
                 "productSaled"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Videos",
+      "item": [
+        {
+          "name": "Get All Videos",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/videos",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "videos"
+              ],
+              "query": [
+                {
+                  "key": "_page",
+                  "value": "1",
+                  "description": "Page number",
+                  "disabled": true
+                },
+                {
+                  "key": "_limit",
+                  "value": "10",
+                  "description": "Items per page",
+                  "disabled": true
+                },
+                {
+                  "key": "q",
+                  "value": "",
+                  "description": "Search term",
+                  "disabled": true
+                },
+                {
+                  "key": "videoTitle",
+                  "value": "",
+                  "description": "Filter by videoTitle",
+                  "disabled": true
+                },
+                {
+                  "key": "views",
+                  "value": "",
+                  "description": "Filter by views",
+                  "disabled": true
+                },
+                {
+                  "key": "date",
+                  "value": "",
+                  "description": "Filter by date",
+                  "disabled": true
+                },
+                {
+                  "key": "link",
+                  "value": "",
+                  "description": "Filter by link",
+                  "disabled": true
+                },
+                {
+                  "key": "thumbnail",
+                  "value": "",
+                  "description": "Filter by thumbnail",
+                  "disabled": true
+                },
+                {
+                  "key": "description",
+                  "value": "",
+                  "description": "Filter by description",
+                  "disabled": true
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Get Single Videos",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/videos/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "videos",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Create Videos",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{baseUrl}}/videos",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "videos"
+              ]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"videoTitle\": \"#35 - Mastering XMLHttpRequest (AJAX) - Fetch Data from API  in Tamil | Javascript\",\n  \"views\": 321,\n  \"date\": \"2 days ago\",\n  \"link\": \"https://www.youtube.com/watch?v=uAUmxgjVi7s\",\n  \"thumbnail\": {\n    \"maxres\": \"https://img.youtube.com/vi/uAUmxgjVi7s/maxresdefault.jpg\",\n    \"fallback\": \"https://img.youtube.com/vi/uAUmxgjVi7s/sddefault.jpg\"\n  },\n  \"description\": \"Learn about AJAX using XMLHttpRequest in tamil language with practical examples with real api data from different server.\\n\\nIn this video, we dive deep into XMLHttpRequest (AJAX) and learn how to fetch data from an API using JavaScript. Whether you're a beginner or looking to sharpen your skills, this tutorial is perfect for you! We cover everything from the basics to advanced concepts, all explained in Tamil for better understanding.\\n\\nProblems in XMLHttpRequest:\\n1. Callback Hell\\n2. Long code and can experience problem when not properly handled.\\n\\nWhy you should watch this video?\\n1. Understand why we need async await?\\n2. What are the drawbacks in the existing Promise.then() methods\\n3. Solution to the rescue.\\n\\n💡 Key Topics Covered:\\n1. XMLHttpRequest in JavaScript\\n2. AJAX for Asynchronous Data Fetching\\n3. API Integration in Web Development\\n4. Error Handling in JavaScript\\n5. Dynamic UI Updates with JavaScript\\n6. Request Validation Techniques\\n7. Logic-Based UI Rendering\\n✅ Practical tips to avoid common pitfalls.\\n\\nWhether you're a beginner or looking to level up your JavaScript skills, this video is packed with valuable insights to make your code more efficient and easier to debug.\\n\\n ⭐Additional tip:\\nHandling errors would make your app bug free and have a better user experiences.\\n\\n🔍 Why Watch This Video?\\n1. Learn how to fetch data from APIs like a pro!\\n2. Understand the importance of XMLHttpRequest in modern web development.\\n3. Step-by-step guide to dynamic data loading and UI updates.\\n\\nPerfect for Tamil-speaking developers who want to master JavaScript.\\n\\n🔴 Subscribe for more tips just like this: https://bit.ly/cyberdudeYT\\n\\n- - - - - - - - - - - - - - - - - - - - - - - - - -\\n⏱ Time Stamps\\n- - - - - - - - - - - - - - - - - - - - - - - - - -\\n00:00 - Introduction to XMLHttpRequest and AJAX\\n09:52 - How to Get Data from a Different Server using XMLHttpRequest\\n21:58 - Handling Errors with the onError Event\\n23:01 - Displaying API Response in the User Interface (UI)\\n29:05 - Dynamic Data Loading Techniques\\n33:06 - Validating Requests for Better Security\\n33:39 - Displaying DIV Elements Based on Logic\\n35:47 - Why XMLHttpRequest is Essential in Web Development\\n37:44 - What to Learn Next? (Next Steps in Your JavaScript Journey)\\n\\n- - - - - - - - - - - - - - - - - - - - - \\n\\n- - - - - - - - - - - - - - - - - - - - - -\\n⭐️ Download link ⭐️\\n- - - - - - - - - - - - - - - - - - - - - -\\n👉 Download PPT, images & code: https://github.com/anburocky3/modern-javascript-in-tamil/fork\\n👉 API Link: https://bit.ly/mimic-api (Server API)\\n\\n- - - - - - - - - - - - - - - - - - - - - -\\n⭐️ To be an expert, learn these: ⭐️\\n- - - - - - - - - - - - - - - - - - - - - -\\n\\n✅ HTML5 Course in Tamil: \\nhttps://bit.ly/htmlForBeginnersTamil\\n\\n✅ CSS3 Course in Tamil: \\nhttps://bit.ly/cyberdudeCSS\\n\\n✅ Flexbox Course in Tamil:\\nhttps://bit.ly/cyberdudeCSSFlexbox\\n\\n✅ SASS Course in Tamil:\\nhttps://bit.ly/cyberdudeSASS\\n\\n✅ JavaScript Course Tamil:\\nhttps://bit.ly/cyberdudeJS\\n\\n✅ Web Design Course Tamil:\\nhttps://bit.ly/cyberdudeWebDesign\\n\\n✅ JavaScript DOM in Tamil:\\nhttps://bit.ly/JS-DOM-Tamil\\n- - - - - - - - - - - - - - - - - - - - - -\\n\\n\\n- - - - - - - - - - - - - - - - - - - - - -\\n⭐️ Follow us to get our free training course: ⭐️\\n- - - - - - - - - - - - - - - - - - - - - -\\n👉 WhatsApp: https://bit.ly/cdn-whatsapp\\n👉 Facebook Page: https://bit.ly/cyberdudeFBPage\\n📝 LinkedIn: https://bit.ly/cyberdudeLin\\n📸 Instagram: https://bit.ly/cyberdudeIG\\n💬 Telegram Channel: https://bit.ly/cyberdudeTG\\n👉 Discord:  https://bit.ly/cyberdudeDiscord\\n\\nCredits:\\nSponsor: CyberDude Networks [https://bit.ly/cyberdudeWP]\\nInstructor: Anbuselvan Annamalai [https://bit.ly/AnbuselvanRockyFB]\\n\\nMusic from:\\nhttps://uppbeat.io/t/swoop/blue-sea\\nLicense code: T6KOCOBJAKWJX9N8\\n\\n💬 Have questions or need further clarification? Drop a comment below, and we'll be happy to help!\\n\\n  #AJAX #XMLHttpRequest  #fetchapi  #javascript\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Update Videos",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/videos/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "videos",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"videoTitle\": \"#35 - Mastering XMLHttpRequest (AJAX) - Fetch Data from API  in Tamil | Javascript\",\n  \"views\": 321,\n  \"date\": \"2 days ago\",\n  \"link\": \"https://www.youtube.com/watch?v=uAUmxgjVi7s\",\n  \"thumbnail\": {\n    \"maxres\": \"https://img.youtube.com/vi/uAUmxgjVi7s/maxresdefault.jpg\",\n    \"fallback\": \"https://img.youtube.com/vi/uAUmxgjVi7s/sddefault.jpg\"\n  },\n  \"description\": \"Learn about AJAX using XMLHttpRequest in tamil language with practical examples with real api data from different server.\\n\\nIn this video, we dive deep into XMLHttpRequest (AJAX) and learn how to fetch data from an API using JavaScript. Whether you're a beginner or looking to sharpen your skills, this tutorial is perfect for you! We cover everything from the basics to advanced concepts, all explained in Tamil for better understanding.\\n\\nProblems in XMLHttpRequest:\\n1. Callback Hell\\n2. Long code and can experience problem when not properly handled.\\n\\nWhy you should watch this video?\\n1. Understand why we need async await?\\n2. What are the drawbacks in the existing Promise.then() methods\\n3. Solution to the rescue.\\n\\n💡 Key Topics Covered:\\n1. XMLHttpRequest in JavaScript\\n2. AJAX for Asynchronous Data Fetching\\n3. API Integration in Web Development\\n4. Error Handling in JavaScript\\n5. Dynamic UI Updates with JavaScript\\n6. Request Validation Techniques\\n7. Logic-Based UI Rendering\\n✅ Practical tips to avoid common pitfalls.\\n\\nWhether you're a beginner or looking to level up your JavaScript skills, this video is packed with valuable insights to make your code more efficient and easier to debug.\\n\\n ⭐Additional tip:\\nHandling errors would make your app bug free and have a better user experiences.\\n\\n🔍 Why Watch This Video?\\n1. Learn how to fetch data from APIs like a pro!\\n2. Understand the importance of XMLHttpRequest in modern web development.\\n3. Step-by-step guide to dynamic data loading and UI updates.\\n\\nPerfect for Tamil-speaking developers who want to master JavaScript.\\n\\n🔴 Subscribe for more tips just like this: https://bit.ly/cyberdudeYT\\n\\n- - - - - - - - - - - - - - - - - - - - - - - - - -\\n⏱ Time Stamps\\n- - - - - - - - - - - - - - - - - - - - - - - - - -\\n00:00 - Introduction to XMLHttpRequest and AJAX\\n09:52 - How to Get Data from a Different Server using XMLHttpRequest\\n21:58 - Handling Errors with the onError Event\\n23:01 - Displaying API Response in the User Interface (UI)\\n29:05 - Dynamic Data Loading Techniques\\n33:06 - Validating Requests for Better Security\\n33:39 - Displaying DIV Elements Based on Logic\\n35:47 - Why XMLHttpRequest is Essential in Web Development\\n37:44 - What to Learn Next? (Next Steps in Your JavaScript Journey)\\n\\n- - - - - - - - - - - - - - - - - - - - - \\n\\n- - - - - - - - - - - - - - - - - - - - - -\\n⭐️ Download link ⭐️\\n- - - - - - - - - - - - - - - - - - - - - -\\n👉 Download PPT, images & code: https://github.com/anburocky3/modern-javascript-in-tamil/fork\\n👉 API Link: https://bit.ly/mimic-api (Server API)\\n\\n- - - - - - - - - - - - - - - - - - - - - -\\n⭐️ To be an expert, learn these: ⭐️\\n- - - - - - - - - - - - - - - - - - - - - -\\n\\n✅ HTML5 Course in Tamil: \\nhttps://bit.ly/htmlForBeginnersTamil\\n\\n✅ CSS3 Course in Tamil: \\nhttps://bit.ly/cyberdudeCSS\\n\\n✅ Flexbox Course in Tamil:\\nhttps://bit.ly/cyberdudeCSSFlexbox\\n\\n✅ SASS Course in Tamil:\\nhttps://bit.ly/cyberdudeSASS\\n\\n✅ JavaScript Course Tamil:\\nhttps://bit.ly/cyberdudeJS\\n\\n✅ Web Design Course Tamil:\\nhttps://bit.ly/cyberdudeWebDesign\\n\\n✅ JavaScript DOM in Tamil:\\nhttps://bit.ly/JS-DOM-Tamil\\n- - - - - - - - - - - - - - - - - - - - - -\\n\\n\\n- - - - - - - - - - - - - - - - - - - - - -\\n⭐️ Follow us to get our free training course: ⭐️\\n- - - - - - - - - - - - - - - - - - - - - -\\n👉 WhatsApp: https://bit.ly/cdn-whatsapp\\n👉 Facebook Page: https://bit.ly/cyberdudeFBPage\\n📝 LinkedIn: https://bit.ly/cyberdudeLin\\n📸 Instagram: https://bit.ly/cyberdudeIG\\n💬 Telegram Channel: https://bit.ly/cyberdudeTG\\n👉 Discord:  https://bit.ly/cyberdudeDiscord\\n\\nCredits:\\nSponsor: CyberDude Networks [https://bit.ly/cyberdudeWP]\\nInstructor: Anbuselvan Annamalai [https://bit.ly/AnbuselvanRockyFB]\\n\\nMusic from:\\nhttps://uppbeat.io/t/swoop/blue-sea\\nLicense code: T6KOCOBJAKWJX9N8\\n\\n💬 Have questions or need further clarification? Drop a comment below, and we'll be happy to help!\\n\\n  #AJAX #XMLHttpRequest  #fetchapi  #javascript\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Videos",
+          "request": {
+            "method": "DELETE",
+            "url": {
+              "raw": "{{baseUrl}}/videos/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "videos",
+                ":id"
               ],
               "variable": [
                 {
