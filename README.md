@@ -61,7 +61,7 @@ The API is deployed at: [https://mimic-server-api.vercel.app/](https://mimic-ser
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. [Contributing instruction here.](./CONTRIBUTE.md)
 
 ## License
 
@@ -71,7 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [Anbuselvan Annamalai](https://facebook.com/anburocky3)
 
-## Contributors
+## Our valuable Contributors
 
 1. [Yogeshwaran C](https://github.com/yogesh7401)
-2. [MrGrootx](https://github.com/MrGrootx)
+2. [Mr.Grootx](https://github.com/MrGrootx)
