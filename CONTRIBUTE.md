@@ -86,6 +86,22 @@ Thank you for considering contributing to Mimic API! We appreciate your help in 
 - Write clear and concise commit messages.
 - If your changes include new features, please update the documentation accordingly.
 
+## scripts ⚙️
+
+1. **Trim Junk data** to 50 or 100 records
+
+   ```bash
+   ts-node /scripts/trim-data.ts --input-file --output-file limit
+   ```
+
+   _For example:_
+
+   ```bash
+   ts-node /scripts/trim-data.ts data/junk/fileName.ts data/fileName.ts 100
+   ```
+
+   > This will trim 50 or 100 records based on what you have provided in the CLI.
+
 ## Questions? ❓
 
 If you have any questions or need help, feel free to open an issue in the repository or reach out to the [maintainers](https://fb.me/anburocky3).

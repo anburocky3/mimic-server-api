@@ -106,7 +106,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Selvi Vivek\",\n  \"email\": \"selvi1@techmail.com\",\n  \"username\": \"selvi1\"\n}",
+              "raw": "{\n  \"name\": \"Ganesh Selvi\",\n  \"email\": \"ganesh1@techmail.com\",\n  \"username\": \"ganesh1\"\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -143,7 +143,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Selvi Vivek\",\n  \"email\": \"selvi1@techmail.com\",\n  \"username\": \"selvi1\"\n}",
+              "raw": "{\n  \"name\": \"Ganesh Selvi\",\n  \"email\": \"ganesh1@techmail.com\",\n  \"username\": \"ganesh1\"\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -281,7 +281,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 50,\n  \"title\": \"Sustainable Tech Solutions\",\n  \"body\": \"Exploring the impact of Sustainable Tech Solutions in Coimbatore...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 1,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 11,\n      \"postId\": 1,\n      \"userId\": 25,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 12,\n      \"postId\": 1,\n      \"userId\": 16,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
+              "raw": "{\n  \"userId\": 2,\n  \"title\": \"Sustainable Tech Solutions\",\n  \"body\": \"Exploring the impact of Sustainable Tech Solutions in Vellore...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 44,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 11,\n      \"postId\": 1,\n      \"userId\": 19,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 12,\n      \"postId\": 1,\n      \"userId\": 38,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -318,7 +318,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"userId\": 50,\n  \"title\": \"Sustainable Tech Solutions\",\n  \"body\": \"Exploring the impact of Sustainable Tech Solutions in Coimbatore...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 1,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 11,\n      \"postId\": 1,\n      \"userId\": 25,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 12,\n      \"postId\": 1,\n      \"userId\": 16,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
+              "raw": "{\n  \"userId\": 2,\n  \"title\": \"Sustainable Tech Solutions\",\n  \"body\": \"Exploring the impact of Sustainable Tech Solutions in Vellore...\",\n  \"comments\": [\n    {\n      \"id\": 10,\n      \"postId\": 1,\n      \"userId\": 44,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 11,\n      \"postId\": 1,\n      \"userId\": 19,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    },\n    {\n      \"id\": 12,\n      \"postId\": 1,\n      \"userId\": 38,\n      \"text\": \"Great insights about the tech scene in Tamil Nadu!\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -648,7 +648,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Thanjavur IoT Initiative\",\n  \"userId\": 7,\n  \"description\": \"Implementing IoT solutions for Thanjavur region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 13,\n      \"projectId\": 1,\n      \"task\": \"Phase 4 Implementation\",\n      \"status\": \"Completed\"\n    }\n  ]\n}",
+              "raw": "{\n  \"name\": \"Salem Web Development Initiative\",\n  \"userId\": 4,\n  \"description\": \"Implementing Web Development solutions for Salem region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Completed\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -685,7 +685,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"name\": \"Thanjavur IoT Initiative\",\n  \"userId\": 7,\n  \"description\": \"Implementing IoT solutions for Thanjavur region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 13,\n      \"projectId\": 1,\n      \"task\": \"Phase 4 Implementation\",\n      \"status\": \"Completed\"\n    }\n  ]\n}",
+              "raw": "{\n  \"name\": \"Salem Web Development Initiative\",\n  \"userId\": 4,\n  \"description\": \"Implementing Web Development solutions for Salem region\",\n  \"tasks\": [\n    {\n      \"id\": 10,\n      \"projectId\": 1,\n      \"task\": \"Phase 1 Implementation\",\n      \"status\": \"Completed\"\n    },\n    {\n      \"id\": 11,\n      \"projectId\": 1,\n      \"task\": \"Phase 2 Implementation\",\n      \"status\": \"Not Started\"\n    },\n    {\n      \"id\": 12,\n      \"projectId\": 1,\n      \"task\": \"Phase 3 Implementation\",\n      \"status\": \"Completed\"\n    }\n  ]\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -892,6 +892,234 @@
               "path": [
                 "quotes",
                 ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bills",
+      "item": [
+        {
+          "name": "Get All Bills",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/bills",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "bills"
+              ],
+              "query": [
+                {
+                  "key": "_page",
+                  "value": "1",
+                  "description": "Page number",
+                  "disabled": true
+                },
+                {
+                  "key": "_limit",
+                  "value": "10",
+                  "description": "Items per page",
+                  "disabled": true
+                },
+                {
+                  "key": "q",
+                  "value": "",
+                  "description": "Search term",
+                  "disabled": true
+                },
+                {
+                  "key": "_id",
+                  "value": "",
+                  "description": "Filter by _id",
+                  "disabled": true
+                },
+                {
+                  "key": "productSaled",
+                  "value": "",
+                  "description": "Filter by productSaled",
+                  "disabled": true
+                },
+                {
+                  "key": "customer",
+                  "value": "",
+                  "description": "Filter by customer",
+                  "disabled": true
+                },
+                {
+                  "key": "grandTotal",
+                  "value": "",
+                  "description": "Filter by grandTotal",
+                  "disabled": true
+                },
+                {
+                  "key": "status",
+                  "value": "",
+                  "description": "Filter by status",
+                  "disabled": true
+                },
+                {
+                  "key": "billId",
+                  "value": "",
+                  "description": "Filter by billId",
+                  "disabled": true
+                },
+                {
+                  "key": "date",
+                  "value": "",
+                  "description": "Filter by date",
+                  "disabled": true
+                },
+                {
+                  "key": "time",
+                  "value": "",
+                  "description": "Filter by time",
+                  "disabled": true
+                },
+                {
+                  "key": "__v",
+                  "value": "",
+                  "description": "Filter by __v",
+                  "disabled": true
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Get Single Bills",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/bills/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "bills",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Create Bills",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{baseUrl}}/bills",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "bills"
+              ]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"_id\": {\n    \"$oid\": \"67b8f43229d788c06dda2fe6\"\n  },\n  \"productSaled\": [\n    {\n      \"name\": \"Milky Mist Buttermilk\",\n      \"quantity\": \"3.45\",\n      \"rate\": 64,\n      \"measurementType\": \"Volume-Based\",\n      \"uid\": \"174\",\n      \"total\": 220.8\n    },\n    {\n      \"name\": \"Milky Mist Ghee\",\n      \"quantity\": \"3.65\",\n      \"rate\": 95,\n      \"measurementType\": \"Volume-Based\",\n      \"uid\": \"172\",\n      \"total\": 346.75\n    }\n  ],\n  \"customer\": {\n    \"name\": \"Deepa Madhavan\",\n    \"uniqueId\": \"C@ID1073\"\n  },\n  \"grandTotal\": 567.55,\n  \"status\": \"Paid\",\n  \"billId\": \"22022025Shop032526-6481\",\n  \"date\": \"22/02/2025\",\n  \"time\": \"03:25:26\",\n  \"__v\": 0\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Update Bills",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/bills/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "bills",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"_id\": {\n    \"$oid\": \"67b8f43229d788c06dda2fe6\"\n  },\n  \"productSaled\": [\n    {\n      \"name\": \"Milky Mist Buttermilk\",\n      \"quantity\": \"3.45\",\n      \"rate\": 64,\n      \"measurementType\": \"Volume-Based\",\n      \"uid\": \"174\",\n      \"total\": 220.8\n    },\n    {\n      \"name\": \"Milky Mist Ghee\",\n      \"quantity\": \"3.65\",\n      \"rate\": 95,\n      \"measurementType\": \"Volume-Based\",\n      \"uid\": \"172\",\n      \"total\": 346.75\n    }\n  ],\n  \"customer\": {\n    \"name\": \"Deepa Madhavan\",\n    \"uniqueId\": \"C@ID1073\"\n  },\n  \"grandTotal\": 567.55,\n  \"status\": \"Paid\",\n  \"billId\": \"22022025Shop032526-6481\",\n  \"date\": \"22/02/2025\",\n  \"time\": \"03:25:26\",\n  \"__v\": 0\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Bills",
+          "request": {
+            "method": "DELETE",
+            "url": {
+              "raw": "{{baseUrl}}/bills/:id",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "bills",
+                ":id"
+              ],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Get Bills ProductSaled",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/bills/:id/productSaled",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "bills",
+                ":id",
+                "productSaled"
               ],
               "variable": [
                 {
