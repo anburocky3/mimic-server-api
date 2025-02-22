@@ -1,0 +1,4270 @@
+[
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fe6"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Buttermilk",
+        "quantity": "3.45",
+        "rate": 64,
+        "measurementType": "Volume-Based",
+        "uid": "174",
+        "total": 220.8
+      },
+      {
+        "name": "Milky Mist Ghee",
+        "quantity": "3.65",
+        "rate": 95,
+        "measurementType": "Volume-Based",
+        "uid": "172",
+        "total": 346.75
+      }
+    ],
+    "customer": {
+      "name": "Deepa Madhavan",
+      "uniqueId": "C@ID1073"
+    },
+    "grandTotal": 567.55,
+    "status": "Paid",
+    "billId": "22022025Shop032526-6481",
+    "date": "22/02/2025",
+    "time": "03:25:26",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fe5"
+    },
+    "productSaled": [
+      {
+        "name": "Nandini Butter",
+        "quantity": 14,
+        "rate": 123,
+        "measurementType": "Count-Based",
+        "uid": "089",
+        "total": 1722
+      },
+      {
+        "name": "7UP Soft Drink",
+        "quantity": 1,
+        "rate": 130,
+        "measurementType": "Count-Based",
+        "uid": "047",
+        "total": 130
+      }
+    ],
+    "customer": {
+      "name": "Thangamani Ganesh",
+      "uniqueId": "C@ID6795"
+    },
+    "grandTotal": 1852,
+    "status": "Unpaid",
+    "billId": "22022025Shop174641-6179",
+    "date": "22/02/2025",
+    "time": "17:46:41",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fe4"
+    },
+    "productSaled": [
+      {
+        "name": "Dabur Curd",
+        "quantity": "4.17",
+        "rate": 81,
+        "measurementType": "Volume-Based",
+        "uid": "157",
+        "total": 337.77
+      },
+      {
+        "name": "Dabur Curd",
+        "quantity": "1.45",
+        "rate": 97,
+        "measurementType": "Volume-Based",
+        "uid": "157",
+        "total": 140.65
+      },
+      {
+        "name": "Amul Milk",
+        "quantity": "0.79",
+        "rate": 168,
+        "measurementType": "Volume-Based",
+        "uid": "156",
+        "total": 132.72
+      },
+      {
+        "name": "Engine Mustard Oil",
+        "quantity": "4.88",
+        "rate": 180,
+        "measurementType": "Volume-Based",
+        "uid": "165",
+        "total": 878.4
+      }
+    ],
+    "customer": {
+      "name": "Gopal Mythili",
+      "uniqueId": "C@ID8025"
+    },
+    "grandTotal": 1489.54,
+    "status": "Paid",
+    "billId": "21022025Shop005846-4029",
+    "date": "21/02/2025",
+    "time": "00:58:46",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fe3"
+    },
+    "productSaled": [
+      {
+        "name": "Parachute Coconut Oil",
+        "quantity": "4.38",
+        "rate": 199,
+        "measurementType": "Volume-Based",
+        "uid": "164",
+        "total": 871.62
+      },
+      {
+        "name": "Harpic Toilet Cleaner",
+        "quantity": 14,
+        "rate": 125,
+        "measurementType": "Count-Based",
+        "uid": "014",
+        "total": 1750
+      },
+      {
+        "name": "Everest Fenugreek Leaves",
+        "quantity": "5.21",
+        "rate": 51,
+        "measurementType": "Weight-Based",
+        "uid": "116",
+        "total": 265.71
+      },
+      {
+        "name": "Aachi Curry Powder",
+        "quantity": "9.77",
+        "rate": 154,
+        "measurementType": "Weight-Based",
+        "uid": "150",
+        "total": 1504.58
+      },
+      {
+        "name": "Mountain Dew Soft Drink",
+        "quantity": 4,
+        "rate": 119,
+        "measurementType": "Count-Based",
+        "uid": "048",
+        "total": 476
+      }
+    ],
+    "customer": {
+      "name": "Vasu Prakash",
+      "uniqueId": "C@ID4405"
+    },
+    "grandTotal": 4867.91,
+    "status": "Paid",
+    "billId": "21022025Shop213210-5381",
+    "date": "21/02/2025",
+    "time": "21:32:10",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fe2"
+    },
+    "productSaled": [
+      {
+        "name": "Mother Dairy Ice Cream",
+        "quantity": 7,
+        "rate": 74,
+        "measurementType": "Count-Based",
+        "uid": "078",
+        "total": 518
+      },
+      {
+        "name": "Amul Paneer",
+        "quantity": "1.65",
+        "rate": 187,
+        "measurementType": "Volume-Based",
+        "uid": "161",
+        "total": 308.55
+      },
+      {
+        "name": "Mountain Dew Soft Drink",
+        "quantity": 13,
+        "rate": 182,
+        "measurementType": "Count-Based",
+        "uid": "048",
+        "total": 2366
+      },
+      {
+        "name": "Aachi Masala",
+        "quantity": "1.11",
+        "rate": 120,
+        "measurementType": "Weight-Based",
+        "uid": "132",
+        "total": 133.20000000000002
+      }
+    ],
+    "customer": {
+      "name": "Iniya Umapathy",
+      "uniqueId": "C@ID9179"
+    },
+    "grandTotal": 3325.75,
+    "status": "Unpaid",
+    "billId": "20022025Shop212519-2737",
+    "date": "20/02/2025",
+    "time": "21:25:19",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fe1"
+    },
+    "productSaled": [
+      {
+        "name": "Saffola Oil",
+        "quantity": "0.51",
+        "rate": 160,
+        "measurementType": "Weight-Based",
+        "uid": "127",
+        "total": 81.6
+      }
+    ],
+    "customer": {
+      "name": "Chitra Charulatha",
+      "uniqueId": "C@ID1619"
+    },
+    "grandTotal": 81.6,
+    "status": "Paid",
+    "billId": "20022025Shop115714-3319",
+    "date": "20/02/2025",
+    "time": "11:57:14",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fe0"
+    },
+    "productSaled": [
+      {
+        "name": "Everest Turmeric Powder",
+        "quantity": "4.19",
+        "rate": 105,
+        "measurementType": "Weight-Based",
+        "uid": "110",
+        "total": 439.95000000000005
+      },
+      {
+        "name": "Aavin Ghee",
+        "quantity": "3.95",
+        "rate": 102,
+        "measurementType": "Weight-Based",
+        "uid": "123",
+        "total": 402.90000000000003
+      },
+      {
+        "name": "Double Horse Masala",
+        "quantity": "7.10",
+        "rate": 115,
+        "measurementType": "Weight-Based",
+        "uid": "134",
+        "total": 816.5
+      },
+      {
+        "name": "Boost Health Drink",
+        "quantity": 7,
+        "rate": 125,
+        "measurementType": "Count-Based",
+        "uid": "028",
+        "total": 875
+      }
+    ],
+    "customer": {
+      "name": "Chitra Arjun",
+      "uniqueId": "C@ID1110"
+    },
+    "grandTotal": 2534.3500000000004,
+    "status": "Unpaid",
+    "billId": "19022025Shop230411-3482",
+    "date": "19/02/2025",
+    "time": "23:04:11",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fdf"
+    },
+    "productSaled": [
+      {
+        "name": "India Gate Basmati Rice",
+        "quantity": "9.54",
+        "rate": 176,
+        "measurementType": "Weight-Based",
+        "uid": "106",
+        "total": 1679.04
+      },
+      {
+        "name": "Mother Dairy Cheese",
+        "quantity": 8,
+        "rate": 65,
+        "measurementType": "Count-Based",
+        "uid": "095",
+        "total": 520
+      },
+      {
+        "name": "Fanta Soft Drink",
+        "quantity": 9,
+        "rate": 175,
+        "measurementType": "Count-Based",
+        "uid": "050",
+        "total": 1575
+      },
+      {
+        "name": "Everest Fenugreek Leaves",
+        "quantity": "1.66",
+        "rate": 182,
+        "measurementType": "Weight-Based",
+        "uid": "116",
+        "total": 302.12
+      },
+      {
+        "name": "Dabur Curd",
+        "quantity": "5.09",
+        "rate": 117,
+        "measurementType": "Volume-Based",
+        "uid": "157",
+        "total": 595.53
+      }
+    ],
+    "customer": {
+      "name": "Naveen Eswari",
+      "uniqueId": "C@ID3503"
+    },
+    "grandTotal": 4671.69,
+    "status": "Paid",
+    "billId": "19022025Shop142235-4628",
+    "date": "19/02/2025",
+    "time": "14:22:35",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fde"
+    },
+    "productSaled": [
+      {
+        "name": "Mother Dairy Butter",
+        "quantity": 16,
+        "rate": 71,
+        "measurementType": "Count-Based",
+        "uid": "087",
+        "total": 1136
+      },
+      {
+        "name": "Milky Mist Paneer",
+        "quantity": 7,
+        "rate": 154,
+        "measurementType": "Count-Based",
+        "uid": "069",
+        "total": 1078
+      }
+    ],
+    "customer": {
+      "name": "Vijaya Ramya",
+      "uniqueId": "C@ID6212"
+    },
+    "grandTotal": 2214,
+    "status": "Paid",
+    "billId": "18022025Shop015407-7015",
+    "date": "18/02/2025",
+    "time": "01:54:07",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fdd"
+    },
+    "productSaled": [
+      {
+        "name": "Amul Dark Chocolate",
+        "quantity": 8,
+        "rate": 90,
+        "measurementType": "Count-Based",
+        "uid": "023",
+        "total": 720
+      },
+      {
+        "name": "Appy Juice",
+        "quantity": 17,
+        "rate": 192,
+        "measurementType": "Count-Based",
+        "uid": "040",
+        "total": 3264
+      },
+      {
+        "name": "MTR Ready-to-Eat Meals",
+        "quantity": 11,
+        "rate": 115,
+        "measurementType": "Count-Based",
+        "uid": "029",
+        "total": 1265
+      },
+      {
+        "name": "Britannia Cheese Slices",
+        "quantity": 17,
+        "rate": 136,
+        "measurementType": "Count-Based",
+        "uid": "020",
+        "total": 2312
+      }
+    ],
+    "customer": {
+      "name": "Thangamani Balaji",
+      "uniqueId": "C@ID4867"
+    },
+    "grandTotal": 7561,
+    "status": "Unpaid",
+    "billId": "18022025Shop180821-8652",
+    "date": "18/02/2025",
+    "time": "18:08:21",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fdc"
+    },
+    "productSaled": [
+      {
+        "name": "Hatsun Butter",
+        "quantity": 20,
+        "rate": 137,
+        "measurementType": "Count-Based",
+        "uid": "091",
+        "total": 2740
+      },
+      {
+        "name": "Horlicks Health Drink",
+        "quantity": 12,
+        "rate": 173,
+        "measurementType": "Count-Based",
+        "uid": "026",
+        "total": 2076
+      }
+    ],
+    "customer": {
+      "name": "Chandni Arul",
+      "uniqueId": "C@ID2852"
+    },
+    "grandTotal": 4816,
+    "status": "Paid",
+    "billId": "17022025Shop234732-8473",
+    "date": "17/02/2025",
+    "time": "23:47:32",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fdb"
+    },
+    "productSaled": [
+      {
+        "name": "Sakthi Curry Powder",
+        "quantity": "4.97",
+        "rate": 152,
+        "measurementType": "Weight-Based",
+        "uid": "149",
+        "total": 755.4399999999999
+      },
+      {
+        "name": "Coconut Milk (Real)",
+        "quantity": "1.34",
+        "rate": 55,
+        "measurementType": "Volume-Based",
+        "uid": "163",
+        "total": 73.7
+      },
+      {
+        "name": "Bournvita Health Drink",
+        "quantity": 9,
+        "rate": 86,
+        "measurementType": "Count-Based",
+        "uid": "025",
+        "total": 774
+      },
+      {
+        "name": "Milky Mist Cheese",
+        "quantity": "5.47",
+        "rate": 54,
+        "measurementType": "Volume-Based",
+        "uid": "170",
+        "total": 295.38
+      }
+    ],
+    "customer": {
+      "name": "Thangamani Nivedha",
+      "uniqueId": "C@ID3531"
+    },
+    "grandTotal": 1898.52,
+    "status": "Paid",
+    "billId": "17022025Shop021129-5125",
+    "date": "17/02/2025",
+    "time": "02:11:29",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fda"
+    },
+    "productSaled": [
+      {
+        "name": "Himalayan Water",
+        "quantity": 11,
+        "rate": 127,
+        "measurementType": "Count-Based",
+        "uid": "057",
+        "total": 1397
+      },
+      {
+        "name": "Mountain Dew Soft Drink",
+        "quantity": 5,
+        "rate": 74,
+        "measurementType": "Count-Based",
+        "uid": "048",
+        "total": 370
+      },
+      {
+        "name": "Pepsodent Toothpaste",
+        "quantity": 5,
+        "rate": 70,
+        "measurementType": "Count-Based",
+        "uid": "007",
+        "total": 350
+      }
+    ],
+    "customer": {
+      "name": "Rahul Dhanya",
+      "uniqueId": "C@ID4745"
+    },
+    "grandTotal": 2117,
+    "status": "Paid",
+    "billId": "16022025Shop110843-8617",
+    "date": "16/02/2025",
+    "time": "11:08:43",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fd9"
+    },
+    "productSaled": [
+      {
+        "name": "Hatsun Paneer",
+        "quantity": 7,
+        "rate": 93,
+        "measurementType": "Count-Based",
+        "uid": "104",
+        "total": 651
+      },
+      {
+        "name": "Mother Dairy Ice Cream",
+        "quantity": 5,
+        "rate": 50,
+        "measurementType": "Count-Based",
+        "uid": "078",
+        "total": 250
+      },
+      {
+        "name": "Pepsodent Toothpaste",
+        "quantity": 16,
+        "rate": 74,
+        "measurementType": "Count-Based",
+        "uid": "007",
+        "total": 1184
+      },
+      {
+        "name": "Complan Health Drink",
+        "quantity": 1,
+        "rate": 127,
+        "measurementType": "Count-Based",
+        "uid": "027",
+        "total": 127
+      },
+      {
+        "name": "Fortune Sunlite Oil",
+        "quantity": "5.29",
+        "rate": 170,
+        "measurementType": "Volume-Based",
+        "uid": "155",
+        "total": 899.3
+      }
+    ],
+    "customer": {
+      "name": "Chandni Rajinikanth",
+      "uniqueId": "C@ID7893"
+    },
+    "grandTotal": 3111.3,
+    "status": "Paid",
+    "billId": "16022025Shop225104-1156",
+    "date": "16/02/2025",
+    "time": "22:51:04",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fd8"
+    },
+    "productSaled": [
+      {
+        "name": "Red Bull Energy Drink",
+        "quantity": 16,
+        "rate": 191,
+        "measurementType": "Count-Based",
+        "uid": "051",
+        "total": 3056
+      },
+      {
+        "name": "Kwality Milk",
+        "quantity": 11,
+        "rate": 185,
+        "measurementType": "Count-Based",
+        "uid": "067",
+        "total": 2035
+      },
+      {
+        "name": "Frooti Juice",
+        "quantity": 4,
+        "rate": 194,
+        "measurementType": "Count-Based",
+        "uid": "038",
+        "total": 776
+      },
+      {
+        "name": "Fortune Sunlite Oil",
+        "quantity": "4.10",
+        "rate": 161,
+        "measurementType": "Volume-Based",
+        "uid": "155",
+        "total": 660.0999999999999
+      }
+    ],
+    "customer": {
+      "name": "Madhavan Sindhu",
+      "uniqueId": "C@ID5198"
+    },
+    "grandTotal": 6527.1,
+    "status": "Paid",
+    "billId": "15022025Shop220955-6473",
+    "date": "15/02/2025",
+    "time": "22:09:55",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fd7"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Yogurt",
+        "quantity": "4.09",
+        "rate": 168,
+        "measurementType": "Volume-Based",
+        "uid": "173",
+        "total": 687.12
+      },
+      {
+        "name": "Milky Mist Cheese",
+        "quantity": "4.65",
+        "rate": 53,
+        "measurementType": "Volume-Based",
+        "uid": "170",
+        "total": 246.45000000000002
+      },
+      {
+        "name": "Amul Milk",
+        "quantity": "1.48",
+        "rate": 75,
+        "measurementType": "Volume-Based",
+        "uid": "156",
+        "total": 111
+      }
+    ],
+    "customer": {
+      "name": "Janani Kavitha",
+      "uniqueId": "C@ID6500"
+    },
+    "grandTotal": 1044.5700000000002,
+    "status": "Paid",
+    "billId": "15022025Shop233612-1334",
+    "date": "15/02/2025",
+    "time": "23:36:12",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fd6"
+    },
+    "productSaled": [
+      {
+        "name": "Mountain Dew Soft Drink",
+        "quantity": 6,
+        "rate": 81,
+        "measurementType": "Count-Based",
+        "uid": "048",
+        "total": 486
+      },
+      {
+        "name": "Coconut Milk (Real)",
+        "quantity": "2.94",
+        "rate": 165,
+        "measurementType": "Volume-Based",
+        "uid": "163",
+        "total": 485.09999999999997
+      },
+      {
+        "name": "Milky Mist Buttermilk",
+        "quantity": "3.72",
+        "rate": 181,
+        "measurementType": "Volume-Based",
+        "uid": "174",
+        "total": 673.32
+      }
+    ],
+    "customer": {
+      "name": "Thara Gopal",
+      "uniqueId": "C@ID3039"
+    },
+    "grandTotal": 1644.42,
+    "status": "Paid",
+    "billId": "14022025Shop032633-8168",
+    "date": "14/02/2025",
+    "time": "03:26:33",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fd5"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Buttermilk",
+        "quantity": 19,
+        "rate": 126,
+        "measurementType": "Count-Based",
+        "uid": "074",
+        "total": 2394
+      },
+      {
+        "name": "Surf Excel Detergent",
+        "quantity": 6,
+        "rate": 68,
+        "measurementType": "Count-Based",
+        "uid": "010",
+        "total": 408
+      },
+      {
+        "name": "Frooti Juice",
+        "quantity": 7,
+        "rate": 107,
+        "measurementType": "Count-Based",
+        "uid": "038",
+        "total": 749
+      }
+    ],
+    "customer": {
+      "name": "Mythili Rahul",
+      "uniqueId": "C@ID4209"
+    },
+    "grandTotal": 3551,
+    "status": "Unpaid",
+    "billId": "14022025Shop234246-9368",
+    "date": "14/02/2025",
+    "time": "23:42:46",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fd4"
+    },
+    "productSaled": [
+      {
+        "name": "Mother Dairy Butter",
+        "quantity": "5.13",
+        "rate": 92,
+        "measurementType": "Volume-Based",
+        "uid": "159",
+        "total": 471.96
+      },
+      {
+        "name": "Everest Turmeric Powder",
+        "quantity": "8.11",
+        "rate": 109,
+        "measurementType": "Weight-Based",
+        "uid": "110",
+        "total": 883.9899999999999
+      },
+      {
+        "name": "Dalda Ghee",
+        "quantity": "5.99",
+        "rate": 189,
+        "measurementType": "Weight-Based",
+        "uid": "119",
+        "total": 1132.1100000000001
+      }
+    ],
+    "customer": {
+      "name": "Saraswathi Mohan",
+      "uniqueId": "C@ID2700"
+    },
+    "grandTotal": 2488.06,
+    "status": "Paid",
+    "billId": "13022025Shop015530-5904",
+    "date": "13/02/2025",
+    "time": "01:55:30",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fd3"
+    },
+    "productSaled": [
+      {
+        "name": "Heritage Milk",
+        "quantity": 13,
+        "rate": 172,
+        "measurementType": "Count-Based",
+        "uid": "068",
+        "total": 2236
+      }
+    ],
+    "customer": {
+      "name": "Priya Mohan",
+      "uniqueId": "C@ID3724"
+    },
+    "grandTotal": 2236,
+    "status": "Paid",
+    "billId": "13022025Shop112029-5821",
+    "date": "13/02/2025",
+    "time": "11:20:29",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fd2"
+    },
+    "productSaled": [
+      {
+        "name": "Sakthi Sambar Powder",
+        "quantity": "9.66",
+        "rate": 151,
+        "measurementType": "Weight-Based",
+        "uid": "137",
+        "total": 1458.66
+      }
+    ],
+    "customer": {
+      "name": "Raghu Gowtham",
+      "uniqueId": "C@ID9707"
+    },
+    "grandTotal": 1458.66,
+    "status": "Paid",
+    "billId": "12022025Shop233114-5703",
+    "date": "12/02/2025",
+    "time": "23:31:14",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fd1"
+    },
+    "productSaled": [
+      {
+        "name": "Sakthi Sambar Powder",
+        "quantity": "2.84",
+        "rate": 138,
+        "measurementType": "Weight-Based",
+        "uid": "137",
+        "total": 391.91999999999996
+      },
+      {
+        "name": "Idhayam Gingelly Oil",
+        "quantity": "2.01",
+        "rate": 154,
+        "measurementType": "Volume-Based",
+        "uid": "166",
+        "total": 309.53999999999996
+      },
+      {
+        "name": "Nestle Yogurt",
+        "quantity": "1.96",
+        "rate": 154,
+        "measurementType": "Volume-Based",
+        "uid": "162",
+        "total": 301.84
+      },
+      {
+        "name": "Amul Paneer",
+        "quantity": "5.33",
+        "rate": 179,
+        "measurementType": "Volume-Based",
+        "uid": "161",
+        "total": 954.07
+      },
+      {
+        "name": "Sakthi Masala",
+        "quantity": "7.79",
+        "rate": 66,
+        "measurementType": "Weight-Based",
+        "uid": "131",
+        "total": 514.14
+      }
+    ],
+    "customer": {
+      "name": "Lakshmi Ishwarya",
+      "uniqueId": "C@ID1496"
+    },
+    "grandTotal": 2471.5099999999998,
+    "status": "Paid",
+    "billId": "12022025Shop053128-5948",
+    "date": "12/02/2025",
+    "time": "05:31:28",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fd0"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Buttermilk",
+        "quantity": "5.00",
+        "rate": 81,
+        "measurementType": "Volume-Based",
+        "uid": "174",
+        "total": 405
+      },
+      {
+        "name": "Patanjali Mustard Seeds",
+        "quantity": "10.15",
+        "rate": 184,
+        "measurementType": "Weight-Based",
+        "uid": "115",
+        "total": 1867.6000000000001
+      },
+      {
+        "name": "Aachi Sambar Powder",
+        "quantity": "5.63",
+        "rate": 131,
+        "measurementType": "Weight-Based",
+        "uid": "138",
+        "total": 737.53
+      },
+      {
+        "name": "Aavin Milk",
+        "quantity": "0.87",
+        "rate": 92,
+        "measurementType": "Volume-Based",
+        "uid": "167",
+        "total": 80.04
+      }
+    ],
+    "customer": {
+      "name": "Thilagavathi Nila",
+      "uniqueId": "C@ID3227"
+    },
+    "grandTotal": 3090.17,
+    "status": "Paid",
+    "billId": "11022025Shop150430-5789",
+    "date": "11/02/2025",
+    "time": "15:04:30",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fcf"
+    },
+    "productSaled": [
+      {
+        "name": "Hatsun Milk",
+        "quantity": 10,
+        "rate": 68,
+        "measurementType": "Count-Based",
+        "uid": "064",
+        "total": 680
+      },
+      {
+        "name": "Clinic Plus Shampoo",
+        "quantity": 3,
+        "rate": 163,
+        "measurementType": "Count-Based",
+        "uid": "008",
+        "total": 489
+      },
+      {
+        "name": "Milky Mist Paneer",
+        "quantity": "0.85",
+        "rate": 148,
+        "measurementType": "Volume-Based",
+        "uid": "169",
+        "total": 125.8
+      },
+      {
+        "name": "Eastern Sambar Powder",
+        "quantity": "5.66",
+        "rate": 181,
+        "measurementType": "Weight-Based",
+        "uid": "139",
+        "total": 1024.46
+      }
+    ],
+    "customer": {
+      "name": "Parthiban Jaya",
+      "uniqueId": "C@ID7653"
+    },
+    "grandTotal": 2319.26,
+    "status": "Paid",
+    "billId": "11022025Shop023507-8225",
+    "date": "11/02/2025",
+    "time": "02:35:07",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fce"
+    },
+    "productSaled": [
+      {
+        "name": "Dabur Curd",
+        "quantity": "2.71",
+        "rate": 84,
+        "measurementType": "Volume-Based",
+        "uid": "157",
+        "total": 227.64
+      },
+      {
+        "name": "Nestle Yogurt",
+        "quantity": "1.65",
+        "rate": 152,
+        "measurementType": "Volume-Based",
+        "uid": "162",
+        "total": 250.79999999999998
+      },
+      {
+        "name": "Limca Soft Drink",
+        "quantity": 1,
+        "rate": 130,
+        "measurementType": "Count-Based",
+        "uid": "049",
+        "total": 130
+      },
+      {
+        "name": "Madhur Sugar",
+        "quantity": "9.67",
+        "rate": 68,
+        "measurementType": "Weight-Based",
+        "uid": "108",
+        "total": 657.56
+      }
+    ],
+    "customer": {
+      "name": "Naveen Janani",
+      "uniqueId": "C@ID1204"
+    },
+    "grandTotal": 1266,
+    "status": "Unpaid",
+    "billId": "10022025Shop034349-9998",
+    "date": "10/02/2025",
+    "time": "03:43:49",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fcd"
+    },
+    "productSaled": [
+      {
+        "name": "Sakthi Rasam Powder",
+        "quantity": "7.39",
+        "rate": 112,
+        "measurementType": "Weight-Based",
+        "uid": "143",
+        "total": 827.68
+      },
+      {
+        "name": "Amul Paneer",
+        "quantity": "3.99",
+        "rate": 141,
+        "measurementType": "Volume-Based",
+        "uid": "161",
+        "total": 562.59
+      },
+      {
+        "name": "Aavin Ghee",
+        "quantity": "5.15",
+        "rate": 198,
+        "measurementType": "Weight-Based",
+        "uid": "123",
+        "total": 1019.7
+      },
+      {
+        "name": "Milky Mist Buttermilk",
+        "quantity": 12,
+        "rate": 111,
+        "measurementType": "Count-Based",
+        "uid": "074",
+        "total": 1332
+      },
+      {
+        "name": "Milky Mist Cheese",
+        "quantity": 17,
+        "rate": 82,
+        "measurementType": "Count-Based",
+        "uid": "099",
+        "total": 1394
+      }
+    ],
+    "customer": {
+      "name": "Sathish Gokul",
+      "uniqueId": "C@ID8522"
+    },
+    "grandTotal": 5135.97,
+    "status": "Paid",
+    "billId": "10022025Shop174524-2637",
+    "date": "10/02/2025",
+    "time": "17:45:24",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fcc"
+    },
+    "productSaled": [
+      {
+        "name": "Aavin Milk",
+        "quantity": "2.31",
+        "rate": 74,
+        "measurementType": "Volume-Based",
+        "uid": "167",
+        "total": 170.94
+      },
+      {
+        "name": "Mother Dairy Butter",
+        "quantity": "5.33",
+        "rate": 96,
+        "measurementType": "Volume-Based",
+        "uid": "159",
+        "total": 511.68
+      },
+      {
+        "name": "Fortune Sunlite Oil",
+        "quantity": "3.22",
+        "rate": 52,
+        "measurementType": "Volume-Based",
+        "uid": "155",
+        "total": 167.44
+      }
+    ],
+    "customer": {
+      "name": "Nivedha Ramesh",
+      "uniqueId": "C@ID9166"
+    },
+    "grandTotal": 850.06,
+    "status": "Unpaid",
+    "billId": "09022025Shop230442-7533",
+    "date": "09/02/2025",
+    "time": "23:04:42",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fcb"
+    },
+    "productSaled": [
+      {
+        "name": "Dabur Honey",
+        "quantity": "4.86",
+        "rate": 61,
+        "measurementType": "Weight-Based",
+        "uid": "118",
+        "total": 296.46000000000004
+      },
+      {
+        "name": "Mother Dairy Butter",
+        "quantity": 16,
+        "rate": 133,
+        "measurementType": "Count-Based",
+        "uid": "087",
+        "total": 2128
+      },
+      {
+        "name": "Amul Paneer",
+        "quantity": "4.67",
+        "rate": 148,
+        "measurementType": "Volume-Based",
+        "uid": "161",
+        "total": 691.16
+      },
+      {
+        "name": "Amul Cheese",
+        "quantity": 9,
+        "rate": 67,
+        "measurementType": "Count-Based",
+        "uid": "093",
+        "total": 603
+      }
+    ],
+    "customer": {
+      "name": "Meera Dhanush",
+      "uniqueId": "C@ID5906"
+    },
+    "grandTotal": 3718.62,
+    "status": "Unpaid",
+    "billId": "09022025Shop142618-4003",
+    "date": "09/02/2025",
+    "time": "14:26:18",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fca"
+    },
+    "productSaled": [
+      {
+        "name": "Patanjali Mustard Seeds",
+        "quantity": "3.45",
+        "rate": 172,
+        "measurementType": "Weight-Based",
+        "uid": "115",
+        "total": 593.4
+      },
+      {
+        "name": "Patanjali Mustard Seeds",
+        "quantity": "4.01",
+        "rate": 79,
+        "measurementType": "Weight-Based",
+        "uid": "115",
+        "total": 316.78999999999996
+      },
+      {
+        "name": "MDH Black Pepper Powder",
+        "quantity": "7.24",
+        "rate": 160,
+        "measurementType": "Weight-Based",
+        "uid": "112",
+        "total": 1158.4
+      },
+      {
+        "name": "Double Horse Rasam Powder",
+        "quantity": "6.04",
+        "rate": 175,
+        "measurementType": "Weight-Based",
+        "uid": "146",
+        "total": 1057
+      },
+      {
+        "name": "Fortune Sunlite Oil",
+        "quantity": "1.06",
+        "rate": 177,
+        "measurementType": "Volume-Based",
+        "uid": "155",
+        "total": 187.62
+      }
+    ],
+    "customer": {
+      "name": "Jaya Gayathri",
+      "uniqueId": "C@ID4340"
+    },
+    "grandTotal": 3313.21,
+    "status": "Paid",
+    "billId": "08022025Shop005338-7323",
+    "date": "08/02/2025",
+    "time": "00:53:38",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fc9"
+    },
+    "productSaled": [
+      {
+        "name": "Fortune Sunlite Oil",
+        "quantity": "2.43",
+        "rate": 132,
+        "measurementType": "Volume-Based",
+        "uid": "155",
+        "total": 320.76000000000005
+      },
+      {
+        "name": "Red Bull Energy Drink",
+        "quantity": 3,
+        "rate": 109,
+        "measurementType": "Count-Based",
+        "uid": "051",
+        "total": 327
+      },
+      {
+        "name": "Heritage Milk",
+        "quantity": 12,
+        "rate": 140,
+        "measurementType": "Count-Based",
+        "uid": "068",
+        "total": 1680
+      },
+      {
+        "name": "Anil Sambar Powder",
+        "quantity": "1.84",
+        "rate": 132,
+        "measurementType": "Weight-Based",
+        "uid": "142",
+        "total": 242.88000000000002
+      }
+    ],
+    "customer": {
+      "name": "Uma Malathi",
+      "uniqueId": "C@ID8631"
+    },
+    "grandTotal": 2570.6400000000003,
+    "status": "Unpaid",
+    "billId": "08022025Shop183209-6658",
+    "date": "08/02/2025",
+    "time": "18:32:09",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fc8"
+    },
+    "productSaled": [
+      {
+        "name": "Amul Ghee",
+        "quantity": "0.54",
+        "rate": 185,
+        "measurementType": "Volume-Based",
+        "uid": "158",
+        "total": 99.9
+      },
+      {
+        "name": "Anil Rasam Powder",
+        "quantity": "7.60",
+        "rate": 195,
+        "measurementType": "Weight-Based",
+        "uid": "148",
+        "total": 1482
+      },
+      {
+        "name": "Parachute Coconut Oil",
+        "quantity": "1.77",
+        "rate": 97,
+        "measurementType": "Weight-Based",
+        "uid": "128",
+        "total": 171.69
+      }
+    ],
+    "customer": {
+      "name": "Pooja Elango",
+      "uniqueId": "C@ID3022"
+    },
+    "grandTotal": 1753.5900000000001,
+    "status": "Paid",
+    "billId": "07022025Shop042658-7857",
+    "date": "07/02/2025",
+    "time": "04:26:58",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fc7"
+    },
+    "productSaled": [
+      {
+        "name": "Hatsun Milk",
+        "quantity": "3.20",
+        "rate": 162,
+        "measurementType": "Volume-Based",
+        "uid": "168",
+        "total": 518.4
+      },
+      {
+        "name": "Dabur Honey",
+        "quantity": "6.28",
+        "rate": 71,
+        "measurementType": "Weight-Based",
+        "uid": "118",
+        "total": 445.88
+      },
+      {
+        "name": "Complan Health Drink",
+        "quantity": 2,
+        "rate": 163,
+        "measurementType": "Count-Based",
+        "uid": "027",
+        "total": 326
+      },
+      {
+        "name": "Kothasari Masala",
+        "quantity": "0.68",
+        "rate": 133,
+        "measurementType": "Weight-Based",
+        "uid": "135",
+        "total": 90.44000000000001
+      },
+      {
+        "name": "Anil Curry Powder",
+        "quantity": "6.25",
+        "rate": 118,
+        "measurementType": "Weight-Based",
+        "uid": "154",
+        "total": 737.5
+      }
+    ],
+    "customer": {
+      "name": "Dhanya Jayaram",
+      "uniqueId": "C@ID1214"
+    },
+    "grandTotal": 2118.2200000000003,
+    "status": "Paid",
+    "billId": "07022025Shop192446-6217",
+    "date": "07/02/2025",
+    "time": "19:24:46",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fc6"
+    },
+    "productSaled": [
+      {
+        "name": "Aavin Milk",
+        "quantity": "2.10",
+        "rate": 135,
+        "measurementType": "Volume-Based",
+        "uid": "167",
+        "total": 283.5
+      }
+    ],
+    "customer": {
+      "name": "Raghu Kalyani",
+      "uniqueId": "C@ID5346"
+    },
+    "grandTotal": 283.5,
+    "status": "Unpaid",
+    "billId": "06022025Shop013659-1258",
+    "date": "06/02/2025",
+    "time": "01:36:59",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fc5"
+    },
+    "productSaled": [
+      {
+        "name": "Engine Mustard Oil",
+        "quantity": "4.37",
+        "rate": 120,
+        "measurementType": "Volume-Based",
+        "uid": "165",
+        "total": 524.4
+      },
+      {
+        "name": "Frooti Juice",
+        "quantity": 14,
+        "rate": 80,
+        "measurementType": "Count-Based",
+        "uid": "038",
+        "total": 1120
+      }
+    ],
+    "customer": {
+      "name": "Tharani Karthik",
+      "uniqueId": "C@ID5913"
+    },
+    "grandTotal": 1644.4,
+    "status": "Paid",
+    "billId": "06022025Shop170008-8817",
+    "date": "06/02/2025",
+    "time": "17:00:08",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fc4"
+    },
+    "productSaled": [
+      {
+        "name": "Kissan Jam",
+        "quantity": 10,
+        "rate": 184,
+        "measurementType": "Count-Based",
+        "uid": "032",
+        "total": 1840
+      },
+      {
+        "name": "Amul Ghee",
+        "quantity": "2.20",
+        "rate": 76,
+        "measurementType": "Weight-Based",
+        "uid": "120",
+        "total": 167.20000000000002
+      }
+    ],
+    "customer": {
+      "name": "Kavitha Bhavani",
+      "uniqueId": "C@ID2595"
+    },
+    "grandTotal": 2007.2,
+    "status": "Paid",
+    "billId": "05022025Shop095107-8829",
+    "date": "05/02/2025",
+    "time": "09:51:07",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fc3"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Butter",
+        "quantity": 8,
+        "rate": 178,
+        "measurementType": "Count-Based",
+        "uid": "092",
+        "total": 1424
+      },
+      {
+        "name": "Nandini Ghee",
+        "quantity": "1.51",
+        "rate": 83,
+        "measurementType": "Weight-Based",
+        "uid": "122",
+        "total": 125.33
+      },
+      {
+        "name": "Mother Dairy Cheese",
+        "quantity": 18,
+        "rate": 55,
+        "measurementType": "Count-Based",
+        "uid": "095",
+        "total": 990
+      },
+      {
+        "name": "Saffola Oil",
+        "quantity": "7.53",
+        "rate": 161,
+        "measurementType": "Weight-Based",
+        "uid": "127",
+        "total": 1212.33
+      }
+    ],
+    "customer": {
+      "name": "Karthik Jeevan",
+      "uniqueId": "C@ID5726"
+    },
+    "grandTotal": 3751.66,
+    "status": "Paid",
+    "billId": "05022025Shop154417-9884",
+    "date": "05/02/2025",
+    "time": "15:44:17",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fc2"
+    },
+    "productSaled": [
+      {
+        "name": "Amul Milk",
+        "quantity": "5.47",
+        "rate": 154,
+        "measurementType": "Volume-Based",
+        "uid": "156",
+        "total": 842.38
+      },
+      {
+        "name": "Engine Mustard Oil",
+        "quantity": "6.28",
+        "rate": 93,
+        "measurementType": "Weight-Based",
+        "uid": "129",
+        "total": 584.0400000000001
+      },
+      {
+        "name": "Hatsun Milk",
+        "quantity": "3.62",
+        "rate": 110,
+        "measurementType": "Volume-Based",
+        "uid": "168",
+        "total": 398.2
+      },
+      {
+        "name": "Eastern Masala",
+        "quantity": "10.40",
+        "rate": 135,
+        "measurementType": "Weight-Based",
+        "uid": "133",
+        "total": 1404
+      },
+      {
+        "name": "Mirinda Soft Drink",
+        "quantity": 14,
+        "rate": 170,
+        "measurementType": "Count-Based",
+        "uid": "046",
+        "total": 2380
+      }
+    ],
+    "customer": {
+      "name": "Bhavani Ilango",
+      "uniqueId": "C@ID5547"
+    },
+    "grandTotal": 5608.62,
+    "status": "Paid",
+    "billId": "04022025Shop103137-1358",
+    "date": "04/02/2025",
+    "time": "10:31:37",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fc1"
+    },
+    "productSaled": [
+      {
+        "name": "Nandini Ghee",
+        "quantity": "2.84",
+        "rate": 70,
+        "measurementType": "Weight-Based",
+        "uid": "122",
+        "total": 198.79999999999998
+      },
+      {
+        "name": "Mirinda Soft Drink",
+        "quantity": 11,
+        "rate": 51,
+        "measurementType": "Count-Based",
+        "uid": "046",
+        "total": 561
+      },
+      {
+        "name": "Amul Ghee",
+        "quantity": "3.88",
+        "rate": 72,
+        "measurementType": "Volume-Based",
+        "uid": "158",
+        "total": 279.36
+      },
+      {
+        "name": "Milky Mist Ghee",
+        "quantity": "2.11",
+        "rate": 167,
+        "measurementType": "Weight-Based",
+        "uid": "125",
+        "total": 352.37
+      },
+      {
+        "name": "Aashirvaad Wheat Flour",
+        "quantity": "5.37",
+        "rate": 88,
+        "measurementType": "Weight-Based",
+        "uid": "107",
+        "total": 472.56
+      }
+    ],
+    "customer": {
+      "name": "Harini Dinesh",
+      "uniqueId": "C@ID4276"
+    },
+    "grandTotal": 1864.0899999999997,
+    "status": "Paid",
+    "billId": "04022025Shop154749-3259",
+    "date": "04/02/2025",
+    "time": "15:47:49",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fc0"
+    },
+    "productSaled": [
+      {
+        "name": "Kothasari Rasam Powder",
+        "quantity": "1.80",
+        "rate": 112,
+        "measurementType": "Weight-Based",
+        "uid": "147",
+        "total": 201.6
+      },
+      {
+        "name": "Tata Salt",
+        "quantity": "7.45",
+        "rate": 81,
+        "measurementType": "Weight-Based",
+        "uid": "111",
+        "total": 603.45
+      }
+    ],
+    "customer": {
+      "name": "Nithin Dinesh",
+      "uniqueId": "C@ID2970"
+    },
+    "grandTotal": 805.0500000000001,
+    "status": "Paid",
+    "billId": "03022025Shop214315-5361",
+    "date": "03/02/2025",
+    "time": "21:43:15",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fbf"
+    },
+    "productSaled": [
+      {
+        "name": "Amul Paneer",
+        "quantity": "1.73",
+        "rate": 80,
+        "measurementType": "Volume-Based",
+        "uid": "161",
+        "total": 138.4
+      },
+      {
+        "name": "Eastern Masala",
+        "quantity": "4.98",
+        "rate": 196,
+        "measurementType": "Weight-Based",
+        "uid": "133",
+        "total": 976.08
+      },
+      {
+        "name": "AIMTC Matchbox",
+        "quantity": 3,
+        "rate": 191,
+        "measurementType": "Count-Based",
+        "uid": "003",
+        "total": 573
+      }
+    ],
+    "customer": {
+      "name": "Nivedha Lakshana",
+      "uniqueId": "C@ID8467"
+    },
+    "grandTotal": 1687.48,
+    "status": "Paid",
+    "billId": "03022025Shop021710-9825",
+    "date": "03/02/2025",
+    "time": "02:17:10",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fbe"
+    },
+    "productSaled": [
+      {
+        "name": "Tata Salt",
+        "quantity": "8.50",
+        "rate": 134,
+        "measurementType": "Weight-Based",
+        "uid": "111",
+        "total": 1139
+      },
+      {
+        "name": "Engine Mustard Oil",
+        "quantity": "5.45",
+        "rate": 63,
+        "measurementType": "Weight-Based",
+        "uid": "129",
+        "total": 343.35
+      },
+      {
+        "name": "Kothasari Rasam Powder",
+        "quantity": "1.09",
+        "rate": 74,
+        "measurementType": "Weight-Based",
+        "uid": "147",
+        "total": 80.66000000000001
+      }
+    ],
+    "customer": {
+      "name": "Lokesh Ila",
+      "uniqueId": "C@ID3785"
+    },
+    "grandTotal": 1563.01,
+    "status": "Paid",
+    "billId": "02022025Shop201229-8707",
+    "date": "02/02/2025",
+    "time": "20:12:29",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fbd"
+    },
+    "productSaled": [
+      {
+        "name": "Engine Mustard Oil",
+        "quantity": "3.28",
+        "rate": 176,
+        "measurementType": "Weight-Based",
+        "uid": "129",
+        "total": 577.28
+      },
+      {
+        "name": "Milky Mist Ghee",
+        "quantity": "4.42",
+        "rate": 98,
+        "measurementType": "Volume-Based",
+        "uid": "172",
+        "total": 433.15999999999997
+      },
+      {
+        "name": "Aachi Curry Powder",
+        "quantity": "0.83",
+        "rate": 185,
+        "measurementType": "Weight-Based",
+        "uid": "150",
+        "total": 153.54999999999998
+      },
+      {
+        "name": "Idhayam Gingelly Oil",
+        "quantity": "1.07",
+        "rate": 154,
+        "measurementType": "Volume-Based",
+        "uid": "166",
+        "total": 164.78
+      },
+      {
+        "name": "Milky Mist Paneer",
+        "quantity": "5.07",
+        "rate": 190,
+        "measurementType": "Volume-Based",
+        "uid": "169",
+        "total": 963.3000000000001
+      }
+    ],
+    "customer": {
+      "name": "Kavya Kavya",
+      "uniqueId": "C@ID1248"
+    },
+    "grandTotal": 2292.07,
+    "status": "Unpaid",
+    "billId": "02022025Shop173039-8269",
+    "date": "02/02/2025",
+    "time": "17:30:39",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fbc"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Butter",
+        "quantity": "0.70",
+        "rate": 146,
+        "measurementType": "Volume-Based",
+        "uid": "171",
+        "total": 102.19999999999999
+      },
+      {
+        "name": "Milky Mist Yogurt",
+        "quantity": "4.32",
+        "rate": 196,
+        "measurementType": "Volume-Based",
+        "uid": "173",
+        "total": 846.72
+      },
+      {
+        "name": "Hatsun Butter",
+        "quantity": 4,
+        "rate": 144,
+        "measurementType": "Count-Based",
+        "uid": "091",
+        "total": 576
+      }
+    ],
+    "customer": {
+      "name": "Ilango Geetha",
+      "uniqueId": "C@ID2849"
+    },
+    "grandTotal": 1524.92,
+    "status": "Paid",
+    "billId": "01022025Shop061702-1076",
+    "date": "01/02/2025",
+    "time": "06:17:02",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fbb"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Ice Cream",
+        "quantity": "2.36",
+        "rate": 60,
+        "measurementType": "Volume-Based",
+        "uid": "175",
+        "total": 141.6
+      },
+      {
+        "name": "Himalayan Water",
+        "quantity": 10,
+        "rate": 124,
+        "measurementType": "Count-Based",
+        "uid": "057",
+        "total": 1240
+      },
+      {
+        "name": "Britannia Butter",
+        "quantity": 3,
+        "rate": 162,
+        "measurementType": "Count-Based",
+        "uid": "088",
+        "total": 486
+      }
+    ],
+    "customer": {
+      "name": "Nivedha Yogesh",
+      "uniqueId": "C@ID7776"
+    },
+    "grandTotal": 1867.6,
+    "status": "Paid",
+    "billId": "01022025Shop225956-8303",
+    "date": "01/02/2025",
+    "time": "22:59:56",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fba"
+    },
+    "productSaled": [
+      {
+        "name": "Sakthi Curry Powder",
+        "quantity": "3.89",
+        "rate": 177,
+        "measurementType": "Weight-Based",
+        "uid": "149",
+        "total": 688.53
+      },
+      {
+        "name": "Idhayam Gingelly Oil",
+        "quantity": "8.68",
+        "rate": 50,
+        "measurementType": "Weight-Based",
+        "uid": "130",
+        "total": 434
+      }
+    ],
+    "customer": {
+      "name": "Lakshmi Latha",
+      "uniqueId": "C@ID9568"
+    },
+    "grandTotal": 1122.53,
+    "status": "Paid",
+    "billId": "31012025Shop084603-1158",
+    "date": "31/01/2025",
+    "time": "08:46:03",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fb9"
+    },
+    "productSaled": [
+      {
+        "name": "Pepsi Soft Drink",
+        "quantity": 10,
+        "rate": 125,
+        "measurementType": "Count-Based",
+        "uid": "044",
+        "total": 1250
+      }
+    ],
+    "customer": {
+      "name": "Jothi Nandhini",
+      "uniqueId": "C@ID6999"
+    },
+    "grandTotal": 1250,
+    "status": "Unpaid",
+    "billId": "31012025Shop100713-6246",
+    "date": "31/01/2025",
+    "time": "10:07:13",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fb8"
+    },
+    "productSaled": [
+      {
+        "name": "Nandini Paneer",
+        "quantity": 19,
+        "rate": 144,
+        "measurementType": "Count-Based",
+        "uid": "102",
+        "total": 2736
+      }
+    ],
+    "customer": {
+      "name": "Eswari Bala",
+      "uniqueId": "C@ID9162"
+    },
+    "grandTotal": 2736,
+    "status": "Paid",
+    "billId": "30012025Shop011348-9974",
+    "date": "30/01/2025",
+    "time": "01:13:48",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fb7"
+    },
+    "productSaled": [
+      {
+        "name": "Kwality Walls Ice Cream",
+        "quantity": 12,
+        "rate": 173,
+        "measurementType": "Count-Based",
+        "uid": "077",
+        "total": 2076
+      },
+      {
+        "name": "Milky Mist Ice Cream",
+        "quantity": "4.68",
+        "rate": 95,
+        "measurementType": "Volume-Based",
+        "uid": "175",
+        "total": 444.59999999999997
+      }
+    ],
+    "customer": {
+      "name": "Gokul Balaji",
+      "uniqueId": "C@ID7919"
+    },
+    "grandTotal": 2520.6,
+    "status": "Paid",
+    "billId": "30012025Shop010119-1710",
+    "date": "30/01/2025",
+    "time": "01:01:19",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fb6"
+    },
+    "productSaled": [
+      {
+        "name": "Patanjali Aloe Vera Gel",
+        "quantity": 11,
+        "rate": 58,
+        "measurementType": "Count-Based",
+        "uid": "012",
+        "total": 638
+      },
+      {
+        "name": "Britannia Cheese Slices",
+        "quantity": 16,
+        "rate": 73,
+        "measurementType": "Count-Based",
+        "uid": "020",
+        "total": 1168
+      }
+    ],
+    "customer": {
+      "name": "Anjali Vignesh",
+      "uniqueId": "C@ID8193"
+    },
+    "grandTotal": 1806,
+    "status": "Paid",
+    "billId": "29012025Shop080328-6545",
+    "date": "29/01/2025",
+    "time": "08:03:28",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fb5"
+    },
+    "productSaled": [
+      {
+        "name": "Double Horse Masala",
+        "quantity": "8.89",
+        "rate": 198,
+        "measurementType": "Weight-Based",
+        "uid": "134",
+        "total": 1760.22
+      }
+    ],
+    "customer": {
+      "name": "Charulatha Hema",
+      "uniqueId": "C@ID4423"
+    },
+    "grandTotal": 1760.22,
+    "status": "Paid",
+    "billId": "29012025Shop060811-9208",
+    "date": "29/01/2025",
+    "time": "06:08:11",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fb4"
+    },
+    "productSaled": [
+      {
+        "name": "Mother Dairy Ghee",
+        "quantity": "2.84",
+        "rate": 70,
+        "measurementType": "Weight-Based",
+        "uid": "121",
+        "total": 198.79999999999998
+      },
+      {
+        "name": "Fortune Sunlite Oil",
+        "quantity": "2.22",
+        "rate": 63,
+        "measurementType": "Volume-Based",
+        "uid": "155",
+        "total": 139.86
+      },
+      {
+        "name": "Parle-G Biscuits",
+        "quantity": 1,
+        "rate": 195,
+        "measurementType": "Count-Based",
+        "uid": "002",
+        "total": 195
+      },
+      {
+        "name": "Horlicks Health Drink",
+        "quantity": 1,
+        "rate": 61,
+        "measurementType": "Count-Based",
+        "uid": "026",
+        "total": 61
+      }
+    ],
+    "customer": {
+      "name": "Gomathi Bhuvana",
+      "uniqueId": "C@ID1386"
+    },
+    "grandTotal": 594.66,
+    "status": "Paid",
+    "billId": "28012025Shop022143-3523",
+    "date": "28/01/2025",
+    "time": "02:21:43",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fb3"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Butter",
+        "quantity": "1.64",
+        "rate": 177,
+        "measurementType": "Volume-Based",
+        "uid": "171",
+        "total": 290.28
+      },
+      {
+        "name": "Nandini Milk",
+        "quantity": 12,
+        "rate": 68,
+        "measurementType": "Count-Based",
+        "uid": "065",
+        "total": 816
+      },
+      {
+        "name": "Kissan Jam",
+        "quantity": 1,
+        "rate": 137,
+        "measurementType": "Count-Based",
+        "uid": "032",
+        "total": 137
+      },
+      {
+        "name": "Hatsun Milk",
+        "quantity": "2.55",
+        "rate": 70,
+        "measurementType": "Volume-Based",
+        "uid": "168",
+        "total": 178.5
+      },
+      {
+        "name": "Saffola Oil",
+        "quantity": "9.97",
+        "rate": 120,
+        "measurementType": "Weight-Based",
+        "uid": "127",
+        "total": 1196.4
+      }
+    ],
+    "customer": {
+      "name": "Sathish Krishna",
+      "uniqueId": "C@ID6293"
+    },
+    "grandTotal": 2618.1800000000003,
+    "status": "Paid",
+    "billId": "28012025Shop010545-7004",
+    "date": "28/01/2025",
+    "time": "01:05:45",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fb2"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Buttermilk",
+        "quantity": "3.78",
+        "rate": 159,
+        "measurementType": "Volume-Based",
+        "uid": "174",
+        "total": 601.02
+      },
+      {
+        "name": "Milky Mist Cheese",
+        "quantity": "2.54",
+        "rate": 177,
+        "measurementType": "Volume-Based",
+        "uid": "170",
+        "total": 449.58
+      },
+      {
+        "name": "Cadbury Dairy Milk",
+        "quantity": 11,
+        "rate": 128,
+        "measurementType": "Count-Based",
+        "uid": "018",
+        "total": 1408
+      }
+    ],
+    "customer": {
+      "name": "Prasanth Abirami",
+      "uniqueId": "C@ID3622"
+    },
+    "grandTotal": 2458.6,
+    "status": "Paid",
+    "billId": "27012025Shop003556-4805",
+    "date": "27/01/2025",
+    "time": "00:35:56",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fb1"
+    },
+    "productSaled": [
+      {
+        "name": "Amul Taaza Milk",
+        "quantity": 2,
+        "rate": 70,
+        "measurementType": "Count-Based",
+        "uid": "061",
+        "total": 140
+      },
+      {
+        "name": "Aachi Curry Powder",
+        "quantity": "0.88",
+        "rate": 103,
+        "measurementType": "Weight-Based",
+        "uid": "150",
+        "total": 90.64
+      },
+      {
+        "name": "Dalda Ghee",
+        "quantity": "2.95",
+        "rate": 104,
+        "measurementType": "Weight-Based",
+        "uid": "119",
+        "total": 306.8
+      }
+    ],
+    "customer": {
+      "name": "Banu Elango",
+      "uniqueId": "C@ID7277"
+    },
+    "grandTotal": 537.44,
+    "status": "Paid",
+    "billId": "27012025Shop140537-3878",
+    "date": "27/01/2025",
+    "time": "14:05:37",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fb0"
+    },
+    "productSaled": [
+      {
+        "name": "Hatsun Milk",
+        "quantity": 14,
+        "rate": 59,
+        "measurementType": "Count-Based",
+        "uid": "064",
+        "total": 826
+      },
+      {
+        "name": "Aavin Butter",
+        "quantity": 5,
+        "rate": 138,
+        "measurementType": "Count-Based",
+        "uid": "090",
+        "total": 690
+      },
+      {
+        "name": "Tropicana Juice",
+        "quantity": 11,
+        "rate": 162,
+        "measurementType": "Count-Based",
+        "uid": "036",
+        "total": 1782
+      },
+      {
+        "name": "Baskin Robbins Ice Cream",
+        "quantity": 8,
+        "rate": 92,
+        "measurementType": "Count-Based",
+        "uid": "080",
+        "total": 736
+      }
+    ],
+    "customer": {
+      "name": "Mythili Ranjani",
+      "uniqueId": "C@ID2833"
+    },
+    "grandTotal": 4034,
+    "status": "Unpaid",
+    "billId": "26012025Shop205519-8280",
+    "date": "26/01/2025",
+    "time": "20:55:19",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2faf"
+    },
+    "productSaled": [
+      {
+        "name": "Maaza Juice",
+        "quantity": 9,
+        "rate": 147,
+        "measurementType": "Count-Based",
+        "uid": "039",
+        "total": 1323
+      },
+      {
+        "name": "Anil Rasam Powder",
+        "quantity": "9.56",
+        "rate": 133,
+        "measurementType": "Weight-Based",
+        "uid": "148",
+        "total": 1271.48
+      },
+      {
+        "name": "Amul Cheese",
+        "quantity": "0.92",
+        "rate": 111,
+        "measurementType": "Volume-Based",
+        "uid": "160",
+        "total": 102.12
+      },
+      {
+        "name": "Hatsun Ghee",
+        "quantity": "2.86",
+        "rate": 112,
+        "measurementType": "Weight-Based",
+        "uid": "124",
+        "total": 320.32
+      }
+    ],
+    "customer": {
+      "name": "Nithin Rajalakshmi",
+      "uniqueId": "C@ID5910"
+    },
+    "grandTotal": 3016.92,
+    "status": "Unpaid",
+    "billId": "26012025Shop110805-6612",
+    "date": "26/01/2025",
+    "time": "11:08:05",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fae"
+    },
+    "productSaled": [
+      {
+        "name": "Pepsi Soft Drink",
+        "quantity": 10,
+        "rate": 154,
+        "measurementType": "Count-Based",
+        "uid": "044",
+        "total": 1540
+      },
+      {
+        "name": "Fortune Sunlite Oil",
+        "quantity": "2.03",
+        "rate": 82,
+        "measurementType": "Volume-Based",
+        "uid": "155",
+        "total": 166.45999999999998
+      }
+    ],
+    "customer": {
+      "name": "Vidhya Anitha",
+      "uniqueId": "C@ID2915"
+    },
+    "grandTotal": 1706.46,
+    "status": "Paid",
+    "billId": "25012025Shop101400-8708",
+    "date": "25/01/2025",
+    "time": "10:14:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fad"
+    },
+    "productSaled": [
+      {
+        "name": "Arun Ice Cream",
+        "quantity": 3,
+        "rate": 104,
+        "measurementType": "Count-Based",
+        "uid": "082",
+        "total": 312
+      },
+      {
+        "name": "Milky Mist Cheese",
+        "quantity": "1.12",
+        "rate": 104,
+        "measurementType": "Volume-Based",
+        "uid": "170",
+        "total": 116.48000000000002
+      },
+      {
+        "name": "Hatsun Ghee",
+        "quantity": "4.56",
+        "rate": 137,
+        "measurementType": "Weight-Based",
+        "uid": "124",
+        "total": 624.7199999999999
+      }
+    ],
+    "customer": {
+      "name": "Senthil Vasu",
+      "uniqueId": "C@ID5871"
+    },
+    "grandTotal": 1053.1999999999998,
+    "status": "Unpaid",
+    "billId": "25012025Shop135455-3516",
+    "date": "25/01/2025",
+    "time": "13:54:55",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fac"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Cheese",
+        "quantity": 4,
+        "rate": 101,
+        "measurementType": "Count-Based",
+        "uid": "099",
+        "total": 404
+      },
+      {
+        "name": "AIMTC Matchbox",
+        "quantity": 20,
+        "rate": 65,
+        "measurementType": "Count-Based",
+        "uid": "003",
+        "total": 1300
+      },
+      {
+        "name": "Anil Masala",
+        "quantity": "6.04",
+        "rate": 173,
+        "measurementType": "Weight-Based",
+        "uid": "136",
+        "total": 1044.92
+      },
+      {
+        "name": "Kurkure Snacks",
+        "quantity": 19,
+        "rate": 143,
+        "measurementType": "Count-Based",
+        "uid": "022",
+        "total": 2717
+      }
+    ],
+    "customer": {
+      "name": "Abirami Eswari",
+      "uniqueId": "C@ID7716"
+    },
+    "grandTotal": 5465.92,
+    "status": "Unpaid",
+    "billId": "24012025Shop164807-6230",
+    "date": "24/01/2025",
+    "time": "16:48:07",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fab"
+    },
+    "productSaled": [
+      {
+        "name": "Engine Mustard Oil",
+        "quantity": "0.55",
+        "rate": 190,
+        "measurementType": "Weight-Based",
+        "uid": "129",
+        "total": 104.50000000000001
+      },
+      {
+        "name": "Mother Dairy Paneer",
+        "quantity": 12,
+        "rate": 97,
+        "measurementType": "Count-Based",
+        "uid": "101",
+        "total": 1164
+      },
+      {
+        "name": "Hatsun Ghee",
+        "quantity": "8.40",
+        "rate": 149,
+        "measurementType": "Weight-Based",
+        "uid": "124",
+        "total": 1251.6000000000001
+      },
+      {
+        "name": "MDH Black Pepper Powder",
+        "quantity": "5.54",
+        "rate": 104,
+        "measurementType": "Weight-Based",
+        "uid": "112",
+        "total": 576.16
+      }
+    ],
+    "customer": {
+      "name": "Divya Prakash",
+      "uniqueId": "C@ID2984"
+    },
+    "grandTotal": 3096.26,
+    "status": "Paid",
+    "billId": "24012025Shop232408-7413",
+    "date": "24/01/2025",
+    "time": "23:24:08",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2faa"
+    },
+    "productSaled": [
+      {
+        "name": "Paper Boat Juice",
+        "quantity": 3,
+        "rate": 189,
+        "measurementType": "Count-Based",
+        "uid": "037",
+        "total": 567
+      },
+      {
+        "name": "Slice Juice",
+        "quantity": 4,
+        "rate": 157,
+        "measurementType": "Count-Based",
+        "uid": "041",
+        "total": 628
+      },
+      {
+        "name": "Surf Excel Detergent",
+        "quantity": 2,
+        "rate": 133,
+        "measurementType": "Count-Based",
+        "uid": "010",
+        "total": 266
+      },
+      {
+        "name": "Paper Boat Juice",
+        "quantity": 11,
+        "rate": 50,
+        "measurementType": "Count-Based",
+        "uid": "037",
+        "total": 550
+      }
+    ],
+    "customer": {
+      "name": "Mangai Thangamani",
+      "uniqueId": "C@ID9629"
+    },
+    "grandTotal": 2011,
+    "status": "Unpaid",
+    "billId": "23012025Shop053647-1501",
+    "date": "23/01/2025",
+    "time": "05:36:47",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fa9"
+    },
+    "productSaled": [
+      {
+        "name": "Lays Chips",
+        "quantity": 14,
+        "rate": 192,
+        "measurementType": "Count-Based",
+        "uid": "021",
+        "total": 2688
+      },
+      {
+        "name": "Britannia Butter",
+        "quantity": 14,
+        "rate": 182,
+        "measurementType": "Count-Based",
+        "uid": "088",
+        "total": 2548
+      },
+      {
+        "name": "Hatsun Milk",
+        "quantity": "3.49",
+        "rate": 115,
+        "measurementType": "Volume-Based",
+        "uid": "168",
+        "total": 401.35
+      }
+    ],
+    "customer": {
+      "name": "Gowri Rajalakshmi",
+      "uniqueId": "C@ID2835"
+    },
+    "grandTotal": 5637.35,
+    "status": "Paid",
+    "billId": "23012025Shop231326-6452",
+    "date": "23/01/2025",
+    "time": "23:13:26",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fa8"
+    },
+    "productSaled": [
+      {
+        "name": "Kothasari Curry Powder",
+        "quantity": "1.22",
+        "rate": 96,
+        "measurementType": "Weight-Based",
+        "uid": "153",
+        "total": 117.12
+      },
+      {
+        "name": "Amul Taaza Milk",
+        "quantity": 17,
+        "rate": 167,
+        "measurementType": "Count-Based",
+        "uid": "061",
+        "total": 2839
+      }
+    ],
+    "customer": {
+      "name": "Kanchana Ezhil",
+      "uniqueId": "C@ID2626"
+    },
+    "grandTotal": 2956.12,
+    "status": "Unpaid",
+    "billId": "22012025Shop073328-7188",
+    "date": "22/01/2025",
+    "time": "07:33:28",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fa7"
+    },
+    "productSaled": [
+      {
+        "name": "Boost Health Drink",
+        "quantity": 13,
+        "rate": 130,
+        "measurementType": "Count-Based",
+        "uid": "028",
+        "total": 1690
+      },
+      {
+        "name": "Nutella Hazelnut Spread",
+        "quantity": 9,
+        "rate": 78,
+        "measurementType": "Count-Based",
+        "uid": "019",
+        "total": 702
+      },
+      {
+        "name": "Coca-Cola Soft Drink",
+        "quantity": 10,
+        "rate": 111,
+        "measurementType": "Count-Based",
+        "uid": "043",
+        "total": 1110
+      },
+      {
+        "name": "Sakthi Sambar Powder",
+        "quantity": "9.29",
+        "rate": 161,
+        "measurementType": "Weight-Based",
+        "uid": "137",
+        "total": 1495.6899999999998
+      }
+    ],
+    "customer": {
+      "name": "Latha Eswari",
+      "uniqueId": "C@ID5368"
+    },
+    "grandTotal": 4997.69,
+    "status": "Paid",
+    "billId": "22012025Shop044217-1562",
+    "date": "22/01/2025",
+    "time": "04:42:17",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fa6"
+    },
+    "productSaled": [
+      {
+        "name": "Kissan Jam",
+        "quantity": 12,
+        "rate": 168,
+        "measurementType": "Count-Based",
+        "uid": "032",
+        "total": 2016
+      }
+    ],
+    "customer": {
+      "name": "Sindhu Manoj",
+      "uniqueId": "C@ID5115"
+    },
+    "grandTotal": 2016,
+    "status": "Paid",
+    "billId": "21012025Shop170352-6801",
+    "date": "21/01/2025",
+    "time": "17:03:52",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fa5"
+    },
+    "productSaled": [
+      {
+        "name": "Everest Turmeric Powder",
+        "quantity": "2.93",
+        "rate": 139,
+        "measurementType": "Weight-Based",
+        "uid": "110",
+        "total": 407.27000000000004
+      },
+      {
+        "name": "Hatsun Milk",
+        "quantity": 11,
+        "rate": 135,
+        "measurementType": "Count-Based",
+        "uid": "064",
+        "total": 1485
+      }
+    ],
+    "customer": {
+      "name": "Eshwari Malathi",
+      "uniqueId": "C@ID2976"
+    },
+    "grandTotal": 1892.27,
+    "status": "Paid",
+    "billId": "21012025Shop090324-6487",
+    "date": "21/01/2025",
+    "time": "09:03:24",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fa4"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Paneer",
+        "quantity": "3.24",
+        "rate": 59,
+        "measurementType": "Volume-Based",
+        "uid": "169",
+        "total": 191.16000000000003
+      },
+      {
+        "name": "Baskin Robbins Ice Cream",
+        "quantity": 2,
+        "rate": 109,
+        "measurementType": "Count-Based",
+        "uid": "080",
+        "total": 218
+      },
+      {
+        "name": "Coconut Milk (Real)",
+        "quantity": "4.81",
+        "rate": 156,
+        "measurementType": "Volume-Based",
+        "uid": "163",
+        "total": 750.3599999999999
+      },
+      {
+        "name": "Tata Sampann Toor Dal",
+        "quantity": "7.29",
+        "rate": 76,
+        "measurementType": "Weight-Based",
+        "uid": "109",
+        "total": 554.04
+      },
+      {
+        "name": "Milky Mist Butter",
+        "quantity": "3.98",
+        "rate": 68,
+        "measurementType": "Volume-Based",
+        "uid": "171",
+        "total": 270.64
+      }
+    ],
+    "customer": {
+      "name": "Ezhil Saravanan",
+      "uniqueId": "C@ID5302"
+    },
+    "grandTotal": 1984.1999999999998,
+    "status": "Paid",
+    "billId": "20012025Shop080643-6539",
+    "date": "20/01/2025",
+    "time": "08:06:43",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fa3"
+    },
+    "productSaled": [
+      {
+        "name": "Catch Cumin Powder",
+        "quantity": "4.20",
+        "rate": 101,
+        "measurementType": "Weight-Based",
+        "uid": "113",
+        "total": 424.20000000000005
+      },
+      {
+        "name": "Aachi Masala",
+        "quantity": "6.94",
+        "rate": 116,
+        "measurementType": "Weight-Based",
+        "uid": "132",
+        "total": 805.0400000000001
+      },
+      {
+        "name": "Milky Mist Paneer",
+        "quantity": "1.40",
+        "rate": 123,
+        "measurementType": "Volume-Based",
+        "uid": "169",
+        "total": 172.2
+      },
+      {
+        "name": "Amul Ghee",
+        "quantity": "2.08",
+        "rate": 190,
+        "measurementType": "Volume-Based",
+        "uid": "158",
+        "total": 395.2
+      }
+    ],
+    "customer": {
+      "name": "Chandru Ishwarya",
+      "uniqueId": "C@ID9718"
+    },
+    "grandTotal": 1796.6400000000003,
+    "status": "Paid",
+    "billId": "20012025Shop033710-3729",
+    "date": "20/01/2025",
+    "time": "03:37:10",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fa2"
+    },
+    "productSaled": [
+      {
+        "name": "Amul Paneer",
+        "quantity": "2.62",
+        "rate": 101,
+        "measurementType": "Volume-Based",
+        "uid": "161",
+        "total": 264.62
+      },
+      {
+        "name": "Idhayam Gingelly Oil",
+        "quantity": "2.51",
+        "rate": 81,
+        "measurementType": "Volume-Based",
+        "uid": "166",
+        "total": 203.30999999999997
+      },
+      {
+        "name": "Catch Cumin Powder",
+        "quantity": "2.70",
+        "rate": 121,
+        "measurementType": "Weight-Based",
+        "uid": "113",
+        "total": 326.70000000000005
+      },
+      {
+        "name": "Limca Soft Drink",
+        "quantity": 16,
+        "rate": 76,
+        "measurementType": "Count-Based",
+        "uid": "049",
+        "total": 1216
+      },
+      {
+        "name": "Milky Mist Ghee",
+        "quantity": "8.88",
+        "rate": 55,
+        "measurementType": "Weight-Based",
+        "uid": "125",
+        "total": 488.40000000000003
+      }
+    ],
+    "customer": {
+      "name": "Harini Jayaram",
+      "uniqueId": "C@ID8461"
+    },
+    "grandTotal": 2499.03,
+    "status": "Paid",
+    "billId": "19012025Shop014511-3679",
+    "date": "19/01/2025",
+    "time": "01:45:11",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fa1"
+    },
+    "productSaled": [
+      {
+        "name": "Idhayam Gingelly Oil",
+        "quantity": "1.07",
+        "rate": 57,
+        "measurementType": "Volume-Based",
+        "uid": "166",
+        "total": 60.99
+      },
+      {
+        "name": "Engine Mustard Oil",
+        "quantity": "1.04",
+        "rate": 159,
+        "measurementType": "Volume-Based",
+        "uid": "165",
+        "total": 165.36
+      },
+      {
+        "name": "Hatsun Milk",
+        "quantity": "1.97",
+        "rate": 179,
+        "measurementType": "Volume-Based",
+        "uid": "168",
+        "total": 352.63
+      }
+    ],
+    "customer": {
+      "name": "Rajalakshmi Rani",
+      "uniqueId": "C@ID5018"
+    },
+    "grandTotal": 578.98,
+    "status": "Paid",
+    "billId": "19012025Shop170545-6168",
+    "date": "19/01/2025",
+    "time": "17:05:45",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2fa0"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Paneer",
+        "quantity": 16,
+        "rate": 134,
+        "measurementType": "Count-Based",
+        "uid": "105",
+        "total": 2144
+      },
+      {
+        "name": "Dabur Curd",
+        "quantity": "2.53",
+        "rate": 192,
+        "measurementType": "Volume-Based",
+        "uid": "157",
+        "total": 485.76
+      },
+      {
+        "name": "Paper Boat Juice",
+        "quantity": 6,
+        "rate": 121,
+        "measurementType": "Count-Based",
+        "uid": "037",
+        "total": 726
+      }
+    ],
+    "customer": {
+      "name": "Uthra Raghu",
+      "uniqueId": "C@ID4218"
+    },
+    "grandTotal": 3355.76,
+    "status": "Paid",
+    "billId": "18012025Shop200548-7180",
+    "date": "18/01/2025",
+    "time": "20:05:48",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f9f"
+    },
+    "productSaled": [
+      {
+        "name": "Fortune Sunlite Oil",
+        "quantity": "4.32",
+        "rate": 127,
+        "measurementType": "Volume-Based",
+        "uid": "155",
+        "total": 548.64
+      },
+      {
+        "name": "Idhayam Gingelly Oil",
+        "quantity": "2.20",
+        "rate": 83,
+        "measurementType": "Volume-Based",
+        "uid": "166",
+        "total": 182.60000000000002
+      },
+      {
+        "name": "Himalaya Soap",
+        "quantity": 10,
+        "rate": 62,
+        "measurementType": "Count-Based",
+        "uid": "001",
+        "total": 620
+      },
+      {
+        "name": "Amul Cheese",
+        "quantity": 9,
+        "rate": 74,
+        "measurementType": "Count-Based",
+        "uid": "093",
+        "total": 666
+      },
+      {
+        "name": "Nestle Yogurt",
+        "quantity": "1.83",
+        "rate": 129,
+        "measurementType": "Volume-Based",
+        "uid": "162",
+        "total": 236.07000000000002
+      }
+    ],
+    "customer": {
+      "name": "Usha Chandrika",
+      "uniqueId": "C@ID4860"
+    },
+    "grandTotal": 2253.31,
+    "status": "Paid",
+    "billId": "18012025Shop211100-7847",
+    "date": "18/01/2025",
+    "time": "21:11:00",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f9e"
+    },
+    "productSaled": [
+      {
+        "name": "Amul Butter",
+        "quantity": 7,
+        "rate": 50,
+        "measurementType": "Count-Based",
+        "uid": "086",
+        "total": 350
+      },
+      {
+        "name": "Monster Energy Drink",
+        "quantity": 14,
+        "rate": 161,
+        "measurementType": "Count-Based",
+        "uid": "052",
+        "total": 2254
+      },
+      {
+        "name": "Himalayan Water",
+        "quantity": 6,
+        "rate": 64,
+        "measurementType": "Count-Based",
+        "uid": "057",
+        "total": 384
+      },
+      {
+        "name": "Milky Mist Yogurt",
+        "quantity": "2.51",
+        "rate": 63,
+        "measurementType": "Volume-Based",
+        "uid": "173",
+        "total": 158.13
+      }
+    ],
+    "customer": {
+      "name": "Vidhya Geetha",
+      "uniqueId": "C@ID2916"
+    },
+    "grandTotal": 3146.13,
+    "status": "Paid",
+    "billId": "17012025Shop215645-8180",
+    "date": "17/01/2025",
+    "time": "21:56:45",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f9d"
+    },
+    "productSaled": [
+      {
+        "name": "Fortune Sunlite Oil",
+        "quantity": "5.83",
+        "rate": 67,
+        "measurementType": "Weight-Based",
+        "uid": "126",
+        "total": 390.61
+      },
+      {
+        "name": "Amul Paneer",
+        "quantity": "2.73",
+        "rate": 84,
+        "measurementType": "Volume-Based",
+        "uid": "161",
+        "total": 229.32
+      },
+      {
+        "name": "Eastern Sambar Powder",
+        "quantity": "1.32",
+        "rate": 157,
+        "measurementType": "Weight-Based",
+        "uid": "139",
+        "total": 207.24
+      },
+      {
+        "name": "Amul Lassi",
+        "quantity": 3,
+        "rate": 51,
+        "measurementType": "Count-Based",
+        "uid": "058",
+        "total": 153
+      }
+    ],
+    "customer": {
+      "name": "Lakshman Ganesh",
+      "uniqueId": "C@ID7079"
+    },
+    "grandTotal": 980.1700000000001,
+    "status": "Unpaid",
+    "billId": "17012025Shop133325-9712",
+    "date": "17/01/2025",
+    "time": "13:33:25",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f9c"
+    },
+    "productSaled": [
+      {
+        "name": "Heritage Milk",
+        "quantity": 12,
+        "rate": 50,
+        "measurementType": "Count-Based",
+        "uid": "068",
+        "total": 600
+      },
+      {
+        "name": "Amul Milk",
+        "quantity": "0.96",
+        "rate": 81,
+        "measurementType": "Volume-Based",
+        "uid": "156",
+        "total": 77.75999999999999
+      },
+      {
+        "name": "Engine Mustard Oil",
+        "quantity": "2.42",
+        "rate": 85,
+        "measurementType": "Volume-Based",
+        "uid": "165",
+        "total": 205.7
+      },
+      {
+        "name": "Milky Mist Ice Cream",
+        "quantity": "4.71",
+        "rate": 99,
+        "measurementType": "Volume-Based",
+        "uid": "175",
+        "total": 466.29
+      }
+    ],
+    "customer": {
+      "name": "Udhayan Ezhil",
+      "uniqueId": "C@ID1006"
+    },
+    "grandTotal": 1349.75,
+    "status": "Paid",
+    "billId": "16012025Shop020332-7546",
+    "date": "16/01/2025",
+    "time": "02:03:32",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f9b"
+    },
+    "productSaled": [
+      {
+        "name": "Coconut Milk (Real)",
+        "quantity": "5.05",
+        "rate": 62,
+        "measurementType": "Volume-Based",
+        "uid": "163",
+        "total": 313.09999999999997
+      },
+      {
+        "name": "Kothasari Curry Powder",
+        "quantity": "10.11",
+        "rate": 174,
+        "measurementType": "Weight-Based",
+        "uid": "153",
+        "total": 1759.1399999999999
+      },
+      {
+        "name": "Milky Mist Buttermilk",
+        "quantity": "4.69",
+        "rate": 163,
+        "measurementType": "Volume-Based",
+        "uid": "174",
+        "total": 764.47
+      },
+      {
+        "name": "Tata Tea",
+        "quantity": 7,
+        "rate": 185,
+        "measurementType": "Count-Based",
+        "uid": "015",
+        "total": 1295
+      }
+    ],
+    "customer": {
+      "name": "Iniya Naveen",
+      "uniqueId": "C@ID1786"
+    },
+    "grandTotal": 4131.71,
+    "status": "Unpaid",
+    "billId": "16012025Shop115033-3119",
+    "date": "16/01/2025",
+    "time": "11:50:33",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f9a"
+    },
+    "productSaled": [
+      {
+        "name": "Madhur Sugar",
+        "quantity": "4.46",
+        "rate": 139,
+        "measurementType": "Weight-Based",
+        "uid": "108",
+        "total": 619.9399999999999
+      },
+      {
+        "name": "Milky Mist Butter",
+        "quantity": "2.25",
+        "rate": 88,
+        "measurementType": "Volume-Based",
+        "uid": "171",
+        "total": 198
+      },
+      {
+        "name": "Milky Mist Ice Cream",
+        "quantity": "3.26",
+        "rate": 64,
+        "measurementType": "Volume-Based",
+        "uid": "175",
+        "total": 208.64
+      }
+    ],
+    "customer": {
+      "name": "Lakshmi Vijaya",
+      "uniqueId": "C@ID4597"
+    },
+    "grandTotal": 1026.58,
+    "status": "Paid",
+    "billId": "15012025Shop033704-7867",
+    "date": "15/01/2025",
+    "time": "03:37:04",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f99"
+    },
+    "productSaled": [
+      {
+        "name": "Colgate Toothbrush",
+        "quantity": 5,
+        "rate": 153,
+        "measurementType": "Count-Based",
+        "uid": "006",
+        "total": 765
+      },
+      {
+        "name": "Eastern Rasam Powder",
+        "quantity": "6.63",
+        "rate": 158,
+        "measurementType": "Weight-Based",
+        "uid": "145",
+        "total": 1047.54
+      },
+      {
+        "name": "Knorr Soup",
+        "quantity": 4,
+        "rate": 68,
+        "measurementType": "Count-Based",
+        "uid": "031",
+        "total": 272
+      }
+    ],
+    "customer": {
+      "name": "Arjun Uma",
+      "uniqueId": "C@ID4149"
+    },
+    "grandTotal": 2084.54,
+    "status": "Paid",
+    "billId": "15012025Shop050720-6499",
+    "date": "15/01/2025",
+    "time": "05:07:20",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f98"
+    },
+    "productSaled": [
+      {
+        "name": "Anil Sambar Powder",
+        "quantity": "3.93",
+        "rate": 61,
+        "measurementType": "Weight-Based",
+        "uid": "142",
+        "total": 239.73000000000002
+      },
+      {
+        "name": "Everest Fenugreek Leaves",
+        "quantity": "9.51",
+        "rate": 163,
+        "measurementType": "Weight-Based",
+        "uid": "116",
+        "total": 1550.1299999999999
+      }
+    ],
+    "customer": {
+      "name": "Pavithra Chidambaram",
+      "uniqueId": "C@ID9904"
+    },
+    "grandTotal": 1789.86,
+    "status": "Paid",
+    "billId": "14012025Shop201059-5017",
+    "date": "14/01/2025",
+    "time": "20:10:59",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f97"
+    },
+    "productSaled": [
+      {
+        "name": "Nandini Ghee",
+        "quantity": "4.17",
+        "rate": 176,
+        "measurementType": "Weight-Based",
+        "uid": "122",
+        "total": 733.92
+      },
+      {
+        "name": "Milky Mist Cheese",
+        "quantity": "2.25",
+        "rate": 140,
+        "measurementType": "Volume-Based",
+        "uid": "170",
+        "total": 315
+      },
+      {
+        "name": "Milky Mist Yogurt",
+        "quantity": 20,
+        "rate": 161,
+        "measurementType": "Count-Based",
+        "uid": "073",
+        "total": 3220
+      },
+      {
+        "name": "Nandini Cheese",
+        "quantity": 16,
+        "rate": 102,
+        "measurementType": "Count-Based",
+        "uid": "096",
+        "total": 1632
+      }
+    ],
+    "customer": {
+      "name": "Ezhilarasi Ezhil",
+      "uniqueId": "C@ID9694"
+    },
+    "grandTotal": 5900.92,
+    "status": "Paid",
+    "billId": "14012025Shop123930-7087",
+    "date": "14/01/2025",
+    "time": "12:39:30",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f96"
+    },
+    "productSaled": [
+      {
+        "name": "Parachute Coconut Oil",
+        "quantity": "2.59",
+        "rate": 96,
+        "measurementType": "Volume-Based",
+        "uid": "164",
+        "total": 248.64
+      }
+    ],
+    "customer": {
+      "name": "Hema Divya",
+      "uniqueId": "C@ID4300"
+    },
+    "grandTotal": 248.64,
+    "status": "Paid",
+    "billId": "13012025Shop155543-5216",
+    "date": "13/01/2025",
+    "time": "15:55:43",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f95"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Cheese",
+        "quantity": "0.71",
+        "rate": 155,
+        "measurementType": "Volume-Based",
+        "uid": "170",
+        "total": 110.05
+      },
+      {
+        "name": "Dalda Ghee",
+        "quantity": "5.40",
+        "rate": 183,
+        "measurementType": "Weight-Based",
+        "uid": "119",
+        "total": 988.2
+      }
+    ],
+    "customer": {
+      "name": "Naveen Hema",
+      "uniqueId": "C@ID7141"
+    },
+    "grandTotal": 1098.25,
+    "status": "Unpaid",
+    "billId": "13012025Shop132350-9813",
+    "date": "13/01/2025",
+    "time": "13:23:50",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f94"
+    },
+    "productSaled": [
+      {
+        "name": "Engine Mustard Oil",
+        "quantity": "9.66",
+        "rate": 127,
+        "measurementType": "Weight-Based",
+        "uid": "129",
+        "total": 1226.82
+      },
+      {
+        "name": "Nandini Milk",
+        "quantity": 8,
+        "rate": 62,
+        "measurementType": "Count-Based",
+        "uid": "065",
+        "total": 496
+      }
+    ],
+    "customer": {
+      "name": "Aishwarya Mohan",
+      "uniqueId": "C@ID3334"
+    },
+    "grandTotal": 1722.82,
+    "status": "Paid",
+    "billId": "12012025Shop160241-9295",
+    "date": "12/01/2025",
+    "time": "16:02:41",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f93"
+    },
+    "productSaled": [
+      {
+        "name": "Fortune Sunlite Oil",
+        "quantity": "3.91",
+        "rate": 50,
+        "measurementType": "Volume-Based",
+        "uid": "155",
+        "total": 195.5
+      }
+    ],
+    "customer": {
+      "name": "Durai Brinda",
+      "uniqueId": "C@ID4985"
+    },
+    "grandTotal": 195.5,
+    "status": "Unpaid",
+    "billId": "12012025Shop071405-9287",
+    "date": "12/01/2025",
+    "time": "07:14:05",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f92"
+    },
+    "productSaled": [
+      {
+        "name": "Himalayan Water",
+        "quantity": 9,
+        "rate": 180,
+        "measurementType": "Count-Based",
+        "uid": "057",
+        "total": 1620
+      },
+      {
+        "name": "Horlicks Health Drink",
+        "quantity": 8,
+        "rate": 141,
+        "measurementType": "Count-Based",
+        "uid": "026",
+        "total": 1128
+      }
+    ],
+    "customer": {
+      "name": "Nisha Sindhu",
+      "uniqueId": "C@ID8178"
+    },
+    "grandTotal": 2748,
+    "status": "Paid",
+    "billId": "11012025Shop213833-1514",
+    "date": "11/01/2025",
+    "time": "21:38:33",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f91"
+    },
+    "productSaled": [
+      {
+        "name": "Amul Paneer",
+        "quantity": 19,
+        "rate": 156,
+        "measurementType": "Count-Based",
+        "uid": "100",
+        "total": 2964
+      },
+      {
+        "name": "Eastern Sambar Powder",
+        "quantity": "2.07",
+        "rate": 89,
+        "measurementType": "Weight-Based",
+        "uid": "139",
+        "total": 184.23
+      },
+      {
+        "name": "Kothasari Rasam Powder",
+        "quantity": "7.71",
+        "rate": 198,
+        "measurementType": "Weight-Based",
+        "uid": "147",
+        "total": 1526.58
+      }
+    ],
+    "customer": {
+      "name": "Umapathy Anjali",
+      "uniqueId": "C@ID3875"
+    },
+    "grandTotal": 4674.8099999999995,
+    "status": "Paid",
+    "billId": "11012025Shop064742-9290",
+    "date": "11/01/2025",
+    "time": "06:47:42",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f90"
+    },
+    "productSaled": [
+      {
+        "name": "Frooti Juice",
+        "quantity": 9,
+        "rate": 133,
+        "measurementType": "Count-Based",
+        "uid": "038",
+        "total": 1197
+      },
+      {
+        "name": "Sakthi Masala",
+        "quantity": "6.77",
+        "rate": 157,
+        "measurementType": "Weight-Based",
+        "uid": "131",
+        "total": 1062.8899999999999
+      }
+    ],
+    "customer": {
+      "name": "Vijay Logesh",
+      "uniqueId": "C@ID7955"
+    },
+    "grandTotal": 2259.89,
+    "status": "Paid",
+    "billId": "10012025Shop225445-2188",
+    "date": "10/01/2025",
+    "time": "22:54:45",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f8f"
+    },
+    "productSaled": [
+      {
+        "name": "Double Horse Sambar Powder",
+        "quantity": "4.38",
+        "rate": 93,
+        "measurementType": "Weight-Based",
+        "uid": "140",
+        "total": 407.34
+      },
+      {
+        "name": "Britannia Cheese",
+        "quantity": 9,
+        "rate": 169,
+        "measurementType": "Count-Based",
+        "uid": "094",
+        "total": 1521
+      },
+      {
+        "name": "Britannia Butter",
+        "quantity": 12,
+        "rate": 79,
+        "measurementType": "Count-Based",
+        "uid": "088",
+        "total": 948
+      },
+      {
+        "name": "Hatsun Butter",
+        "quantity": 2,
+        "rate": 150,
+        "measurementType": "Count-Based",
+        "uid": "091",
+        "total": 300
+      },
+      {
+        "name": "Milky Mist Butter",
+        "quantity": "4.35",
+        "rate": 122,
+        "measurementType": "Volume-Based",
+        "uid": "171",
+        "total": 530.6999999999999
+      }
+    ],
+    "customer": {
+      "name": "Eswar Jayaram",
+      "uniqueId": "C@ID7807"
+    },
+    "grandTotal": 3707.04,
+    "status": "Paid",
+    "billId": "10012025Shop105035-4182",
+    "date": "10/01/2025",
+    "time": "10:50:35",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f8e"
+    },
+    "productSaled": [
+      {
+        "name": "Parle-G Biscuits",
+        "quantity": 4,
+        "rate": 138,
+        "measurementType": "Count-Based",
+        "uid": "002",
+        "total": 552
+      },
+      {
+        "name": "Milky Mist Ghee",
+        "quantity": "1.40",
+        "rate": 104,
+        "measurementType": "Volume-Based",
+        "uid": "172",
+        "total": 145.6
+      },
+      {
+        "name": "Eastern Curry Powder",
+        "quantity": "3.94",
+        "rate": 127,
+        "measurementType": "Weight-Based",
+        "uid": "151",
+        "total": 500.38
+      }
+    ],
+    "customer": {
+      "name": "Prabhu Ramya",
+      "uniqueId": "C@ID1273"
+    },
+    "grandTotal": 1197.98,
+    "status": "Unpaid",
+    "billId": "09012025Shop205841-6480",
+    "date": "09/01/2025",
+    "time": "20:58:41",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f8d"
+    },
+    "productSaled": [
+      {
+        "name": "Baskin Robbins Ice Cream",
+        "quantity": 18,
+        "rate": 101,
+        "measurementType": "Count-Based",
+        "uid": "080",
+        "total": 1818
+      },
+      {
+        "name": "Aachi Curry Powder",
+        "quantity": "8.74",
+        "rate": 110,
+        "measurementType": "Weight-Based",
+        "uid": "150",
+        "total": 961.4
+      },
+      {
+        "name": "Milky Mist Cheese",
+        "quantity": "2.31",
+        "rate": 165,
+        "measurementType": "Volume-Based",
+        "uid": "170",
+        "total": 381.15000000000003
+      }
+    ],
+    "customer": {
+      "name": "Haritha Sangeetha",
+      "uniqueId": "C@ID2689"
+    },
+    "grandTotal": 3160.55,
+    "status": "Paid",
+    "billId": "09012025Shop072622-4207",
+    "date": "09/01/2025",
+    "time": "07:26:22",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f8c"
+    },
+    "productSaled": [
+      {
+        "name": "Amul Ghee",
+        "quantity": "7.19",
+        "rate": 105,
+        "measurementType": "Weight-Based",
+        "uid": "120",
+        "total": 754.95
+      },
+      {
+        "name": "Sakthi Curry Powder",
+        "quantity": "2.88",
+        "rate": 183,
+        "measurementType": "Weight-Based",
+        "uid": "149",
+        "total": 527.04
+      },
+      {
+        "name": "Dabur Honey",
+        "quantity": "2.62",
+        "rate": 122,
+        "measurementType": "Weight-Based",
+        "uid": "118",
+        "total": 319.64
+      }
+    ],
+    "customer": {
+      "name": "Padma Sindhu",
+      "uniqueId": "C@ID5697"
+    },
+    "grandTotal": 1601.63,
+    "status": "Paid",
+    "billId": "08012025Shop193655-2822",
+    "date": "08/01/2025",
+    "time": "19:36:55",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f8b"
+    },
+    "productSaled": [
+      {
+        "name": "Aquafina Water",
+        "quantity": 9,
+        "rate": 126,
+        "measurementType": "Count-Based",
+        "uid": "056",
+        "total": 1134
+      },
+      {
+        "name": "Dove Conditioner",
+        "quantity": 18,
+        "rate": 161,
+        "measurementType": "Count-Based",
+        "uid": "009",
+        "total": 2898
+      },
+      {
+        "name": "Fortune Sunlite Oil",
+        "quantity": "1.27",
+        "rate": 109,
+        "measurementType": "Weight-Based",
+        "uid": "126",
+        "total": 138.43
+      },
+      {
+        "name": "Milky Mist Yogurt",
+        "quantity": "1.22",
+        "rate": 57,
+        "measurementType": "Volume-Based",
+        "uid": "173",
+        "total": 69.53999999999999
+      },
+      {
+        "name": "Idhayam Gingelly Oil",
+        "quantity": "3.16",
+        "rate": 129,
+        "measurementType": "Weight-Based",
+        "uid": "130",
+        "total": 407.64000000000004
+      }
+    ],
+    "customer": {
+      "name": "Mangai Uma",
+      "uniqueId": "C@ID6529"
+    },
+    "grandTotal": 4647.610000000001,
+    "status": "Unpaid",
+    "billId": "08012025Shop233841-7260",
+    "date": "08/01/2025",
+    "time": "23:38:41",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f8a"
+    },
+    "productSaled": [
+      {
+        "name": "Parachute Coconut Oil",
+        "quantity": "4.45",
+        "rate": 73,
+        "measurementType": "Volume-Based",
+        "uid": "164",
+        "total": 324.85
+      },
+      {
+        "name": "Mother Dairy Butter",
+        "quantity": "2.95",
+        "rate": 57,
+        "measurementType": "Volume-Based",
+        "uid": "159",
+        "total": 168.15
+      },
+      {
+        "name": "Eastern Sambar Powder",
+        "quantity": "10.12",
+        "rate": 56,
+        "measurementType": "Weight-Based",
+        "uid": "139",
+        "total": 566.7199999999999
+      },
+      {
+        "name": "Milky Mist Yogurt",
+        "quantity": 1,
+        "rate": 77,
+        "measurementType": "Count-Based",
+        "uid": "073",
+        "total": 77
+      }
+    ],
+    "customer": {
+      "name": "Ishwar Geetha",
+      "uniqueId": "C@ID5590"
+    },
+    "grandTotal": 1136.7199999999998,
+    "status": "Paid",
+    "billId": "07012025Shop213451-5249",
+    "date": "07/01/2025",
+    "time": "21:34:51",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f89"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Buttermilk",
+        "quantity": "1.27",
+        "rate": 106,
+        "measurementType": "Volume-Based",
+        "uid": "174",
+        "total": 134.62
+      }
+    ],
+    "customer": {
+      "name": "Vidhya Ila",
+      "uniqueId": "C@ID5339"
+    },
+    "grandTotal": 134.62,
+    "status": "Unpaid",
+    "billId": "07012025Shop195621-4171",
+    "date": "07/01/2025",
+    "time": "19:56:21",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f88"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Yogurt",
+        "quantity": 19,
+        "rate": 162,
+        "measurementType": "Count-Based",
+        "uid": "073",
+        "total": 3078
+      }
+    ],
+    "customer": {
+      "name": "Nisha Vijay",
+      "uniqueId": "C@ID1836"
+    },
+    "grandTotal": 3078,
+    "status": "Paid",
+    "billId": "06012025Shop032819-6766",
+    "date": "06/01/2025",
+    "time": "03:28:19",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f87"
+    },
+    "productSaled": [
+      {
+        "name": "Gatorade Energy Drink",
+        "quantity": 13,
+        "rate": 180,
+        "measurementType": "Count-Based",
+        "uid": "053",
+        "total": 2340
+      },
+      {
+        "name": "Amul Paneer",
+        "quantity": "4.17",
+        "rate": 90,
+        "measurementType": "Volume-Based",
+        "uid": "161",
+        "total": 375.3
+      }
+    ],
+    "customer": {
+      "name": "Priya Chandran",
+      "uniqueId": "C@ID7746"
+    },
+    "grandTotal": 2715.3,
+    "status": "Paid",
+    "billId": "06012025Shop144713-5133",
+    "date": "06/01/2025",
+    "time": "14:47:13",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f86"
+    },
+    "productSaled": [
+      {
+        "name": "Aavin Milk",
+        "quantity": "3.56",
+        "rate": 89,
+        "measurementType": "Volume-Based",
+        "uid": "167",
+        "total": 316.84000000000003
+      },
+      {
+        "name": "Anil Sambar Powder",
+        "quantity": "5.27",
+        "rate": 166,
+        "measurementType": "Weight-Based",
+        "uid": "142",
+        "total": 874.8199999999999
+      },
+      {
+        "name": "Dalda Ghee",
+        "quantity": "2.48",
+        "rate": 63,
+        "measurementType": "Weight-Based",
+        "uid": "119",
+        "total": 156.24
+      },
+      {
+        "name": "MTR Sambar Powder",
+        "quantity": "3.14",
+        "rate": 101,
+        "measurementType": "Weight-Based",
+        "uid": "117",
+        "total": 317.14
+      },
+      {
+        "name": "Pepsi Soft Drink",
+        "quantity": 1,
+        "rate": 74,
+        "measurementType": "Count-Based",
+        "uid": "044",
+        "total": 74
+      }
+    ],
+    "customer": {
+      "name": "Elango Shanti",
+      "uniqueId": "C@ID5921"
+    },
+    "grandTotal": 1739.04,
+    "status": "Paid",
+    "billId": "05012025Shop085501-5026",
+    "date": "05/01/2025",
+    "time": "08:55:01",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f85"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Ghee",
+        "quantity": "2.29",
+        "rate": 120,
+        "measurementType": "Volume-Based",
+        "uid": "172",
+        "total": 274.8
+      },
+      {
+        "name": "Hatsun Milk",
+        "quantity": "3.27",
+        "rate": 147,
+        "measurementType": "Volume-Based",
+        "uid": "168",
+        "total": 480.69
+      },
+      {
+        "name": "Milky Mist Ghee",
+        "quantity": "3.72",
+        "rate": 87,
+        "measurementType": "Volume-Based",
+        "uid": "172",
+        "total": 323.64000000000004
+      },
+      {
+        "name": "Dove Conditioner",
+        "quantity": 15,
+        "rate": 118,
+        "measurementType": "Count-Based",
+        "uid": "009",
+        "total": 1770
+      },
+      {
+        "name": "Eastern Rasam Powder",
+        "quantity": "6.24",
+        "rate": 122,
+        "measurementType": "Weight-Based",
+        "uid": "145",
+        "total": 761.28
+      }
+    ],
+    "customer": {
+      "name": "Umapathy Vasu",
+      "uniqueId": "C@ID2881"
+    },
+    "grandTotal": 3610.41,
+    "status": "Unpaid",
+    "billId": "05012025Shop104908-5762",
+    "date": "05/01/2025",
+    "time": "10:49:08",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f84"
+    },
+    "productSaled": [
+      {
+        "name": "Milky Mist Ice Cream",
+        "quantity": "1.11",
+        "rate": 83,
+        "measurementType": "Volume-Based",
+        "uid": "175",
+        "total": 92.13000000000001
+      },
+      {
+        "name": "Aavin Milk",
+        "quantity": 5,
+        "rate": 175,
+        "measurementType": "Count-Based",
+        "uid": "063",
+        "total": 875
+      },
+      {
+        "name": "Engine Mustard Oil",
+        "quantity": "1.22",
+        "rate": 66,
+        "measurementType": "Volume-Based",
+        "uid": "165",
+        "total": 80.52
+      },
+      {
+        "name": "Milky Mist Ghee",
+        "quantity": "5.25",
+        "rate": 69,
+        "measurementType": "Volume-Based",
+        "uid": "172",
+        "total": 362.25
+      },
+      {
+        "name": "Anil Curry Powder",
+        "quantity": "9.18",
+        "rate": 58,
+        "measurementType": "Weight-Based",
+        "uid": "154",
+        "total": 532.4399999999999
+      }
+    ],
+    "customer": {
+      "name": "Eswar Saravanan",
+      "uniqueId": "C@ID6556"
+    },
+    "grandTotal": 1942.3400000000001,
+    "status": "Paid",
+    "billId": "04012025Shop140230-9789",
+    "date": "04/01/2025",
+    "time": "14:02:30",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67b8f43229d788c06dda2f83"
+    },
+    "productSaled": [
+      {
+        "name": "Tata Sampann Toor Dal",
+        "quantity": "7.67",
+        "rate": 153,
+        "measurementType": "Weight-Based",
+        "uid": "109",
+        "total": 1173.51
+      },
+      {
+        "name": "Saffola Oil",
+        "quantity": "4.28",
+        "rate": 65,
+        "measurementType": "Weight-Based",
+        "uid": "127",
+        "total": 278.2
+      },
+      {
+        "name": "Amul Ghee",
+        "quantity": "1.67",
+        "rate": 101,
+        "measurementType": "Volume-Based",
+        "uid": "158",
+        "total": 168.67
+      }
+    ],
+    "customer": {
+      "name": "Thilagavathi Anand",
+      "uniqueId": "C@ID1454"
+    },
+    "grandTotal": 1620.38,
+    "status": "Paid",
+    "billId": "04012025Shop110048-1143",
+    "date": "04/01/2025",
+    "time": "11:00:48",
+    "__v": 0
+  }
+]

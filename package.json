@@ -8,6 +8,8 @@
     "start": "ts-node api/server.ts",
     "generate-data": "ts-node scripts/generate-tamil-data.ts",
     "generate-docs": "ts-node scripts/generate-postman-collection.ts",
+    "trim-data": "ts-node scripts/trim-data.ts",
+    "generate-movies": "ts-node scripts/fetch-movies.ts",
     "generate": "ts-node scripts/generate-tamil-data.ts && ts-node scripts/generate-postman-collection.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
