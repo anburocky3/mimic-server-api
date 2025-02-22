@@ -1,5 +1,13 @@
 # Mimic API Server 🧑‍💻
 
+[![Stars](https://img.shields.io/github/stars/anburocky3/mimic-server-api)](https://github.com/anburocky3/mimic-server-api)
+[![Forks](https://img.shields.io/github/forks/anburocky3/mimic-server-api)](https://github.com/anburocky3/mimic-server-api)
+[![GitHub license](https://img.shields.io/github/license/anburocky3/mimic-server-api)](https://github.com/anburocky3/mimic-server-api)
+![Anbuselvan Rocky Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fanburocky3%2Fmimic-server-api)
+[![Support Server](https://img.shields.io/discord/742347296091537448.svg?label=Discord&logo=Discord&colorB=7289da)](https://bit.ly/cyberdudeDiscord)
+[![Cyberdude youtube](https://img.shields.io/youtube/channel/subscribers/UCteUj8bL1ppZcS70UCWrVfw?style=social)](https://bit.ly/cyberdudeYT)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/mimic-server-api)
+
 A lightweight mock API server that serves JSON data for development and testing purposes.
 
 #### ⭐ Live Preview: [https://mimic-server-api.vercel.app](https://mimic-server-api.vercel.app/) 🪴
@@ -75,3 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 1. [Yogeshwaran C](https://github.com/yogesh7401)
 2. [Mr.Grootx](https://github.com/MrGrootx)
+3. [SriBalan](https://github.com/sribalan98)
