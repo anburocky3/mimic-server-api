@@ -43,6 +43,12 @@ npm run generate-data # To generate data: db.json
 npm run generate-docs # To generate docs: Postman collections
 ```
 
+### Helper scripts
+
+```bash
+ts-node add-ids.ts ../data/videos.json # append id to each item
+```
+
 The server will start at `http://localhost:3000`
 
 ## API Documentation
