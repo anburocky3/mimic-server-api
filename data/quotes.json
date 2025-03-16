@@ -1,153 +1,191 @@
 [
   {
+    "id": 1,
     "author": "A.P.J. Abdul Kalam",
     "quote": "You have to dream before your dreams can come true."
   },
   {
+    "id": 2,
     "author": "A.P.J. Abdul Kalam",
     "quote": "If you want to shine like a sun, first burn like a sun."
   },
   {
+    "id": 3,
     "author": "A.P.J. Abdul Kalam",
     "quote": "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."
   },
   {
+    "id": 4,
     "author": "Steve Jobs",
     "quote": "Your time is limited, so don't waste it living someone else's life."
   },
   {
+    "id": 5,
     "author": "Steve Jobs",
     "quote": "Innovation distinguishes between a leader and a follower."
   },
   {
+    "id": 6,
     "author": "Steve Jobs",
     "quote": "The people who are crazy enough to think they can change the world are the ones who do."
   },
   {
+    "id": 7,
     "author": "Nelson Mandela",
     "quote": "It always seems impossible until it's done."
   },
   {
+    "id": 8,
     "author": "Nelson Mandela",
     "quote": "Education is the most powerful weapon which you can use to change the world."
   },
   {
+    "id": 9,
     "author": "Mahatma Gandhi",
     "quote": "Be the change that you wish to see in the world."
   },
   {
+    "id": 10,
     "author": "Mahatma Gandhi",
     "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever."
   },
   {
+    "id": 11,
     "author": "Walt Disney",
     "quote": "All our dreams can come true if we have the courage to pursue them."
   },
   {
+    "id": 12,
     "author": "Walt Disney",
     "quote": "The way to get started is to quit talking and begin doing."
   },
   {
+    "id": 13,
     "author": "Rabindranath Tagore",
     "quote": "You can't cross the sea merely by standing and staring at the water."
   },
   {
+    "id": 14,
     "author": "Rabindranath Tagore",
     "quote": "The highest education is that which does not merely give us information but makes our life in harmony with all existence."
   },
   {
+    "id": 15,
     "author": "Swami Vivekananda",
     "quote": "Arise, awake, and stop not until the goal is reached."
   },
   {
+    "id": 16,
     "author": "Swami Vivekananda",
     "quote": "In a conflict between the heart and the brain, follow your heart."
   },
   {
+    "id": 17,
     "author": "Dr. B.R. Ambedkar",
     "quote": "Cultivation of mind should be the ultimate aim of human existence."
   },
   {
+    "id": 18,
     "author": "Dr. B.R. Ambedkar",
     "quote": "I measure the progress of a community by the degree of progress which women have achieved."
   },
   {
+    "id": 19,
     "author": "Kalpana Chawla",
     "quote": "The path from dreams to success does exist. It just has to be driven."
   },
   {
+    "id": 20,
     "author": "Kalpana Chawla",
     "quote": "You are never too old to set another goal or to dream a new dream."
   },
   {
+    "id": 21,
     "author": "Indira Gandhi",
     "quote": "You cannot shake hands with a clenched fist."
   },
   {
+    "id": 22,
     "author": "Indira Gandhi",
     "quote": "The power to question is the basis of all human progress."
   },
   {
+    "id": 23,
     "author": "Albert Einstein",
     "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving."
   },
   {
+    "id": 24,
     "author": "Albert Einstein",
     "quote": "Strive not to be a success, but rather to be of value."
   },
   {
+    "id": 25,
     "author": "Henry Ford",
     "quote": "Whether you think you can or you think you can't, you're right."
   },
   {
+    "id": 26,
     "author": "Henry Ford",
     "quote": "Failure is simply the opportunity to begin again, this time more intelligently."
   },
   {
+    "id": 27,
     "author": "Eleanor Roosevelt",
     "quote": "The future belongs to those who believe in the beauty of their dreams."
   },
   {
+    "id": 28,
     "author": "Eleanor Roosevelt",
     "quote": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face."
   },
   {
+    "id": 29,
     "author": "Confucius",
     "quote": "It does not matter how slowly you go as long as you do not stop."
   },
   {
+    "id": 30,
     "author": "Confucius",
     "quote": "Our greatest glory is not in never falling, but in rising every time we fall."
   },
   {
+    "id": 31,
     "author": "Martin Luther King Jr.",
     "quote": "I have a dream that one day this nation will rise up and live out the true meaning of its creed."
   },
   {
+    "id": 32,
     "author": "Martin Luther King Jr.",
     "quote": "The time is always right to do what is right."
   },
   {
+    "id": 33,
     "author": "Ralph Waldo Emerson",
     "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
   },
   {
+    "id": 34,
     "author": "Ralph Waldo Emerson",
     "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
   },
   {
+    "id": 35,
     "author": "Steve Jobs",
     "quote": "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance."
   },
   {
+    "id": 36,
     "author": "Steve Jobs",
     "quote": "The only way to do great work is to love what you do."
   },
   {
+    "id": 37,
     "author": "A.P.J. Abdul Kalam",
     "quote": "To succeed in your mission, you must have single-minded devotion to your goal."
   },
   {
+    "id": 38,
     "author": "A.P.J. Abdul Kalam",
     "quote": "Let us sacrifice our today so that our children can have a better tomorrow."
   }
